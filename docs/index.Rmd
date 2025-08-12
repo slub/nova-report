@@ -1,0 +1,27 @@
+---
+title: "Neuzugänge im SLUB Katalog"
+subtitle: "Nova Report"
+author: "Donatus Herre (SLUB Dresden)"
+pagetitle: "Nova Report :: SLUB Katalog"
+author-meta: "SLUB Dresden"
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+lang: "de-DE"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    mathjax: null
+    keep_md: false
+---
+
+```{r setup, include=F}
+knitr::opts_chunk$set(echo = FALSE, error = FALSE, message = FALSE, warning = FALSE)
+knitr::opts_knit$set(root.dir = "..")
+```
+
+# Datenpublikationen
+
+Zenodo Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/)
