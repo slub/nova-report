@@ -56,7 +56,7 @@ read_json_simple <- function(in_path) {
 ```{r utils-analysis}
 eval_values <- function(field) {
   field_stats <- table(unlist(field))
-  data.frame(value=names(field_stats), count=as.integer(field_stats))
+  data.frame(value = names(field_stats), count = as.integer(field_stats))
 }
 
 eval_date_values <- function(field) {
@@ -75,6 +75,12 @@ Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-
 
 ## Neuerwerbungen auf Titelebene (Lokalsystem)
 
+| Jahr | DOI                                                                | Version |
+|:----:|:------------------------------------------------------------------:|:-------:|
+| 2022 | [10.5281/zenodo.10179459](https://doi.org/10.5281/zenodo.10179459) | 1.1     |
+| 2023 | [10.5281/zenodo.10888494](https://doi.org/10.5281/zenodo.10888494) | 1.0     |
+| 2024 | [10.5281/zenodo.16385159](https://doi.org/10.5281/zenodo.16385159) | 1.0     |
+
 ```{r newitem-records}
 newitem24_records <- read_zenodo_jsonl_gz("https://zenodo.org/records/16385159/files/slub-nova-2024-new-item-act-date.jsonl.gz?download=1")
 newitem23_records <- read_zenodo_jsonl_gz("https://zenodo.org/records/10888494/files/slub-nova-2023-new-item-act-date.jsonl.gz?download=1")
@@ -84,7 +90,14 @@ newitem_records <- rbind(newitem23_records, newitem24_records)
 newitem_records_legacy <- rbind(newitem22_records, newitem23_records[, -2], newitem24_records[, -2])
 ```
 
-```{r plot-newitem-records}
+```{r newitem-records-eval}
 newitem_records_series <- eval_date_values(newitem_records_legacy$de14_new_item_act_date_mv)
-ggplot2::ggplot(newitem_records_series, ggplot2::aes(x=day, y=count)) + ggplot2::geom_col() + ggplot2::xlab("") + ggplot2::ylab("Anzahl Neuerwerbungen") + ggplot2::theme(axis.text.x=ggplot2::element_text(angle=60, hjust=1))
+```
+
+```{r newitem-records-plot}
+ggplot2::ggplot(newitem_records_series, ggplot2::aes(x = day, y = count)) +
+  ggplot2::geom_col() +
+  ggplot2::xlab("") +
+  ggplot2::ylab("Anzahl Neuerwerbungen") +
+  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
 ```
