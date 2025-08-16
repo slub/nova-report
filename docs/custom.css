@@ -7,6 +7,10 @@ body {
 }
 
 .subtitle {
+  color: #990000;
+}
+
+.date {
   color: #333;
 }
 
@@ -15,9 +19,15 @@ h1 {
 }
 
 h2, h3, h4, h5 {
-  color: #333;
+  color: #990000;
 }
 
 a {
-  color: #078078;
+  color: #0d4b58;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #990000;
+  text-decoration: none;
 }
