@@ -1,0 +1,23 @@
+body {
+  color: #333;
+}
+
+.title {
+  color: #333; /* #cc00; */
+}
+
+.subtitle {
+  color: #c00;
+}
+
+h1 {
+  color: #c00;
+}
+
+h2, h3, h4, h5 {
+  color: #333;
+}
+
+a {
+  color: #078078;
+}

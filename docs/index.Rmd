@@ -8,6 +8,7 @@ lang: "de-DE"
 output:
   html_document:
     theme: null
+    css: ["custom.css"]
     mathjax: null
     keep_md: false
 ---
