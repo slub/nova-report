@@ -42,7 +42,7 @@ read_json_simple <- function(in_path) {
 ## ----utils-analysis-----------------------------------------------------------
 eval_values <- function(field) {
   field_stats <- table(unlist(field))
-  data.frame(value=names(field_stats), count=as.integer(field_stats))
+  data.frame(value = names(field_stats), count = as.integer(field_stats))
 }
 
 eval_date_values <- function(field) {
@@ -64,7 +64,14 @@ newitem_records <- rbind(newitem23_records, newitem24_records)
 newitem_records_legacy <- rbind(newitem22_records, newitem23_records[, -2], newitem24_records[, -2])
 
 
-## ----plot-newitem-records-----------------------------------------------------
+## ----newitem-records-eval-----------------------------------------------------
 newitem_records_series <- eval_date_values(newitem_records_legacy$de14_new_item_act_date_mv)
-ggplot2::ggplot(newitem_records_series, ggplot2::aes(x=day, y=count)) + ggplot2::geom_col() + ggplot2::xlab("") + ggplot2::ylab("Anzahl Neuerwerbungen") + ggplot2::theme(axis.text.x=ggplot2::element_text(angle=60, hjust=1))
+
+
+## ----newitem-records-plot-----------------------------------------------------
+ggplot2::ggplot(newitem_records_series, ggplot2::aes(x = day, y = count)) +
+  ggplot2::geom_col() +
+  ggplot2::xlab("") +
+  ggplot2::ylab("Anzahl Neuerwerbungen") +
+  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
 
