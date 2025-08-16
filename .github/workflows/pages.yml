@@ -5,7 +5,7 @@ on:
     paths:
       - 'docs/**'
       - 'utils/render'
-      - '.github/workflows/pages.yaml'
+      - '.github/workflows/pages.yml'
       - 'renv.lock'
 
 name: pages
