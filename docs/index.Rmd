@@ -69,6 +69,8 @@ eval_date_values <- function(field) {
 }
 ```
 
+GitHub: [slub/nova-report](https://github.com/slub/nova-report)
+
 # Datenpublikationen via Zenodo
 
 Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-nova`)
@@ -77,9 +79,9 @@ Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-
 
 | Jahr | DOI                                                                | Version |
 |:----:|:------------------------------------------------------------------:|:-------:|
-| 2022 | [10.5281/zenodo.10179459](https://doi.org/10.5281/zenodo.10179459) | 1.1     |
-| 2023 | [10.5281/zenodo.10888494](https://doi.org/10.5281/zenodo.10888494) | 1.0     |
 | 2024 | [10.5281/zenodo.16385159](https://doi.org/10.5281/zenodo.16385159) | 1.0     |
+| 2023 | [10.5281/zenodo.10888494](https://doi.org/10.5281/zenodo.10888494) | 1.0     |
+| 2022 | [10.5281/zenodo.10179459](https://doi.org/10.5281/zenodo.10179459) | 1.1     |
 
 ```{r newitem-records}
 newitem24_records <- read_zenodo_jsonl_gz("https://zenodo.org/records/16385159/files/slub-nova-2024-new-item-act-date.jsonl.gz?download=1")
