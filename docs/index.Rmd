@@ -1,6 +1,6 @@
 ---
-title: "Neuzugänge im SLUB Katalog"
-subtitle: "Nova Report"
+title: "Nova Report"
+subtitle: "Neuzugänge im SLUB Katalog"
 pagetitle: "Nova Report :: SLUB Katalog"
 author-meta: "SLUB Dresden"
 date: "`r format(Sys.time(), '%Y-%m-%d')`"
