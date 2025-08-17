@@ -1,11 +1,13 @@
 body {
   color: #333;
+	font-family: 'VisSansBook', 'Segoe UI', sans-serif;
 }
 
 .title {
   color: #c00;
 }
 
+/*
 .subtitle {
   color: #990000;
 }
@@ -13,21 +15,22 @@ body {
 .date {
   color: #333;
 }
+*/
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight:		normal;
+	font-family: 'VisSansBold', 'Segoe UI', sans-serif;
+}
 
 h1 {
   color: #c00;
 }
 
-h2, h3, h4, h5 {
-  color: #990000;
-}
-
 a {
-  color: #0d4b58;
-  text-decoration: underline;
+	text-decoration: 	none;
+	color: 				#00afc8;
+	cursor: 			pointer;
 }
-
 a:hover {
-  color: #990000;
-  text-decoration: none;
+	text-decoration: 	underline;
 }

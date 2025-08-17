@@ -1,0 +1,3 @@
+[submodule "docs/libs/slub"]
+	path = docs/libs/slub
+	url = ../switchconfig.git
