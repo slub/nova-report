@@ -17,6 +17,7 @@ newitem_records <- rbind(newitem23_records, newitem24_records)
 newitem_records_legacy <- rbind(newitem22_records, newitem23_records[, -2], newitem24_records[, -2])
 
 newitem_records_series <- eval_date_values(newitem_records_legacy$de14_new_item_act_date_mv)
+readr::write_csv(newitem_records_series, "data-raw/newitem-records-series.csv")
 saveRDS(newitem_records_series, "data/newitem-records-series.RDS")
 
 # Libero LMS : DatePurchased
@@ -34,3 +35,17 @@ purchase23_subject_category <- read_zenodo_csv("https://zenodo.org/records/10888
 
 purchase_records <- rbind(purchase23_records, purchase24_records)
 purchase_records_legacy <- rbind(purchase22_records, purchase23_records[, -c(2, 3, 4, 8)], purchase24_records[, -c(2, 3, 4, 8)])
+
+purchase_acquisition_type <- unique(rbind(purchase22_acquisition_type, purchase23_acquisition_type, purchase24_acquisition_type))
+purchase_acquisition_type <- purchase_acquisition_type[with(purchase_acquisition_type, order(Code, Beschreibung)), ]
+readr::write_csv(purchase_acquisition_type, "data-raw/purchase-acquisition-type.csv")
+saveRDS(purchase_acquisition_type, "data/purchase-acquisition-type.RDS")
+
+purchase_subject_category <- unique(rbind(purchase24_subject_category, purchase23_subject_category))
+purchase_subject_category <- purchase_subject_category[with(purchase_subject_category, order(Code, Beschreibung)), ]
+readr::write_csv(purchase_subject_category, "data-raw/purchase-subject-category.csv")
+saveRDS(purchase_subject_category, "data/purchase-subject-category.RDS")
+
+purchase_records_series <- eval_date_values(purchase_records_legacy$de14_purchase_date_mv)
+readr::write_csv(purchase_records_series, "data-raw/purchase-records-series.csv")
+saveRDS(purchase_records_series, "data/purchase-records-series.RDS")
