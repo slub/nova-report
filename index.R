@@ -7,12 +7,12 @@ knitr::opts_knit$set(root.dir = "..")
 indexed_records_series <- readRDS("data/indexed-records-series.RDS")
 
 
-## ----indexed-records-plot, eval=F---------------------------------------------
-# ggplot2::ggplot(indexed_records_series, ggplot2::aes(x = day, y = count)) +
-#   ggplot2::geom_col() +
-#   ggplot2::xlab("Erstindexierungsdatum") +
-#   ggplot2::ylab("Anzahl Titel") +
-#   ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+## ----indexed-records-plot-----------------------------------------------------
+ggplot2::ggplot(indexed_records_series, ggplot2::aes(x = day, y = count)) +
+  ggplot2::geom_col() +
+  ggplot2::xlab("Erstindexierungsdatum") +
+  ggplot2::ylab("Anzahl Titel") +
+  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
 
 
 ## ----newitem-records-input----------------------------------------------------
