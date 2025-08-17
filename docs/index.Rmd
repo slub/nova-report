@@ -38,7 +38,7 @@ Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-
 indexed_records_series <- readRDS("data/indexed-records-series.RDS")
 ```
 
-```{r indexed-records-plot, eval=F}
+```{r indexed-records-plot}
 ggplot2::ggplot(indexed_records_series, ggplot2::aes(x = day, y = count)) +
   ggplot2::geom_col() +
   ggplot2::xlab("Erstindexierungsdatum") +
