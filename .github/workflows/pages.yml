@@ -3,6 +3,7 @@ on:
     branches:
       - main
     paths:
+      - 'data/**'
       - 'docs/**'
       - 'utils/render'
       - '.github/workflows/pages.yml'
