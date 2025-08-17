@@ -26,7 +26,15 @@ GitHub: [slub/nova-report](https://github.com/slub/nova-report)
 
 Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-nova`)
 
-## Neuerwerbungen auf Titelebene (Lokalsystem)
+## Erstindexierungen auf Titelebene (Suchserver)
+
+| Jahr | DOI                                                                | Version |
+|:----:|:------------------------------------------------------------------:|:-------:|
+| 2024 | [10.5281/zenodo.16881662](https://doi.org/10.5281/zenodo.16881662) | 1.2     |
+| 2023 | [10.5281/zenodo.16881739](https://doi.org/10.5281/zenodo.16881739) | 1.2     |
+| 2022 | [10.5281/zenodo.16858259](https://doi.org/10.5281/zenodo.16858259) | 1.2     |
+
+## Aktivierungen auf Titelebene (Lokalsystem)
 
 | Jahr | DOI                                                                | Version |
 |:----:|:------------------------------------------------------------------:|:-------:|
@@ -38,10 +46,18 @@ Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-
 newitem_records_series <- readRDS("data/newitem-records-series.RDS")
 ```
 
-```{r newitem-records-plot}
+```{r newitem-records-plot, eval=F}
 ggplot2::ggplot(newitem_records_series, ggplot2::aes(x = day, y = count)) +
   ggplot2::geom_col() +
   ggplot2::xlab("") +
   ggplot2::ylab("Anzahl Neuerwerbungen") +
   ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
 ```
+
+## Erwerbungen auf Exemplarebene (Lokalsystem)
+
+| Jahr | DOI                                                                | Version |
+|:----:|:------------------------------------------------------------------:|:-------:|
+| 2024 | [10.5281/zenodo.16385169](https://doi.org/10.5281/zenodo.16385169) | 1.0     |
+| 2023 | [10.5281/zenodo.10888524](https://doi.org/10.5281/zenodo.10888524) | 1.0     |
+| 2022 | [10.5281/zenodo.10251277](https://doi.org/10.5281/zenodo.10251277) | 1.1     |
