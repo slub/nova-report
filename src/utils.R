@@ -45,3 +45,11 @@ eval_date_values <- function(field) {
   field_df$day <- as.Date(field_df$day)
   field_df
 }
+
+eval_datetime_values <- function(field) {
+  field_df <- eval_values(field)
+  field_df[order(field_df$value), ]
+  names(field_df) <- c("day", "count")
+  field_df$day <- as.Date(field_df$day)
+  field_df
+}

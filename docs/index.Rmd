@@ -34,6 +34,18 @@ Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-
 | 2023 | [10.5281/zenodo.16881739](https://doi.org/10.5281/zenodo.16881739) | 1.2     |
 | 2022 | [10.5281/zenodo.16858259](https://doi.org/10.5281/zenodo.16858259) | 1.2     |
 
+```{r indexed-records-input}
+indexed_records_series <- readRDS("data/indexed-records-series.RDS")
+```
+
+```{r indexed-records-plot, eval=F}
+ggplot2::ggplot(indexed_records_series, ggplot2::aes(x = day, y = count)) +
+  ggplot2::geom_col() +
+  ggplot2::xlab("Erstindexierungsdatum") +
+  ggplot2::ylab("Anzahl Titel") +
+  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+```
+
 ## Aktivierungen auf Titelebene (Lokalsystem)
 
 | Jahr | DOI                                                                | Version |

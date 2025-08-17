@@ -7,6 +7,10 @@ indexed22_records <- read_zenodo_jsonl_gz_local("https://zenodo.org/records/1685
 indexed_records <- rbind(indexed22_records, indexed23_records, indexed24_records)
 indexed_records <- indexed_records[with(indexed_records, order(first_indexed, id)), ]
 
+indexed_records_series <- eval_datetime_values(indexed_records$first_indexed)
+readr::write_csv(indexed_records_series, "data-raw/indexed-records-series.csv")
+saveRDS(indexed_records_series, "data/indexed-records-series.RDS")
+
 # Libero LMS : NewItemActDate
 
 newitem24_records <- read_zenodo_jsonl_gz("https://zenodo.org/records/16385159/files/slub-nova-2024-new-item-act-date.jsonl.gz?download=1")
