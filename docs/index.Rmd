@@ -8,9 +8,11 @@ lang: "de-DE"
 output:
   html_document:
     theme: null
-    css: ["vendor/slub/webdesign-template/css/font.css", "custom.css"]
+    css: ["vendor/slub/webdesign-template/css/font.css", "assets/css/custom.css"]
     mathjax: null
     keep_md: false
+    includes:
+      after_body: assets/html/target.html
 ---
 
 ```{r setup, include=F}
