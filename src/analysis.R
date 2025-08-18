@@ -42,13 +42,13 @@ purchase_records_legacy <- rbind(purchase22_records, purchase23_records[, -c(2, 
 
 purchase_acquisition_type <- unique(rbind(purchase22_acquisition_type, purchase23_acquisition_type, purchase24_acquisition_type))
 purchase_acquisition_type <- purchase_acquisition_type[with(purchase_acquisition_type, order(Code, Beschreibung)), ]
-readr::write_csv(purchase_acquisition_type, "data-raw/purchase-acquisition-type.csv")
-saveRDS(purchase_acquisition_type, "data/purchase-acquisition-type.RDS")
+#readr::write_csv(purchase_acquisition_type, "data-raw/purchase-acquisition-type.csv")
+#saveRDS(purchase_acquisition_type, "data/purchase-acquisition-type.RDS")
 
 purchase_subject_category <- unique(rbind(purchase24_subject_category, purchase23_subject_category))
 purchase_subject_category <- purchase_subject_category[with(purchase_subject_category, order(Code, Beschreibung)), ]
-readr::write_csv(purchase_subject_category, "data-raw/purchase-subject-category.csv")
-saveRDS(purchase_subject_category, "data/purchase-subject-category.RDS")
+#readr::write_csv(purchase_subject_category, "data-raw/purchase-subject-category.csv")
+#saveRDS(purchase_subject_category, "data/purchase-subject-category.RDS")
 
 purchase_records_series <- eval_date_values(purchase_records_legacy$de14_purchase_date_mv)
 readr::write_csv(purchase_records_series, "data-raw/purchase-records-series.csv")
