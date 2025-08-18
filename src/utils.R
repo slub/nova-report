@@ -47,6 +47,7 @@ eval_date_values <- function(field) {
 }
 
 eval_datetime_values <- function(field) {
+  field <- gsub("T.*Z", "", field)
   field_df <- eval_values(field)
   field_df[order(field_df$value), ]
   names(field_df) <- c("day", "count")
