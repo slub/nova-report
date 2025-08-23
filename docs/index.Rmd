@@ -8,9 +8,11 @@ lang: "de-DE"
 output:
   html_document:
     theme: null
-    css: ["vendor/slub/webdesign-template/css/font.css", "assets/css/custom.css"]
+    highlight: null
     mathjax: null
-    keep_md: false
+    section_divs: false
+    template: assets/html/custom.html
+    css: ["vendor/slub/webdesign-template/css/font.css", "vendor/slub/webdesign-template/css/main.css", "assets/css/custom.css"]
     includes:
       after_body: assets/html/target.html
 ---
@@ -19,8 +21,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE, error = FALSE, message = FALSE, warning = FALSE)
 knitr::opts_knit$set(root.dir = "..")
 ```
-
-GitHub: [slub/nova-report](https://github.com/slub/nova-report)
 
 # Datenpublikationen via Zenodo
 
