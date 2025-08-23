@@ -8,7 +8,7 @@ dev.*
 *.swo
 .~lock.*
 
-public
+public/
 README.html
 
 *secret*
