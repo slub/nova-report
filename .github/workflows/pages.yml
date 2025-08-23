@@ -5,6 +5,8 @@ on:
     paths:
       - 'data/**'
       - 'docs/**'
+      - 'docs/assets/css/**'
+      - 'docs/assets/html/**'
       - 'utils/render'
       - '.github/workflows/pages.yml'
       - 'renv.lock'
