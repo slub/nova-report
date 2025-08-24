@@ -1,18 +1,20 @@
 ---
 title: "Nova Report"
-subtitle: "Neuzugänge im SLUB Katalog"
+subtitle: "Neuzugänge im SLUB-Katalog"
 pagetitle: "Nova Report :: SLUB Katalog"
 author-meta: "SLUB Dresden"
 date: "`r format(Sys.time(), '%Y-%m-%d')`"
 lang: "de-DE"
 output:
   html_document:
-    theme: null
-    highlight: null
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
     mathjax: null
-    section_divs: false
-    template: assets/html/custom.html
-    css: ["vendor/slub/webdesign-template/css/font.css", "vendor/slub/webdesign-template/css/main.css", "assets/css/custom.css"]
+    df_print: paged
+    css: ["vendor/slub/webdesign-template/css/font.css", "assets/css/custom.css"]
     includes:
       after_body: assets/html/target.html
 ---
@@ -22,11 +24,11 @@ knitr::opts_chunk$set(echo = FALSE, error = FALSE, message = FALSE, warning = FA
 knitr::opts_knit$set(root.dir = "..")
 ```
 
-# Datenpublikationen via Zenodo
+Zenodo-Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-nova`)
 
-Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-nova`)
+# Suchserver
 
-## Erstindexierungen auf Titelebene (Suchserver)
+## Indexierungen
 
 | Jahr | DOI                                                                | Version |
 |:----:|:------------------------------------------------------------------:|:-------:|
@@ -41,12 +43,14 @@ indexed_records_series <- readRDS("data/indexed-records-series.RDS")
 ```{r indexed-records-plot}
 ggplot2::ggplot(indexed_records_series, ggplot2::aes(x = day, y = count)) +
   ggplot2::geom_col() +
-  ggplot2::xlab("Erstindexierungsdatum") +
+  ggplot2::xlab("Indexierungsdatum") +
   ggplot2::ylab("Anzahl Titel") +
   ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
 ```
 
-## Aktivierungen auf Titelebene (Lokalsystem)
+# Lokalsystem
+
+## Aktivierungen
 
 | Jahr | DOI                                                                | Version |
 |:----:|:------------------------------------------------------------------:|:-------:|
@@ -66,7 +70,7 @@ ggplot2::ggplot(newitem_records_series, ggplot2::aes(x = day, y = count)) +
   ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
 ```
 
-## Erwerbungen auf Exemplarebene (Lokalsystem)
+## Erwerbungen
 
 | Jahr | DOI                                                                | Version |
 |:----:|:------------------------------------------------------------------:|:-------:|
