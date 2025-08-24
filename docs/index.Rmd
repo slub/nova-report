@@ -24,6 +24,17 @@ knitr::opts_chunk$set(echo = FALSE, error = FALSE, message = FALSE, warning = FA
 knitr::opts_knit$set(root.dir = "..")
 ```
 
+```{r funcs}
+plot_time_series <- function(time_series, xlab = "Day", ylab = "Count", date_labels = "%Y-%m", date_breaks = "1 month") {
+  ggplot2::ggplot(time_series, ggplot2::aes(x = day, y = count)) +
+    ggplot2::geom_col() +
+    ggplot2::xlab(xlab) +
+    ggplot2::ylab(ylab) +
+    ggplot2::scale_x_date(date_labels = date_labels, date_breaks = date_breaks) +
+    ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+}
+```
+
 Zenodo-Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) (`slub-nova`)
 
 # Suchserver
@@ -39,12 +50,7 @@ indexed_records_series <- readRDS("data/indexed-records-series.RDS")
 Gesamtanzahl an Werten: `r sum(indexed_records_series$count)`
 
 ```{r indexed-records-plot}
-ggplot2::ggplot(indexed_records_series, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Indexierungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y", date_breaks = "1 year") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(indexed_records_series, xlab = "Indexeriungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
 ```
 
 DOI [10.5281/zenodo.16858259](https://doi.org/10.5281/zenodo.16858259) / [10.5281/zenodo.16881739](https://doi.org/10.5281/zenodo.16881739) / [10.5281/zenodo.16881662](https://doi.org/10.5281/zenodo.16881662)
@@ -58,12 +64,7 @@ indexed_records_series2022 <- indexed_records_series[grepl("^2022", indexed_reco
 Gesamtanzahl an Werten: `r sum(indexed_records_series2022$count)`
 
 ```{r indexed-records2022-plot}
-ggplot2::ggplot(indexed_records_series2022, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Indexierungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y-%m", date_breaks = "1 month") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(indexed_records_series2022, xlab = "Indexeriungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 DOI [10.5281/zenodo.16858259](https://doi.org/10.5281/zenodo.16858259)
@@ -77,12 +78,7 @@ indexed_records_series2023 <- indexed_records_series[grepl("^2023", indexed_reco
 Gesamtanzahl an Werten: `r sum(indexed_records_series2023$count)`
 
 ```{r indexed-records2023-plot}
-ggplot2::ggplot(indexed_records_series2023, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Indexierungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y-%m", date_breaks = "1 month") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(indexed_records_series2023, xlab = "Indexeriungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 DOI [10.5281/zenodo.16881739](https://doi.org/10.5281/zenodo.16881739)
@@ -96,12 +92,7 @@ indexed_records_series2024 <- indexed_records_series[grepl("^2024", indexed_reco
 Gesamtanzahl an Werten: `r sum(indexed_records_series2024$count)`
 
 ```{r indexed-records2024-plot}
-ggplot2::ggplot(indexed_records_series2024, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Indexierungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y-%m", date_breaks = "1 month") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(indexed_records_series2024, xlab = "Indexeriungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 DOI [10.5281/zenodo.16881662](https://doi.org/10.5281/zenodo.16881662)
@@ -119,12 +110,7 @@ newitem_records_series <- readRDS("data/newitem-records-series.RDS")
 Gesamtanzahl an Werten: `r sum(newitem_records_series$count)`
 
 ```{r newitem-records-plot}
-ggplot2::ggplot(newitem_records_series, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Aktivierungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y", date_breaks = "1 year") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(newitem_records_series, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
 ```
 
 DOI [10.5281/zenodo.10179459](https://doi.org/10.5281/zenodo.10179459) / [10.5281/zenodo.10888494](https://doi.org/10.5281/zenodo.10888494) / [10.5281/zenodo.16385159](https://doi.org/10.5281/zenodo.16385159)
@@ -138,12 +124,7 @@ newitem_records_series2022 <- newitem_records_series[grepl("^2022", newitem_reco
 Gesamtanzahl an Werten: `r sum(newitem_records_series2022$count)`
 
 ```{r newitem-records2022-plot}
-ggplot2::ggplot(newitem_records_series2022, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Aktivierungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y-%m", date_breaks = "1 month") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(newitem_records_series2022, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 DOI [10.5281/zenodo.10179459](https://doi.org/10.5281/zenodo.10179459)
@@ -157,12 +138,7 @@ newitem_records_series2023 <- newitem_records_series[grepl("^2023", newitem_reco
 Gesamtanzahl an Werten: `r sum(newitem_records_series2023$count)`
 
 ```{r newitem-records2023-plot}
-ggplot2::ggplot(newitem_records_series2023, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Aktivierungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y-%m", date_breaks = "1 month") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(newitem_records_series2023, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 DOI [10.5281/zenodo.10888494](https://doi.org/10.5281/zenodo.10888494)
@@ -176,12 +152,7 @@ newitem_records_series2024 <- newitem_records_series[grepl("^2024", newitem_reco
 Gesamtanzahl an Werten: `r sum(newitem_records_series2024$count)`
 
 ```{r newitem-records2024-plot}
-ggplot2::ggplot(newitem_records_series2024, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Aktivierungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y-%m", date_breaks = "1 month") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(newitem_records_series2024, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 DOI [10.5281/zenodo.16385159](https://doi.org/10.5281/zenodo.16385159) 
@@ -197,12 +168,7 @@ purchase_records_series <- readRDS("data/purchase-records-series.RDS")
 Gesamtanzahl an Werten: `r sum(purchase_records_series$count)`
 
 ```{r purchase-records-plot}
-ggplot2::ggplot(purchase_records_series, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Erwerbungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y", date_breaks = "1 year") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(purchase_records_series, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
 ```
 
 DOI [10.5281/zenodo.10251277](https://doi.org/10.5281/zenodo.10251277) / [10.5281/zenodo.10888524](https://doi.org/10.5281/zenodo.10888524) / [10.5281/zenodo.16385169](https://doi.org/10.5281/zenodo.16385169)
@@ -216,12 +182,7 @@ purchase_records_series2022 <- purchase_records_series[grepl("^2022", purchase_r
 Gesamtanzahl an Werten: `r sum(purchase_records_series2022$count)`
 
 ```{r purchase-records2022-plot}
-ggplot2::ggplot(purchase_records_series2022, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Erwerbungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y-%m", date_breaks = "1 month") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(purchase_records_series2022, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 DOI [10.5281/zenodo.10251277](https://doi.org/10.5281/zenodo.10251277)
@@ -235,12 +196,7 @@ purchase_records_series2023 <- purchase_records_series[grepl("^2023", purchase_r
 Gesamtanzahl an Werten: `r sum(purchase_records_series2023$count)`
 
 ```{r purchase-records2023-plot}
-ggplot2::ggplot(purchase_records_series2023, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Erwerbungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y-%m", date_breaks = "1 month") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(purchase_records_series2023, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 DOI [10.5281/zenodo.10888524](https://doi.org/10.5281/zenodo.10888524)
@@ -254,12 +210,7 @@ purchase_records_series2024 <- purchase_records_series[grepl("^2024", purchase_r
 Gesamtanzahl an Werten: `r sum(purchase_records_series2024$count)`
 
 ```{r purchase-records2024-plot}
-ggplot2::ggplot(purchase_records_series2024, ggplot2::aes(x = day, y = count)) +
-  ggplot2::geom_col() +
-  ggplot2::xlab("Erwerbungsdatum") +
-  ggplot2::ylab("Anzahl Titel") +
-  ggplot2::scale_x_date(date_labels = "%Y-%m", date_breaks = "1 month") +
-  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 60, hjust = 1))
+plot_time_series(purchase_records_series2024, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 DOI [10.5281/zenodo.16385169](https://doi.org/10.5281/zenodo.16385169)
