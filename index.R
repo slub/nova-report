@@ -19,7 +19,7 @@ indexed_records_series <- readRDS("data/indexed-records-series.RDS")
 
 
 ## ----indexed-records-plot-----------------------------------------------------
-plot_time_series(indexed_records_series, xlab = "Indexeriungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
+plot_time_series(indexed_records_series, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
 
 
 ## ----indexed-records2022------------------------------------------------------
@@ -27,7 +27,7 @@ indexed_records_series2022 <- indexed_records_series[grepl("^2022", indexed_reco
 
 
 ## ----indexed-records2022-plot-------------------------------------------------
-plot_time_series(indexed_records_series2022, xlab = "Indexeriungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series(indexed_records_series2022, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 
 
 ## ----indexed-records2023------------------------------------------------------
@@ -35,7 +35,7 @@ indexed_records_series2023 <- indexed_records_series[grepl("^2023", indexed_reco
 
 
 ## ----indexed-records2023-plot-------------------------------------------------
-plot_time_series(indexed_records_series2023, xlab = "Indexeriungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series(indexed_records_series2023, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 
 
 ## ----indexed-records2024------------------------------------------------------
