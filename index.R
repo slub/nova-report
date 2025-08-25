@@ -43,7 +43,7 @@ indexed_records_series2024 <- indexed_records_series[grepl("^2024", indexed_reco
 
 
 ## ----indexed-records2024-plot-------------------------------------------------
-plot_time_series(indexed_records_series2024, xlab = "Indexeriungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series(indexed_records_series2024, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 
 
 ## ----newitem-records-input----------------------------------------------------
