@@ -6,7 +6,7 @@
 install.packages(c(
   "curl",
   "readr",
-  "jsonlite",
+  #"jsonlite", # imported by rmarkdown
   "rmarkdown",
   "ggplot2"
 ))
