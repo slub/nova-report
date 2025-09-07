@@ -7,6 +7,7 @@ knitr::opts_knit$set(root.dir = "..")
 plot_time_series <- function(time_series, xlab = "Day", ylab = "Count", date_labels = "%Y-%m", date_breaks = "1 month") {
   ggplot2::ggplot(time_series, ggplot2::aes(x = day, y = count)) +
     ggplot2::geom_col() +
+    ggplot2::scale_y_continuous(labels = scales::comma) +
     ggplot2::xlab(xlab) +
     ggplot2::ylab(ylab) +
     ggplot2::scale_x_date(date_labels = date_labels, date_breaks = date_breaks) +
