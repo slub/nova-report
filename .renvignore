@@ -1,4 +1,5 @@
 data/*
+data-raw/*
 docs/assets/*
 docs/vendor/*
 public/*
