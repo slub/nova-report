@@ -54,3 +54,17 @@ eval_datetime_values <- function(field) {
   field_df$day <- as.Date(field_df$day)
   field_df
 }
+
+eval_month_values <- function(field) {
+  field <- gsub("-[0123][[:digit:]]T.*Z", "", field)
+  field_df <- eval_values(field)
+  field_df[order(field_df$value), ]
+  names(field_df) <- c("month", "count")
+  field_df
+}
+
+get_sid_via_id <- function(field) {
+  sids <- unique(gsub("(?<!finc)(?<!ai)-.*", "", field, perl = TRUE))
+  sids <- unique(gsub("ai-|finc-", "", sids))
+  sids[order(as.integer(sids))]
+}
