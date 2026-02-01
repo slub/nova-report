@@ -68,3 +68,38 @@ get_sid_via_id <- function(field) {
   sids <- unique(gsub("ai-|finc-", "", sids))
   sids[order(as.integer(sids))]
 }
+
+slubkat_get_id_url <- function(id) {
+  paste0(
+    "https://katalog.slub-dresden.de/id/", id,
+    "?tx_find_find%5Bformat%5D=data&tx_find_find%5Bdata-format%5D=app&type=1369315142"
+  )
+}
+
+slubkat_doc_via_id <- function(id) {
+  url <- slubkat_get_id_url(id)
+  res <- tryCatch(
+    {
+      jsonlite::read_json(url, simplifyVector = TRUE)
+    },
+    error = function(cond) {
+      cat(paste0("Got error while fetching ID ", id, "!\n"), sep = "")
+      cat(paste0("Reason: ", cond, collapse = "\n"), sep = "")
+      cat("\n", sep = "")
+      data.frame()
+    },
+    warning = function(cond) {
+      cat(paste0("Got warning while fetching ID ", id, "!\n"), sep = "")
+      cat(paste0("Reason: ", cond, collapse = "\n"), sep = "")
+      cat("\n", sep = "")
+      data.frame()
+    }
+  )
+  if ("id" %in% names(res)) {
+    if (nchar(res$id) > 0) {
+      res
+    } else {
+      cat(paste0("Record with ID ", id, " was not found!\n"), sep = "")
+    }
+  }
+}

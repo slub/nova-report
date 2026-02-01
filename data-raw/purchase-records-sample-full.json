@@ -1,0 +1,526 @@
+[
+  {
+    "record": {
+      "format": "Band",
+      "title": "Hirtenlied: &quot;Wi&szlig;t ihr noch, wie es geschehen?&quot; : f&uuml;r drei gemischte Stimmen",
+      "contributor": ["Lahusen, Christian [KomponistIn]", "Schwarz, Gerhard [KomponistIn]", "Claudius, Hermann [VerfasserIn]", "Müller-Osten, Kurt [VerfasserIn]"],
+      "publisher": "Kassel B&auml;renreiter-Verlag [1940?] ",
+      "ispartof": [],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1453251863",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "35122356",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin Musik",
+        "shelfmark": "5.Mus.2.3706",
+        "mediatype": "NOT",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2023-02-07T00:00:00Z",
+      "purchase_dates": [
+        "2023-02-07T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Band",
+      "title": "Sinfonia Lucinda e Armidoro: 2 oboes, 2 horns and strings",
+      "contributor": ["Paisiello, Giovanni [KomponistIn]", "Martino, Thomas J. [HerausgeberIn]"],
+      "publisher": "New York Mannheim Editions 2016 ",
+      "ispartof": [
+        {
+          "title": "Neapolitan Masters of the 18th Century"
+        }
+      ],
+      "identifier": "",
+      "language": "Kein linguistischer Inhalt",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-179338858X",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "34149668",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin Musik",
+        "shelfmark": "11.Mus.4.8864",
+        "mediatype": "NOT",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2022-11-02T00:00:00Z",
+      "purchase_dates": [
+        "2022-11-02T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Ices",
+      "contributor": "Beaty-Pownall, S. [VerfasserIn]",
+      "publisher": "London Horace Cox 1902 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": "",
+      "language": "Englisch",
+      "subject": "Kochbuch",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1816414328",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "34607868",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "FoodStudio",
+        "shelfmark": "2022 8 015340",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Benutzung nur im Haus, Versand per Fernleihe möglich",
+        "link": "",
+        "status": "P1",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2022-09-12T00:00:00Z",
+      "purchase_dates": [
+        "2022-09-12T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Revolution der Tr&auml;ume: Roman",
+      "contributor": ["Izquierdo, Andreas [VerfasserIn]", "DuMont-Buchverlag"],
+      "publisher": "Köln DuMont November 2022 ",
+      "ispartof": [
+        {
+          "title": "DuMont ; 6642"
+        }
+      ],
+      "identifier": ["9783832166427", "3832166424"],
+      "language": "Deutsch",
+      "subject": "Fiktionale Darstellung",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1800917066",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=efcf3b01ab42485d823c0e143687164f&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "hostLabel": "Inhaltstext",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35038774",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "GN 9999 I99 R45.2022",
+        "mediatype": "  B",
+        "3d": "GN 9999 I99 R45.2022",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=GN%209999%20I99%20R45.2022&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=35038774",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2022-11-24T00:00:00Z",
+      "purchase_dates": [
+        "2022-11-24T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "DVD-Video",
+      "title": "Intrige",
+      "contributor": ["Polański, Roman [DrehbuchautorIn]", "Dujardin, Jean [SchauspielerIn]", "Garrel, Louis [SchauspielerIn]", "Seigner, Emmanuelle [SchauspielerIn]", "Harris, Robert [DrehbuchautorIn]", "Desplat, Alexandre [KomponistIn]", "Edelman, Pawel [Kameramann/Kamerafrau]", "Harris, Robert [VerfasserIn des Bezugswerks]"],
+      "publisher": "Leipzig Weltkino Filmverleih GmbH [2020] ",
+      "ispartof": [],
+      "identifier": "",
+      "language": ["Deutsch", "Französisch"],
+      "subject": ["Film", "DVD-Video", "Spielfilm Literaturverfilmung Frankreich Italien 2019"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1691289159",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "34962592",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin Mediathek",
+        "shelfmark": "Vid-VPD-C 6983",
+        "mediatype": "DVD",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "3",
+        "statusphrase": "nicht bestellbar, weitere Exemplare oder Digitalisat vorhanden",
+        "link": "",
+        "status": "RK",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      },
+      {
+        "barcode": "34984094",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin Mediathek",
+        "shelfmark": "Vid-VPD-C 22/121",
+        "mediatype": "DVD",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2022-04-19T00:00:00Z",
+      "purchase_dates": [
+        ["2022-03-15T00:00:00Z", "2022-04-19T00:00:00Z"]
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "J&#039;aime le chocolat",
+      "contributor": ["Kaufman, William Irving [VerfasserIn]", "Beguinot, Christiane [ÜbersetzerIn]"],
+      "publisher": "[Mane (04)] Robert Morel &eacute;diteur [1969] ",
+      "ispartof": [],
+      "identifier": "",
+      "language": "Französisch",
+      "subject": "Kochbuch",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-178491990X",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://catalogue.bnf.fr/ark:/12148/cb35221648q",
+        "hostLabel": "Notice et cote du catalogue de la Bibliothèque nationale de France",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34972421",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "FoodStudio",
+        "shelfmark": "2022 8 000163",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Benutzung nur im Haus, Versand per Fernleihe möglich",
+        "link": "",
+        "status": "P1",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2022-01-06T00:00:00Z",
+      "purchase_dates": [
+        "2022-01-06T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Alain Lacoste",
+      "contributor": ["Petroff, Roman [VerfasserIn]", "Leroux, Michel [MitwirkendeR]", "Lacoste, Alain [IllustratorIn]"],
+      "publisher": "Saint-Malo &Eacute;ditions Cristel [2024] ",
+      "ispartof": [],
+      "identifier": ["9782844212016", "2844212018"],
+      "language": "Französisch",
+      "subject": ["Lacoste, Alain", "Malerei"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1890558435",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "35272562",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "LI 99999 L144",
+        "mediatype": "B",
+        "3d": "LI 99999 L144",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=LI%2099999%20L144&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=35272562",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2024-07-29T00:00:00Z",
+      "purchase_dates": [
+        "2024-07-29T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "E-Book",
+      "title": "Motets - Mus.15446-E-502: Coro, org",
+      "contributor": "Schmidt, Christfried [KomponistIn]",
+      "publisher": [],
+      "ispartof": [],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": "Musikhandschrift",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1800761678",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://digital.slub-dresden.de/id1800761678",
+        "hostLabel": "... zu den Noten via Digitale Sammlungen der &lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt; (Volltext ; frei zugänglich)",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "linksRelated": [
+      {
+        "link": "http://opac.rism.info/search?documentid=1001016278",
+        "hostLabel": "Nachweis im Internationalen Quellenlexikon der Musik (RISM) via &lt;span title=&quot;Internationales Quellenlexikon der Musik&quot;&gt;RISM Katalog&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2022-05-03T00:00:00Z",
+      "purchase_dates": [
+        "2022-05-03T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Wirksamer Geographieunterricht",
+      "contributor": "Rempfler, Armin [HerausgeberIn]",
+      "publisher": "Baltmannsweiler Schneider Verlag Hohengehren GmbH [2018] ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783834019042", "3834019046"],
+      "language": "Deutsch",
+      "subject": ["Geografieunterricht", "Qualit&auml;t", "Unterrichtserfolg", "Geografieunterricht", "Qualit&auml;t", "Unterrichtserfolg"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1570381623",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://d-nb.info/1151655767/04",
+        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34769601",
+        "location": "ZwB Erziehungswissenschaften",
+        "location_code": "bebel1",
+        "sublocation": "Freihand",
+        "shelfmark": "DP 1200 R389",
+        "mediatype": "  B",
+        "3d": "DP 1200 R389",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=DP%201200%20R389&amp;language=de&amp;search_context1=bebel1&amp;search_context2=FH1&amp;exemplar_id=34769601",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      },
+      {
+        "barcode": "34805170",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "",
+        "shelfmark": "DP 1200 R389",
+        "mediatype": "  B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "0",
+        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/bu/umwelt/geo/geographie/bildung'>Prof Geographische Bildung <\/a> erfragen.",
+        "link": "https://tu-dresden.de/bu/umwelt/geo/geographie/bildung",
+        "status": "H",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2023-01-31T00:00:00Z",
+      "purchase_dates": [
+        "2023-01-31T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Band",
+      "title": "Omnes gentes plaudite: Motette f&uuml;r Frauenchor a cappella",
+      "contributor": "Klimek, Jens [KomponistIn]",
+      "publisher": "Frankfurt Edition Ferrimontana [2009] ",
+      "ispartof": [],
+      "identifier": "",
+      "language": ["Latein", "Deutsch"],
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1871610915",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "34151197",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "Km058 12859",
+        "mediatype": "NOT",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2024-08-22T00:00:00Z",
+      "purchase_dates": [
+        "2024-08-22T00:00:00Z"
+      ]
+    }
+  }
+]

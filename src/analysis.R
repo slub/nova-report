@@ -11,6 +11,14 @@ indexed_records_series <- eval_datetime_values(indexed_records$first_indexed)
 readr::write_csv(indexed_records_series, "data-raw/indexed-records-series.csv")
 saveRDS(indexed_records_series, "data/indexed-records-series.RDS")
 
+indexed_records_series_monthly <- eval_month_values(indexed_records$first_indexed)
+readr::write_csv(indexed_records_series_monthly, "data-raw/indexed-records-series-monthly.csv")
+saveRDS(indexed_records_series_monthly, "data/indexed-records-series-monthly.RDS")
+
+indexed_records_sample <- indexed_records[sample(nrow(indexed_records), 10), ]
+jsonlite::stream_out(indexed_records_sample, file("data-raw/indexed-records-sample.jsonl"))
+saveRDS(indexed_records_sample, "data/indexed-records-sample.RDS")
+
 # Libero LMS : NewItemActDate
 
 newitem24_records <- read_zenodo_jsonl_gz("https://zenodo.org/records/16385159/files/slub-nova-2024-new-item-act-date.jsonl.gz?download=1")
@@ -18,11 +26,19 @@ newitem23_records <- read_zenodo_jsonl_gz("https://zenodo.org/records/10888494/f
 newitem22_records <- read_zenodo_jsonl_gz("https://zenodo.org/records/10179459/files/slub-nova-2022-new-item-act-date.jsonl.gz?download=1")
 
 newitem_records <- rbind(newitem23_records, newitem24_records)
-newitem_records_legacy <- rbind(newitem22_records, newitem23_records[, -2], newitem24_records[, -2])
+newitem_records_legacy <- rbind(newitem22_records, newitem23_records[, -2], newitem24_records[, -2])  # drop field rsn_id_str_mv
 
 newitem_records_series <- eval_date_values(newitem_records_legacy$de14_new_item_act_date_mv)
 readr::write_csv(newitem_records_series, "data-raw/newitem-records-series.csv")
 saveRDS(newitem_records_series, "data/newitem-records-series.RDS")
+
+newitem_records_series_monthly <- eval_month_values(unlist(newitem_records_legacy$de14_new_item_act_date_mv))
+readr::write_csv(newitem_records_series_monthly, "data-raw/newitem-records-series-monthly.csv")
+saveRDS(newitem_records_series_monthly, "data/newitem-records-series-monthly.RDS")
+
+newitem_records_sample <- newitem_records_legacy[sample(nrow(newitem_records_legacy), 10), ]
+jsonlite::stream_out(newitem_records_sample, file("data-raw/newitem-records-sample.jsonl"))
+saveRDS(newitem_records_sample, "data/newitem-records-sample.RDS")
 
 # Libero LMS : DatePurchased
 
@@ -53,3 +69,11 @@ purchase_subject_category <- purchase_subject_category[with(purchase_subject_cat
 purchase_records_series <- eval_date_values(purchase_records_legacy$de14_purchase_date_mv)
 readr::write_csv(purchase_records_series, "data-raw/purchase-records-series.csv")
 saveRDS(purchase_records_series, "data/purchase-records-series.RDS")
+
+purchase_records_series_monthly <- eval_month_values(unlist(purchase_records_legacy$de14_purchase_date_mv))
+readr::write_csv(purchase_records_series_monthly, "data-raw/purchase-records-series-monthly.csv")
+saveRDS(purchase_records_series_monthly, "data/purchase-records-series-monthly.RDS")
+
+purchase_records_sample <- purchase_records_legacy[sample(nrow(purchase_records_legacy), 10), ]
+jsonlite::stream_out(purchase_records_sample, file("data-raw/purchase-records-sample.jsonl"))
+saveRDS(purchase_records_sample, "data/purchase-records-sample.RDS")

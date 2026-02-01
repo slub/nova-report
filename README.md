@@ -8,6 +8,7 @@ install.packages(c(
   "readr",
   #"jsonlite", # imported by rmarkdown
   "rmarkdown",
+  "rvest",
   #"scales", # imported by ggplot2
   "ggplot2"
 ))

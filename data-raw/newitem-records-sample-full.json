@@ -1,0 +1,571 @@
+[
+  {
+    "record": {
+      "format": "Buch",
+      "title": "GenderGraduateProjects I: Geschlecht, F&uuml;rsorge, Risiko",
+      "contributor": ["Loster-Schneider, Gudrun [Sonstige Person, Familie und Körperschaft]", "Häusl, Maria [Hrsg.]", "Horlacher, Stefan [Sonstige Person, Familie und Körperschaft]", "Schötz, Susanne [Hrsg.]", "Froese, Peggy [Mitarb.]", "Vetter, Jakob [Mitarb.]", "Leipziger Universitätsverlag", "Dresdner Nachwuchskolloquium zur Geschlechterforschung"],
+      "publisher": "[Leipzig] Leipziger Univ.-Verl 2015 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["3865838871", "9783865838872"],
+      "language": "Deutsch",
+      "subject": ["Geschlechterverh&auml;ltnis", "M&auml;nnerbild", "Frauenbild", "Geschichte 1850-2010"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-823726525",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://d-nb.info/1070026514/04",
+        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=5211722&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "hostLabel": "Inhaltstext",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34589373",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2024 8 010555",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      },
+      {
+        "barcode": "33053510",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2015 8 024662",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2024-07-25T00:00:00Z",
+      "newitem_dates": [
+        "2024-07-25T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Lesen verstehen und Textverst&auml;ndnis verbessern: ein Lesestrategieset f&uuml;r alle F&auml;cher",
+      "contributor": ["Festman, Julia [VerfasserIn]", "Reiter, Christine [VerfasserIn]", "Waxmann Verlag"],
+      "publisher": "Münster New York Waxmann 2024 ",
+      "ispartof": [],
+      "identifier": ["9783830946649", "3830946643"],
+      "language": "Deutsch",
+      "subject": ["Unterricht", "Verbesserung", "Lesef&auml;higkeit", "Textverstehen", "Wortschatz"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1902936213",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://d-nb.info/1341753123/04",
+        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35276146",
+        "location": "ZwB Erziehungswissenschaften",
+        "location_code": "bebel1",
+        "sublocation": "Freihand",
+        "shelfmark": "DP 4000 F418 L6",
+        "mediatype": "B",
+        "3d": "DP 4000 F418 L6",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=DP%204000%20F418%20L6&amp;language=de&amp;search_context1=bebel1&amp;search_context2=FH1&amp;exemplar_id=35276146",
+        "issue": "",
+        "colorcode": "3",
+        "statusphrase": "Ausgeliehen, Vormerken möglich",
+        "link": "",
+        "status": "N",
+        "duedate": "09.02.2026",
+        "vormerken": "1",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2024-11-14T00:00:00Z",
+      "newitem_dates": [
+        "2024-11-14T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Sax couples: Geschichte und Geschichten rund ums Saxophon : diese Buch entstand begleitend zur Ausstellung &quot;Sax couples&quot; im Museum Schloss Salder im Rahmen des &quot;Salt &#039;n&#039; Sax-Festivals Salzgitter 2019&quot; aus Anlass der Aktion &quot;Saxophon - Instrument des Jahres 2019&quot; verschiedener Landsmusikr&auml;te",
+      "contributor": "Schölch, Hartmut [VerfasserIn]",
+      "publisher": "Salzgitter St&auml;dtisches Museum Schloss Salder [2019] ",
+      "ispartof": [],
+      "identifier": ["9783982022314", "3982022312"],
+      "language": "Deutsch",
+      "subject": "Ausstellungskatalog",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1752639936",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "34606215",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "LR 12000 S364",
+        "mediatype": "B",
+        "3d": "LR 12000 S364",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=LR%2012000%20S364&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34606215",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2022-05-25T00:00:00Z",
+      "newitem_dates": [
+        "2022-05-25T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Hinweis zur Anwendung der Infrarot (IR)-Thermografie im Asphaltstra&szlig;enbau: H IR",
+      "contributor": "Forschungsgesellschaft für Straßen- und Verkehrswesen",
+      "publisher": "Köln FGSV, Der Verlag August 2023 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783864463693", "3864463696"],
+      "language": "Deutsch",
+      "subject": ["Asphalt", "Stra&szlig;enoberbau", "Temperaturverteilung", "Thermografie"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1866409255",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "35173555",
+        "location": "Bereichsbibliothek DrePunct",
+        "location_code": "zell9",
+        "sublocation": "Freihand",
+        "shelfmark": "ZI 6432 F732-734.2023",
+        "mediatype": "B",
+        "3d": "ZI 6432 F732-734.2023",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=ZI%206432%20F732-734.2023&amp;language=de&amp;search_context1=zell9&amp;search_context2=FH1&amp;exemplar_id=35173555",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "P2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2024-04-25T00:00:00Z",
+      "newitem_dates": [
+        "2024-04-25T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Nonconformers: a new history of self-taught artists",
+      "contributor": "Slominski, Lisa [VerfasserIn]",
+      "publisher": "New Haven London Yale University Press [2022] ",
+      "ispartof": [],
+      "identifier": ["9780300260229", "0300260229"],
+      "language": "Englisch",
+      "subject": ["K&uuml;nstler", "Autodidakt", "Nonkonformismus", "Geschichte 1932-", "Art brut", "Geschichte 1900-2020"],
+      "description": ["Here I am: agency, awareness, and audience --Terminology: tastes, gates, labels, and suits --Part 1: 20th century origins and representations. --Chapter 1. --Modern primitives: MoMA exhibits the self-taught (1932-1944) --Once seen as modern /Katherine Jentleson --Artist focus: William Edmondson --Artist perspectives: Henri Rousseau, John Kane, Mirris Hirshfield, Horace Pippin, Pedro Lopez Cerv&aacute;ntez --Chapter 2. --l&#039;Art Brut: defining creative agency (1944-1966) --The origins of Art Brut, history and legacy /Sarah Lombardi --Artist focus: Alo&iuml;se Corbaz --Artist perspectives: Adolf W&ouml;lfli, Fleury-Joseph Cr&eacute;pin, Augustin Lesage, Auguste Forestier, Marguerite Sirvins --Chapter 3. --Outsider art: the title that shapes a genre (1972-1979) --Roger Cardinal, the art of the artless /John Maizels --Artist focus: Madge Gill --Artist perspectives: Scottie Wilson, Friedrich Schr&ouml;der-Sonnenstern, Anna Zem&aacute;nkov&aacute;, Johann Hauser, August Walla --Chapter 4. --Black folk art: presenting self-taught African American artists (1976-1982) --What it was, Black folk art in America /Cheryl Finley --Artist focus: Bill Trayor --Artist perspectives: Joseph E. Yoakum, Elijah Pierce, Sister Gertrude Morgan, Nellie Mae Rowe, Sam Doyle --Part 2: Disparate boundaries. --Chapter 5. --Clandestine: exploring privacy, intimacy, and isolation in creativity --Portals of the imagination /Michael Bonesteel --Artist focus: Henry Darger --Artist perspectives: James Castle, Charles A.A. Dellschau, Melvin Way, Guo Fengyi, Emery Blagdon --Chapter 6. --Renegades: persona and messaging in art practice --The original renegade(s) /Phillip March Jones --Artist focus: Lee Godie --Artist perspectives: Lonnie Holley, Mary T. Smith, Prophet Royal Robertson, Kwame Akoto, Horst Ademeit --Chapter 7. --Environments: changing personal and public surroundings --Singular spaces/authentic visions /Jo Farb Hern&aacute;ndez --Artist focus: Nek Chand --Artist perspectives: Helen Martins, Prophet Isaiah Robertson, Huang Yong-Fu, Josep Pujiula i Vila, Niki de Saint Phalle --Chapter 8. --Ability: advocating for artistic development --Shifting focus, a brief history of disability art in global contexts /Tom di Maria --Artist focus: Judith Scott --Artist perspectives: Julian Martin, Andrew Omoding, Julia Krause-Harder, Walter Mika, Tomoyuki Shinki --Part 3: Compositions. --Chapter 9. --Abstraction: beyond representation --Alternative expressions /Lisa Slominski --Artist interview; George Widener, interviewed by Sophia Cosmadopoulos --Artist perspectives: Hilma af Klint, Janet Sobel, Thornton Dial, Nnena Kalu, Junko Yamamoto --Chapter 10:  --Landscapes: documenting the real and the imagined --Seeing scenes /Lisa Slominski --Artist interview: Mamadou Ciss&eacute;, interviewed by Sophia Cosmadopoulos --Artist perspectives: Grandma Moses, Mart&iacute;n Ram&iacute;rez, Minnie Evans, Katsuyoshi Takenaka, Katsuhiro Terao --Chapter 11. --Figuration: memory reproduction, and documentation --Close encounters /Lisa Slominski --Artist interview: William Scott, interviewed by Sophia Cosmadopoulos --Artist perspectives: Shinchi Sawada, Davood Koochaki, Helen Rae, Carlo Zinelli, Ch&eacute;ri Samba.", "When the art world has paid attention to makers from outside the cultural establishment, including so-called outsider and self-taught artists, it has generally been within limiting categories. Yet these artists, including many women, people with disabilities, and people of color, have had a transformative influence on the history of modern art. Responding to growing interest in these artists, this book offers a nuanced history of their work and how it has been understood from the early twentieth century to the present day.0Nonconformers includes work by well-known figures such as Henry Darger, Hilma af Klint, and Bill Traylor alongside many other artists who deserve widespread recognition. After reviewing how self-taught artists factored into key movements of twentieth-century art, the book shifts to highlighting the voices of contemporary practitioners through new interviews with artists William Scott, Mamadou Cisse, and George Widener. An international group of contributors addresses topics such as the development of the Black Folk Art movement in America and l&#039;Art Brut in France, the creative process of self-taught artists working outside of traditional studios, and the themes of figuration, landscape, and abstraction. Global in scope and with chronological breadth, this alternative narrative is an essential introduction to the genre long known as &quot;Outsider Art&quot;--Publisher"],
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1800293135",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://www.gbv.de/dms/art-berlin/1800293135.pdf",
+        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://swbplus.bsz-bw.de/bsz1800293135inh.htm",
+        "hostLabel": "Inhaltsverzeichnis via &lt;span title=&quot;Bibliotheksservice-Zentrum Baden-Württemberg&quot;&gt;SWBplus des BSZ&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34976561",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "LH 65827 S634",
+        "mediatype": "B",
+        "3d": "LH 65827 S634",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=LH%2065827%20S634&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34976561",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2022-04-27T00:00:00Z",
+      "newitem_dates": [
+        "2022-04-27T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Allgemeines deutsches Glossarium Band 5 M-Q",
+      "contributor": ["Spreng, Johann Jacob [VerfasserIn]", "Löffler, Heinrich [HerausgeberIn]"],
+      "publisher": "Basel Schwabe Verlag 2022 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783796543234", "3796543235", "9783796545429", "3796545424"],
+      "language": "Deutsch",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1784525995",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "34044975",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Referenzbestand Lesesaal",
+        "shelfmark": "GB 1490 S768-5",
+        "mediatype": "B",
+        "3d": "GB 1490 S768-5",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=GB%201490%20S768-5&amp;language=de&amp;search_context1=zell1&amp;search_context2=REF&amp;exemplar_id=34044975",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "P2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2022-01-13T00:00:00Z",
+      "newitem_dates": [
+        "2022-01-13T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Gottgetreu oder der Sophienducaten: historische Erz&auml;hlung f&uuml;r Alt und Jung",
+      "contributor": "Zschaler, Johann Gottfried [VerfasserIn]",
+      "publisher": "Dresden Verlag von Alexander K&ouml;hler 1878 ",
+      "ispartof": [],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1908538899",
+    "oa": 0,
+    "thumbnail": "",
+    "references": [
+      {
+        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1908538899",
+        "hostLabel": "Zschaler, Johann Gottfried: Gottgetreu oder der Sophienducaten (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
+        "note": "",
+        "material": "",
+        "text": "Nachweis in der Sächsischen Bibliografie:"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34589804",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2024 8 016364",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2024-11-15T00:00:00Z",
+      "newitem_dates": [
+        "2024-11-15T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Zebra 2 Arbeitsheft Sprache F&ouml;rdern : mit Medien / Autorinnen: Nina Alexy, Petra Splaning [und weitere]",
+      "contributor": ["Alexy, Nina [VerfasserIn]", "Splaning, Petra [VerfasserIn]", "Ernst Klett Verlag"],
+      "publisher": "Stuttgart Leipzig Dortmund Ernst Klett Verlag [2024] ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783122710323", "3122710323"],
+      "language": "Deutsch",
+      "subject": ["Schulbuch", "Aufgabensammlung"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1869771338",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "35183232",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2024 4 007315",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2024-07-26T00:00:00Z",
+      "newitem_dates": [
+        "2024-07-26T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Die Kunst, recht zu behalten",
+      "contributor": ["Schopenhauer, Arthur [VerfasserIn]", "Philipp Reclam jun. Verlag"],
+      "publisher": "Ditzingen Reclam 2023 ",
+      "ispartof": [
+        {
+          "title": "Reclam Taschenbuch ; Nr. 20694"
+        }
+      ],
+      "identifier": ["9783150206942", "3150206944"],
+      "language": "Deutsch",
+      "subject": ["Eristik", "Schopenhauer, Arthur", "Rhetorik"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1826497056",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://d-nb.info/1274358884/04",
+        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=0924e4f0afeb487c97fa8ebcbdc33e26&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "hostLabel": "Inhaltstext",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34589691",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "CG 6943 K96",
+        "mediatype": "B",
+        "3d": "CG 6943 K96",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=CG%206943%20K96&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34589691",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2024-10-08T00:00:00Z",
+      "newitem_dates": [
+        "2024-10-08T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Fashion Faux Parr",
+      "contributor": ["Parr, Martin [FotografIn]", "Grant, Patrick [VerfasserIn einer Einleitung]", "Simmons, Tabitha [VerfasserIn einer Einleitung]"],
+      "publisher": "London New York Phaidon Press 2024 ",
+      "ispartof": [],
+      "identifier": ["9781838667931", "1838667938", "9781838667856", "1838667857"],
+      "language": "Englisch",
+      "subject": ["Parr, Martin", "Modefotografie"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-187662373X",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=02217ceb642d48e985aad64652bb0b50&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "hostLabel": "Inhaltstext",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://d-nb.info/1313610968/04",
+        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://swbplus.bsz-bw.de/bsz187662373Xinh.htm",
+        "hostLabel": "Inhaltsverzeichnis via &lt;span title=&quot;Bibliotheksservice-Zentrum Baden-Württemberg&quot;&gt;SWBplus des BSZ&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35269450",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "AP 94100 P259 M379 F2",
+        "mediatype": "B",
+        "3d": "AP 94100 P259 M379 F2",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=AP%2094100%20P259%20M379%20F2&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=35269450",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2024-09-03T00:00:00Z",
+      "newitem_dates": [
+        "2024-09-03T00:00:00Z"
+      ]
+    }
+  }
+]
