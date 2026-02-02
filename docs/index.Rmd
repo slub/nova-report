@@ -163,7 +163,7 @@ indexed_records_series_monthly2023 <- indexed_records_series_monthly[grepl("^202
 
 Gesamtanzahl an Werten: `r print_n(sum(indexed_records_series_daily2023$count))`
 
-```{r indexed-records2023-plot,eval=F}
+```{r indexed-records2023-plot, eval=F}
 plot_time_series_day(indexed_records_series_daily2023, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
