@@ -1,114 +1,31 @@
 [
   {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMzg0Ny8xNTM4LTQzNTcvYWNmYTcx",
-    "nova": [
-      "2024-03-01T16:51:32.203Z"
-    ]
-  },
-  {
-    "id": "0-1785792784",
-    "nova": [
-      "2023-12-06T06:14:28.258Z"
-    ]
-  },
-  {
     "record": {
       "format": "E-Artikel",
-      "title": "Using k-NN Artificial Intelligence for Predictive Maintenance in Facility Management",
+      "title": "The Scientific American Publications for 1891",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
       "identifier": "",
       "language": "Ohne Angabe",
-      "subject": "",
+      "subject": "Multidisciplinary",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTQ0NDUvMjM0ODgzNzkvaWplZWUtdjEwaTZwMTAx",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAzOC9zY2llbnRpZmljYW1lcmljYW4wMjI4MTg5MS0xNDFi",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=f6f9a6bbdf221e3f448415b04caee7fe5d6d3bc70bcba922beaaf2518b9f7912&amp;PSID=8d5110892555d49244a25f70080445d6",
-        "hostLabel": "... zum Aufsatz via www.internationaljournalssrg.org (Hybrid OA, CC-BY-NC-ND, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
-    "nova": [
-      "2023-08-16T17:35:44.607Z"
-    ]
-  },
-  {
-    "record": {
-      "format": "E-Artikel",
-      "title": "Usefulness of the Informant Questionnaire on Cognitive Decline in the Elderly for Predicting Postoperative Delirium in Elderly Patients: A Pilot Study",
-      "contributor": [],
-      "publisher": [],
-      "ispartof": [],
-      "identifier": "",
-      "language": "Englisch",
-      "subject": "General Medicine",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTI3NzkvZG5kLjIwMTUuMTQuMy4xMjA",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=82a7eaf762c4394b4c70a5a3f16549e13d15fc572cb313ed9977ca510fcc89ba&amp;PSID=06a9a1ffbc38cecbcff5acd39701d9b0",
-        "hostLabel": "... zum Aufsatz via dnd.or.kr",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=82a7eaf762c4394b4c70a5a3f16549e13d15fc572cb313ed9977ca510fcc89ba&amp;PSID=06a9a1ffbc38cecbcff5acd39701d9b0",
-        "hostLabel": "Zugangsbedingungen via EZB",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
-    "nova": [
-      "2023-06-14T21:49:28.273Z"
-    ]
-  },
-  {
-    "record": {
-      "format": "E-Artikel",
-      "title": "From Anglo American Publications",
-      "contributor": [],
-      "publisher": [],
-      "ispartof": [],
-      "identifier": "",
-      "language": "Englisch",
-      "subject": ["Linguistics and Language", "Language and Linguistics"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTA4Ni80NjQ2Mzk",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=85a30f650e56ba316586621d982ac382c460b58337570a95fd9f1c2a2cde565e&amp;PSID=fb1d6b8de9fc23eafbff76aef3e5bf97",
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=ab402b4976b36c18be9de2feacb61a7386a998d0a7a30474f889aa9eb762345e&amp;PSID=6087cf53fd104d8df170e3d6f7fe9896",
         "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Journal STORage&quot;&gt;JSTOR&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=85a30f650e56ba316586621d982ac382c460b58337570a95fd9f1c2a2cde565e&amp;PSID=fb1d6b8de9fc23eafbff76aef3e5bf97",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=ab402b4976b36c18be9de2feacb61a7386a998d0a7a30474f889aa9eb762345e&amp;PSID=6087cf53fd104d8df170e3d6f7fe9896",
         "hostLabel": "Zugangsbedingungen via EZB",
         "note": "",
         "material": "",
@@ -118,76 +35,37 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2024-03-01T12:30:20.285Z"
+      "2023-06-14T23:24:21.192Z"
     ]
   },
   {
     "record": {
-      "format": "E-Artikel",
-      "title": "Javier Espejo Sur&oacute;s y Carlos Mata Indur&aacute;in, eds., &laquo;Preludio a &quot;La dama boba&quot; de Lope de Vega (historia y cr&iacute;tica)&raquo;",
-      "contributor": [],
-      "publisher": [],
-      "ispartof": [],
-      "identifier": "",
-      "language": "Ohne Angabe",
-      "subject": ["Literature and Literary Theory", "Linguistics and Language", "Language and Linguistics"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuNTU2NS9yZXYvYW51YXJpb2xvcGVkZXZlZ2EuNDYz",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=09b780dc2f3ee444f157ae93e03236a05486c60021abba2e672a4cb66ffbc9e0&amp;PSID=7a837d20f8e2ee477613eb9848e11e81",
-        "hostLabel": "... zum Aufsatz via ddd.uab.cat",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=09b780dc2f3ee444f157ae93e03236a05486c60021abba2e672a4cb66ffbc9e0&amp;PSID=7a837d20f8e2ee477613eb9848e11e81",
-        "hostLabel": "Zugangsbedingungen via EZB",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
-    "nova": [
-      "2022-11-04T16:19:31.461Z"
-    ]
-  },
-  {
-    "record": {
-      "format": "E-Artikel",
-      "title": "Numerical Analysis of Effective Plasma Frequency in One-Dimensional Superconducting Photonic Crystals Containing Metamaterials",
-      "contributor": [],
-      "publisher": [],
+      "format": "E-Book",
+      "title": "Coordination Under Uncertainty",
+      "contributor": ["Ostrovsky, Michael [VerfasserIn]", "Schwarz, Michael [VerfasserIn]"],
+      "publisher": "[S.l.] SSRN 2003 ",
       "ispartof": [],
       "identifier": "",
       "language": "Englisch",
-      "subject": ["Condensed Matter Physics", "Electronic, Optical and Magnetic Materials"],
-      "description": "",
+      "subject": "",
+      "description": "A decision maker needs to schedule several activities that take uncertain time to complete and are only valuable together. Some activities are bound to be finished earlier than others, thus incurring waiting costs. We show how to schedule activities optimally, how to give independent agents performing them incentives that implement the efficient schedule, how to form teams, and how to optimally reduce uncertainty when it is possible to do so at a cost. The paper offers insights into important economic decisions such as planning large projects and coordinating product development activities",
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwNy9zMTA5NDgtMDE1LTMyMTYtMQ",
+    "id": "0-1833512472",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=a52dc88049a3a96b7ead17b731f35458b3bee60e89b5438e750944e65bd942a8&amp;PSID=b4aee107f000cf7b3987d4020b7fbd9e",
-        "hostLabel": "... zum Aufsatz via Springer",
+        "uri": "https://ssrn.com/abstract=336263",
+        "hostLabel": "... zum E-Book (frei zugänglich)",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=a52dc88049a3a96b7ead17b731f35458b3bee60e89b5438e750944e65bd942a8&amp;PSID=b4aee107f000cf7b3987d4020b7fbd9e",
-        "hostLabel": "Zugangsbedingungen via EZB",
+        "uri": "https://doi.org/10.2139/ssrn.336263",
+        "hostLabel": "... zum E-Book via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (frei zugänglich)",
         "note": "",
         "material": "",
         "intro": ""
@@ -196,19 +74,19 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2023-06-15T00:02:48.655Z"
+      "2023-03-09T06:36:53.443Z"
     ]
   },
   {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMzIwODkvd2JoLnBody4yMDIwLjMoMjczKS4wMDAx",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAxNi9qLmpwYWluc3ltbWFuLjIwMjIuMDIuMTU1",
     "nova": [
-      "2023-06-14T21:44:27.457Z"
+      "2023-06-15T00:02:39.943Z"
     ]
   },
   {
     "record": {
       "format": "E-Artikel",
-      "title": "Does Freedom of Association Justify Restrictions on Immigration?",
+      "title": "МОДЕЛЮВАННЯ ЗАВИТКИ ВНУТРІШНЬОГО ВУХА ЛЮДИНИ",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
@@ -219,19 +97,19 @@
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuNzE0Ni9yYy4xMDI3MjI0",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTE2MDMvbWllLjE5OTYtMTk2MC4yMDEyLjMuMTky",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=127fb3e703fc8143d8192ad9ce33d61366c9cf40fde8e48ff883a7f2a98f1161&amp;PSID=8a47ae7390117754b701e009e0b5aac4",
-        "hostLabel": "... zum Aufsatz via www.rescogitans.sdu.dk",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=762bf91c63c066cc77589d8e2c5336a764979eca2459aa363268088d32691492&amp;PSID=4d8d32966a6f58c38d7a5b47b1b055fb",
+        "hostLabel": "... zum Aufsatz via ojs.tdmu.edu.ua",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=127fb3e703fc8143d8192ad9ce33d61366c9cf40fde8e48ff883a7f2a98f1161&amp;PSID=8a47ae7390117754b701e009e0b5aac4",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=762bf91c63c066cc77589d8e2c5336a764979eca2459aa363268088d32691492&amp;PSID=4d8d32966a6f58c38d7a5b47b1b055fb",
         "hostLabel": "Zugangsbedingungen via EZB",
         "note": "",
         "material": "",
@@ -241,44 +119,30 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2023-06-15T00:25:59.925Z"
+      "2022-01-04T22:31:58.899Z"
     ]
   },
   {
     "record": {
       "format": "E-Artikel",
-      "title": "Sebkezel&eacute;s az &oacute;kori Egyiptomban",
+      "title": "What Is It Like to Be a Bot?",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
       "identifier": "",
-      "language": "Ohne Angabe",
-      "subject": ["General Earth and Planetary Sciences", "General Environmental Science"],
+      "language": "Englisch",
+      "subject": "Pharmacology (medical)",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTcxMDcva2guMjAyMi4yNC4yNC0zNA",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMjEzOS9zc3JuLjQ0NDM3Mjc",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=4f1563c69326fbb07fe1b9629211f48b5e286e941bd1c4b76c6e91f82a80ee70&amp;PSID=a6283fc7964b6e85e3e114da75098883",
-        "hostLabel": "... zum Aufsatz via www.kaleidoscopehistory.hu",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=4f1563c69326fbb07fe1b9629211f48b5e286e941bd1c4b76c6e91f82a80ee70&amp;PSID=a6283fc7964b6e85e3e114da75098883",
-        "hostLabel": "Zugangsbedingungen via EZB",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=4f1563c69326fbb07fe1b9629211f48b5e286e941bd1c4b76c6e91f82a80ee70&amp;PSID=a6283fc7964b6e85e3e114da75098883",
-        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (Gold OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=1f83567d02ee20f941d8fc080034c41abeb0ce56e466fca9a46a89874e8283b8&amp;PSID=51024c729c59ca2c8813e1d3f8cb4c2f",
+        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (Green OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
@@ -287,7 +151,136 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2022-09-12T18:07:37.459Z"
+      "2023-06-15T02:50:39.541Z"
+    ]
+  },
+  {
+    "record": {
+      "format": "E-Artikel",
+      "title": "Agrobiotechnologies in the Italian media. A study carried out by the Osservatorio di Pavia",
+      "contributor": [],
+      "publisher": [],
+      "ispartof": [],
+      "identifier": "",
+      "language": "Ohne Angabe",
+      "subject": "Communication",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMjIzMjMvMi4wMjAyMDIwMw",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=c571d8ca4d6aa88675fde3d0d9b8d787c1ffc77a87a7b16570e1eeea863d6f39&amp;PSID=c5a817ba72644c858d3f19778bc801ce",
+        "hostLabel": "... zum Aufsatz via jcom.sissa.it",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=c571d8ca4d6aa88675fde3d0d9b8d787c1ffc77a87a7b16570e1eeea863d6f39&amp;PSID=c5a817ba72644c858d3f19778bc801ce",
+        "hostLabel": "Zugangsbedingungen via EZB",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": [
+      "2023-06-14T21:49:14.560Z"
+    ]
+  },
+  {
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMzM4OS9mbmNpci4yMDIxLjY4MTcwNg",
+    "nova": [
+      "2022-09-12T17:13:13.644Z"
+    ]
+  },
+  {
+    "record": {
+      "format": "E-Book",
+      "title": "A catalogue of an entire new collection of nearly 275 modern European paintings: by the most distinguished living European artists : now exhibited at the Apollo Association Gallery, corner of Broadway &amp; Chambers Sts. ... : will be sold without reseve at public auction, on Friday morning, July 2nd, at 10 o&#039;clock",
+      "contributor": "J. B. Glover",
+      "publisher": "[New York] [Apollo Association Gallery ?] 1841 ",
+      "ispartof": [],
+      "identifier": "",
+      "language": "Englisch",
+      "subject": ["auction catalogs", "Auction catalogs", "Catalogues de vente aux ench&egrave;res", "Auktionskatalog"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1870870441",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://archive.org/details/b15188917",
+        "hostLabel": "... zum E-Book (frei zugänglich)",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": [
+      "2023-12-07T06:19:18.165Z"
+    ]
+  },
+  {
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwNy9zMDAxMDgtMDE0LTM1MzAteA",
+    "nova": [
+      "2023-06-14T21:45:03.440Z"
+    ]
+  },
+  {
+    "record": {
+      "format": "E-Artikel",
+      "title": "Kamu &Ccedil;alışanlarında &Ouml;rg&uuml;tsel Adalet Algısı ve &Ouml;rg&uuml;tsel Bağlılık D&uuml;zeyi Arasındaki İlişkiye Y&ouml;nelik Bir Araştırma: Bursa ve Afyonkarahisar İli &Ouml;rneği",
+      "contributor": [],
+      "publisher": [],
+      "ispartof": [],
+      "identifier": "",
+      "language": "Ohne Angabe",
+      "subject": "General Medicine",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTgwMzcvYXVzYmQuNjMyMTEx",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=effd4f4e951c56068dccfc443263e98c32bef191b64083b3e578a304b0837a54&amp;PSID=e13ae8a8a9f78ce57002796a097ed24a",
+        "hostLabel": "... zum Aufsatz via dergipark.org.tr",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=effd4f4e951c56068dccfc443263e98c32bef191b64083b3e578a304b0837a54&amp;PSID=e13ae8a8a9f78ce57002796a097ed24a",
+        "hostLabel": "Zugangsbedingungen via EZB",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=effd4f4e951c56068dccfc443263e98c32bef191b64083b3e578a304b0837a54&amp;PSID=e13ae8a8a9f78ce57002796a097ed24a",
+        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (Gold OA, CC-BY-NC, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": [
+      "2022-01-04T23:44:44.447Z"
     ]
   }
 ]

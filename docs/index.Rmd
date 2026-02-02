@@ -118,7 +118,7 @@ Zenodo-Community: [SLUB Nova](https://zenodo.org/communities/slub-nova/records) 
 ## Indexierungen
 
 ```{r indexed-records-input}
-indexed_records_series <- readRDS("data/indexed-records-series.RDS")
+indexed_records_series_daily <- readRDS("data/indexed-records-series-daily.RDS")
 indexed_records_series_monthly <- readRDS("data/indexed-records-series-monthly.RDS")
 indexed_records_sample <- readRDS("data/indexed-records-sample-full.RDS")
 ```
@@ -127,10 +127,10 @@ indexed_records_sample <- readRDS("data/indexed-records-sample-full.RDS")
 
 #### 2022–2024
 
-Gesamtanzahl an Werten: `r print_n(sum(indexed_records_series$count))`
+Gesamtanzahl an Werten: `r print_n(sum(indexed_records_series_daily$count))`
 
 ```{r indexed-records-plot, eval=F}
-plot_time_series_day(indexed_records_series, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
+plot_time_series_day(indexed_records_series_daily, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
 ```
 
 ```{r indexed-records-plot-monthly}
@@ -140,14 +140,14 @@ plot_time_series_month(indexed_records_series_monthly, xlab = "Indexierungsdatum
 #### 2022
 
 ```{r indexed-records2022}
-indexed_records_series2022 <- indexed_records_series[grepl("^2022", indexed_records_series$day), ]
+indexed_records_series_daily2022 <- indexed_records_series_daily[grepl("^2022", indexed_records_series_daily$day), ]
 indexed_records_series_monthly2022 <- indexed_records_series_monthly[grepl("^2022", indexed_records_series_monthly$month), ]
 ```
 
-Gesamtanzahl an Werten: `r print_n(sum(indexed_records_series2022$count))`
+Gesamtanzahl an Werten: `r print_n(sum(indexed_records_series_daily2022$count))`
 
 ```{r indexed-records2022-plot, eval=F}
-plot_time_series_day(indexed_records_series2022, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series_day(indexed_records_series_daily2022, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 ```{r indexed-records2022-plot-monthly}
@@ -157,14 +157,14 @@ plot_time_series_month(indexed_records_series_monthly2022, xlab = "Indexierungsd
 #### 2023
 
 ```{r indexed-records2023}
-indexed_records_series2023 <- indexed_records_series[grepl("^2023", indexed_records_series$day), ]
+indexed_records_series_daily2023 <- indexed_records_series_daily[grepl("^2023", indexed_records_series_daily$day), ]
 indexed_records_series_monthly2023 <- indexed_records_series_monthly[grepl("^2023", indexed_records_series_monthly$month), ]
 ```
 
-Gesamtanzahl an Werten: `r print_n(sum(indexed_records_series2023$count))`
+Gesamtanzahl an Werten: `r print_n(sum(indexed_records_series_daily2023$count))`
 
 ```{r indexed-records2023-plot,eval=F}
-plot_time_series_day(indexed_records_series2023, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series_day(indexed_records_series_daily2023, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 ```{r indexed-records2023-plot-monthly}
@@ -174,14 +174,14 @@ plot_time_series_month(indexed_records_series_monthly2023, xlab = "Indexierungsd
 #### 2024
 
 ```{r indexed-records2024}
-indexed_records_series2024 <- indexed_records_series[grepl("^2024", indexed_records_series$day), ]
+indexed_records_series_daily2024 <- indexed_records_series_daily[grepl("^2024", indexed_records_series_daily$day), ]
 indexed_records_series_monthly2024 <- indexed_records_series_monthly[grepl("^2024", indexed_records_series_monthly$month), ]
 ```
 
-Gesamtanzahl an Werten: `r print_n(sum(indexed_records_series2024$count))`
+Gesamtanzahl an Werten: `r print_n(sum(indexed_records_series_daily2024$count))`
 
 ```{r indexed-records2024-plot, eval=F}
-plot_time_series_day(indexed_records_series2024, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series_day(indexed_records_series_daily2024, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 ```{r indexed-records2024-plot-monthly}
@@ -209,7 +209,7 @@ for (i in seq_len(nrow(indexed_records_sample_df))) {
 ## Aktivierungen
 
 ```{r newitem-records-input}
-newitem_records_series <- readRDS("data/newitem-records-series.RDS")
+newitem_records_series_daily <- readRDS("data/newitem-records-series-daily.RDS")
 newitem_records_series_monthly <- readRDS("data/newitem-records-series-monthly.RDS")
 newitem_records_sample <- readRDS("data/newitem-records-sample-full.RDS")
 ```
@@ -218,10 +218,10 @@ newitem_records_sample <- readRDS("data/newitem-records-sample-full.RDS")
 
 #### 2022–2024
 
-Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series$count))`
+Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series_daily$count))`
 
 ```{r newitem-records-plot, eval=F}
-plot_time_series_day(newitem_records_series, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
+plot_time_series_day(newitem_records_series_daily, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
 ```
 
 ```{r newitem-records-plot-monthly}
@@ -231,14 +231,14 @@ plot_time_series_month(newitem_records_series_monthly, xlab = "Aktivierungsdatum
 #### 2022
 
 ```{r newitem-records2022}
-newitem_records_series2022 <- newitem_records_series[grepl("^2022", newitem_records_series$day), ]
+newitem_records_series_daily2022 <- newitem_records_series_daily[grepl("^2022", newitem_records_series_daily$day), ]
 newitem_records_series_monthly2022 <- newitem_records_series_monthly[grepl("^2022", newitem_records_series_monthly$month), ]
 ```
 
-Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series2022$count))`
+Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series_daily2022$count))`
 
 ```{r newitem-records2022-plot, eval=F}
-plot_time_series_day(newitem_records_series2022, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series_day(newitem_records_series_daily2022, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 ```{r newitem-records2022-monthly-plot}
@@ -248,14 +248,14 @@ plot_time_series_month(newitem_records_series_monthly2022, xlab = "Aktivierungsd
 #### 2023
 
 ```{r newitem-records2023}
-newitem_records_series2023 <- newitem_records_series[grepl("^2023", newitem_records_series$day), ]
+newitem_records_series_daily2023 <- newitem_records_series_daily[grepl("^2023", newitem_records_series_daily$day), ]
 newitem_records_series_monthly2023 <- newitem_records_series_monthly[grepl("^2023", newitem_records_series_monthly$month), ]
 ```
 
-Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series2023$count))`
+Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series_daily2023$count))`
 
 ```{r newitem-records2023-plot, eval=F}
-plot_time_series_day(newitem_records_series2023, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series_day(newitem_records_series_daily2023, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 ```{r newitem-records2023-monthly-plot}
@@ -265,14 +265,14 @@ plot_time_series_month(newitem_records_series_monthly2023, xlab = "Aktivierungsd
 #### 2024
 
 ```{r newitem-records2024}
-newitem_records_series2024 <- newitem_records_series[grepl("^2024", newitem_records_series$day), ]
+newitem_records_series_daily2024 <- newitem_records_series_daily[grepl("^2024", newitem_records_series_daily$day), ]
 newitem_records_series_monthly2024 <- newitem_records_series_monthly[grepl("^2024", newitem_records_series_monthly$month), ]
 ```
 
-Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series2024$count))`
+Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series_daily2024$count))`
 
 ```{r newitem-records2024-plot, eval=F}
-plot_time_series_day(newitem_records_series2024, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series_day(newitem_records_series_daily2024, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 ```{r newitem-records2024-monthly-plot}
@@ -298,7 +298,7 @@ for (i in seq_len(nrow(newitem_records_sample_df))) {
 ## Erwerbungen
 
 ```{r purchase-records-input}
-purchase_records_series <- readRDS("data/purchase-records-series.RDS")
+purchase_records_series_daily <- readRDS("data/purchase-records-series-daily.RDS")
 purchase_records_series_monthly <- readRDS("data/purchase-records-series-monthly.RDS")
 purchase_records_sample <- readRDS("data/purchase-records-sample-full.RDS")
 ```
@@ -307,10 +307,10 @@ purchase_records_sample <- readRDS("data/purchase-records-sample-full.RDS")
 
 #### 2022–2024
 
-Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series$count))`
+Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series_daily$count))`
 
 ```{r purchase-records-plot, eval=F}
-plot_time_series_day(purchase_records_series, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
+plot_time_series_day(purchase_records_series_daily, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y", date_breaks = "1 year")
 ```
 
 ```{r purchase-records-plot-monthly}
@@ -320,14 +320,14 @@ plot_time_series_month(purchase_records_series_monthly, xlab = "Erwerbungsdatum"
 #### 2022
 
 ```{r purchase-records2022}
-purchase_records_series2022 <- purchase_records_series[grepl("^2022", purchase_records_series$day), ]
+purchase_records_series_daily2022 <- purchase_records_series_daily[grepl("^2022", purchase_records_series_daily$day), ]
 purchase_records_series_monthly2022 <- purchase_records_series_monthly[grepl("^2022", purchase_records_series_monthly$month), ]
 ```
 
-Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series2022$count))`
+Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series_daily2022$count))`
 
 ```{r purchase-records2022-plot, eval=F}
-plot_time_series_day(purchase_records_series2022, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series_day(purchase_records_series_daily2022, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 ```{r purchase-records2022-plot-monthly}
@@ -337,14 +337,14 @@ plot_time_series_month(purchase_records_series_monthly2022, xlab = "Erwerbungsda
 #### 2023
 
 ```{r purchase-records2023}
-purchase_records_series2023 <- purchase_records_series[grepl("^2023", purchase_records_series$day), ]
+purchase_records_series_daily2023 <- purchase_records_series_daily[grepl("^2023", purchase_records_series_daily$day), ]
 purchase_records_series_monthly2023 <- purchase_records_series_monthly[grepl("^2023", purchase_records_series_monthly$month), ]
 ```
 
-Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series2023$count))`
+Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series_daily2023$count))`
 
 ```{r purchase-records2023-plot, eval=F}
-plot_time_series_day(purchase_records_series2023, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series_day(purchase_records_series_daily2023, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 ```{r purchase-records2023-plot-monthly}
@@ -354,14 +354,14 @@ plot_time_series_month(purchase_records_series_monthly2023, xlab = "Erwerbungsda
 #### 2024
 
 ```{r purchase-records2024}
-purchase_records_series2024 <- purchase_records_series[grepl("^2024", purchase_records_series$day), ]
+purchase_records_series_daily2024 <- purchase_records_series_daily[grepl("^2024", purchase_records_series_daily$day), ]
 purchase_records_series_monthly2024 <- purchase_records_series_monthly[grepl("^2024", purchase_records_series_monthly$month), ]
 ```
 
-Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series2024$count))`
+Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series_daily2024$count))`
 
 ```{r purchase-records2024-plot, eval=F}
-plot_time_series_day(purchase_records_series2024, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+plot_time_series_day(purchase_records_series_daily2024, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
 ```
 
 ```{r purchase-records2024-plot-monthly}
