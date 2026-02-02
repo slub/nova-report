@@ -1,8 +1,14 @@
 [
   {
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMzM5MC9zdTE0MTQ4NjI0",
+    "nova": [
+      "2022-09-12T19:03:21.801Z"
+    ]
+  },
+  {
     "record": {
       "format": "E-Artikel",
-      "title": "The Scientific American Publications for 1891",
+      "title": "Our Woolen Manufactures",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
@@ -13,19 +19,33 @@
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAzOC9zY2llbnRpZmljYW1lcmljYW4wMjI4MTg5MS0xNDFi",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAzOC9zY2llbnRpZmljYW1lcmljYW4wMjA4MTg2Mi04OQ",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=ab402b4976b36c18be9de2feacb61a7386a998d0a7a30474f889aa9eb762345e&amp;PSID=6087cf53fd104d8df170e3d6f7fe9896",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=25d053e829b9761425d7801949a18f52e2e2d35a9d06098d82254a164b4fae09&amp;PSID=6ddd7a5969d5cd4a65c40a29881bc533",
         "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Journal STORage&quot;&gt;JSTOR&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=ab402b4976b36c18be9de2feacb61a7386a998d0a7a30474f889aa9eb762345e&amp;PSID=6087cf53fd104d8df170e3d6f7fe9896",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=1.article&amp;rl_citation=25d053e829b9761425d7801949a18f52e2e2d35a9d06098d82254a164b4fae09&amp;PSID=6ddd7a5969d5cd4a65c40a29881bc533",
+        "hostLabel": "... zum Aufsatz via EBSCOhost",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=2.article&amp;rl_citation=25d053e829b9761425d7801949a18f52e2e2d35a9d06098d82254a164b4fae09&amp;PSID=6ddd7a5969d5cd4a65c40a29881bc533",
+        "hostLabel": "... zum Aufsatz via catalog.hathitrust.org",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=25d053e829b9761425d7801949a18f52e2e2d35a9d06098d82254a164b4fae09&amp;PSID=6ddd7a5969d5cd4a65c40a29881bc533",
         "hostLabel": "Zugangsbedingungen via EZB",
         "note": "",
         "material": "",
@@ -35,37 +55,37 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2023-06-14T23:24:21.192Z"
+      "2023-06-14T21:13:40.091Z"
     ]
   },
   {
     "record": {
-      "format": "E-Book",
-      "title": "Coordination Under Uncertainty",
-      "contributor": ["Ostrovsky, Michael [VerfasserIn]", "Schwarz, Michael [VerfasserIn]"],
-      "publisher": "[S.l.] SSRN 2003 ",
+      "format": "E-Artikel",
+      "title": "Computer",
+      "contributor": [],
+      "publisher": [],
       "ispartof": [],
       "identifier": "",
-      "language": "Englisch",
-      "subject": "",
-      "description": "A decision maker needs to schedule several activities that take uncertain time to complete and are only valuable together. Some activities are bound to be finished earlier than others, thus incurring waiting costs. We show how to schedule activities optimally, how to give independent agents performing them incentives that implement the efficient schedule, how to form teams, and how to optimally reduce uncertainty when it is possible to do so at a cost. The paper offers insights into important economic decisions such as planning large projects and coordinating product development activities",
+      "language": "Ohne Angabe",
+      "subject": "General Computer Science",
+      "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-1833512472",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTEwOS9jLW0uMTk4MS4yMjAzNjM",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://ssrn.com/abstract=336263",
-        "hostLabel": "... zum E-Book (frei zugänglich)",
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=c8e5c9517dad2eec1cfed71fd2489bd31b7258e6d922ccb87912eaf39a80f1e3&amp;PSID=19536eb5be319fe0bbd45a57e6312dcf",
+        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Institute of Electrical and Electronics Engineers&quot;&gt;IEEE Xplore&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://doi.org/10.2139/ssrn.336263",
-        "hostLabel": "... zum E-Book via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (frei zugänglich)",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=c8e5c9517dad2eec1cfed71fd2489bd31b7258e6d922ccb87912eaf39a80f1e3&amp;PSID=19536eb5be319fe0bbd45a57e6312dcf",
+        "hostLabel": "Zugangsbedingungen via EZB",
         "note": "",
         "material": "",
         "intro": ""
@@ -74,19 +94,13 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2023-03-09T06:36:53.443Z"
-    ]
-  },
-  {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAxNi9qLmpwYWluc3ltbWFuLjIwMjIuMDIuMTU1",
-    "nova": [
-      "2023-06-15T00:02:39.943Z"
+      "2023-02-23T17:01:28.471Z"
     ]
   },
   {
     "record": {
       "format": "E-Artikel",
-      "title": "МОДЕЛЮВАННЯ ЗАВИТКИ ВНУТРІШНЬОГО ВУХА ЛЮДИНИ",
+      "title": "U.S. Policy Toward Africa : Application of U.S. Africa Command Signals Africa&#039;s Increasing Strategic Importance: Application of U.S. Africa Command Signals Africa&#039;s Increasing Strategic Importance",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
@@ -97,20 +111,27 @@
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTE2MDMvbWllLjE5OTYtMTk2MC4yMDEyLjMuMTky",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMzc1MTMvY2lhci52OGkxLjQ2MQ",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=762bf91c63c066cc77589d8e2c5336a764979eca2459aa363268088d32691492&amp;PSID=4d8d32966a6f58c38d7a5b47b1b055fb",
-        "hostLabel": "... zum Aufsatz via ojs.tdmu.edu.ua",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=be096b56ea57ee4d99d151fbd71fa6f2578bbd3dbb3903d5ca204605c04eaf4a&amp;PSID=190dd2db54118559a8ae48c9e7d26222",
+        "hostLabel": "... zum Aufsatz via www.cornelliar.org",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=762bf91c63c066cc77589d8e2c5336a764979eca2459aa363268088d32691492&amp;PSID=4d8d32966a6f58c38d7a5b47b1b055fb",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=be096b56ea57ee4d99d151fbd71fa6f2578bbd3dbb3903d5ca204605c04eaf4a&amp;PSID=190dd2db54118559a8ae48c9e7d26222",
         "hostLabel": "Zugangsbedingungen via EZB",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=be096b56ea57ee4d99d151fbd71fa6f2578bbd3dbb3903d5ca204605c04eaf4a&amp;PSID=190dd2db54118559a8ae48c9e7d26222",
+        "hostLabel": "... zum Aufsatz via journals.library.cornell.edu (Bronze OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
@@ -119,30 +140,149 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2022-01-04T22:31:58.899Z"
+      "2023-06-14T22:14:48.205Z"
     ]
   },
   {
     "record": {
       "format": "E-Artikel",
-      "title": "What Is It Like to Be a Bot?",
+      "title": "Smart technologies in supermarket retail and their influence on citizens&#039; quality of life during the COVID-19 pandemic",
+      "contributor": ["Pinochet, Luis Hernan Contreras [VerfasserIn]", "Souza, Cesar Alexandre [VerfasserIn]", "Viana, Adriana Backx Noronha [VerfasserIn]", "Rodríguez-Abitia, Guillermo [VerfasserIn]"],
+      "publisher": "2024 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": "",
+      "language": "Englisch",
+      "subject": ["Smart technologies", "Smart cities", "Supermarket retail", "Quality of life", "Aufsatz in Zeitschrift"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1888287292",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://www.emerald.com/insight/content/doi/10.1108/REGE-09-2021-0178/full/pdf",
+        "hostLabel": "... zum Aufsatz (frei zugänglich)",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://doi.org/10.1108/REGE-09-2021-0178",
+        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (frei zugänglich)",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": [
+      "2024-06-11T09:23:59.111Z"
+    ]
+  },
+  {
+    "record": {
+      "format": "E-Artikel",
+      "title": "Portugu&ecirc;s",
+      "contributor": [],
+      "publisher": [],
+      "ispartof": [],
+      "identifier": "",
+      "language": ["Portugiesisch", "Englisch"],
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "ai-28-a351c3fe07694787b1184a482cab71b5",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://doi.org/10.22570/ergodesignhci.v5iEspecial.337",
+        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://doi.org/10.22570/ergodesignhci.v5iEspecial.337",
+        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": [
+      "2023-02-23T22:47:48.463Z"
+    ]
+  },
+  {
+    "record": {
+      "format": "E-Artikel",
+      "title": "Janet Tello Gilardi y Carlos Calder&oacute;n Puertas (compiladores). Reglas de Brasilia: g&eacute;nero y acceso  a la justicia. Tomo I",
+      "contributor": [],
+      "publisher": [],
+      "ispartof": [],
+      "identifier": "",
+      "language": "Spanisch",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "ai-28-91aa77f7944b4dcc9b115e250bbbef95",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://doi.org/10.35292/ropj.v13i15.401",
+        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=00311d0f7a5584eb5560a472079bd5b3c4c61555dfca3ba2b98811f376ea4ba8&amp;PSID=4da2ff7ad5acab155c27a2895084c3d9",
+        "hostLabel": "... zum Aufsatz via revistas.pj.gob.pe (Gold OA, CC-BY, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": [
+      "2023-02-23T23:27:05.096Z"
+    ]
+  },
+  {
+    "record": {
+      "format": "E-Artikel",
+      "title": "CR&sup2;M : an approach for capacity control considering long-term effects on the value of a customer for the company",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
       "identifier": "",
       "language": "Englisch",
-      "subject": "Pharmacology (medical)",
+      "subject": "",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMjEzOS9zc3JuLjQ0NDM3Mjc",
+    "id": "126-ZnR1bmliYXlyZXV0aHJlZjpvYWk6OjQ2MjA4",
     "oa": 0,
     "thumbnail": "",
-    "linksAccess": [
+    "linksGeneral": [
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=1f83567d02ee20f941d8fc080034c41abeb0ce56e466fca9a46a89874e8283b8&amp;PSID=51024c729c59ca2c8813e1d3f8cb4c2f",
-        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (Green OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
+        "uri": "https://eref.uni-bayreuth.de/46208/",
+        "hostLabel": "... zum Aufsatz",
         "note": "",
         "material": "",
         "intro": ""
@@ -151,136 +291,19 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2023-06-15T02:50:39.541Z"
+      "2023-04-26T19:53:18.112Z"
     ]
   },
   {
-    "record": {
-      "format": "E-Artikel",
-      "title": "Agrobiotechnologies in the Italian media. A study carried out by the Osservatorio di Pavia",
-      "contributor": [],
-      "publisher": [],
-      "ispartof": [],
-      "identifier": "",
-      "language": "Ohne Angabe",
-      "subject": "Communication",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMjIzMjMvMi4wMjAyMDIwMw",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=c571d8ca4d6aa88675fde3d0d9b8d787c1ffc77a87a7b16570e1eeea863d6f39&amp;PSID=c5a817ba72644c858d3f19778bc801ce",
-        "hostLabel": "... zum Aufsatz via jcom.sissa.it",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=c571d8ca4d6aa88675fde3d0d9b8d787c1ffc77a87a7b16570e1eeea863d6f39&amp;PSID=c5a817ba72644c858d3f19778bc801ce",
-        "hostLabel": "Zugangsbedingungen via EZB",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
+    "id": "126-ZnR1aGFsbGVvcGVuZGF0YTpvYWk6b3BlbmRhdGEudW5pLWhhbGxlLmRlOjE5ODExODU5MjAvNzg2NjA=",
     "nova": [
-      "2023-06-14T21:49:14.560Z"
+      "2023-04-26T19:53:41.808Z"
     ]
   },
   {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMzM4OS9mbmNpci4yMDIxLjY4MTcwNg",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTEwOS90aXRzLjIwMjQuMzQ3Mjc1NA",
     "nova": [
-      "2022-09-12T17:13:13.644Z"
-    ]
-  },
-  {
-    "record": {
-      "format": "E-Book",
-      "title": "A catalogue of an entire new collection of nearly 275 modern European paintings: by the most distinguished living European artists : now exhibited at the Apollo Association Gallery, corner of Broadway &amp; Chambers Sts. ... : will be sold without reseve at public auction, on Friday morning, July 2nd, at 10 o&#039;clock",
-      "contributor": "J. B. Glover",
-      "publisher": "[New York] [Apollo Association Gallery ?] 1841 ",
-      "ispartof": [],
-      "identifier": "",
-      "language": "Englisch",
-      "subject": ["auction catalogs", "Auction catalogs", "Catalogues de vente aux ench&egrave;res", "Auktionskatalog"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1870870441",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://archive.org/details/b15188917",
-        "hostLabel": "... zum E-Book (frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
-    "nova": [
-      "2023-12-07T06:19:18.165Z"
-    ]
-  },
-  {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwNy9zMDAxMDgtMDE0LTM1MzAteA",
-    "nova": [
-      "2023-06-14T21:45:03.440Z"
-    ]
-  },
-  {
-    "record": {
-      "format": "E-Artikel",
-      "title": "Kamu &Ccedil;alışanlarında &Ouml;rg&uuml;tsel Adalet Algısı ve &Ouml;rg&uuml;tsel Bağlılık D&uuml;zeyi Arasındaki İlişkiye Y&ouml;nelik Bir Araştırma: Bursa ve Afyonkarahisar İli &Ouml;rneği",
-      "contributor": [],
-      "publisher": [],
-      "ispartof": [],
-      "identifier": "",
-      "language": "Ohne Angabe",
-      "subject": "General Medicine",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTgwMzcvYXVzYmQuNjMyMTEx",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=effd4f4e951c56068dccfc443263e98c32bef191b64083b3e578a304b0837a54&amp;PSID=e13ae8a8a9f78ce57002796a097ed24a",
-        "hostLabel": "... zum Aufsatz via dergipark.org.tr",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=effd4f4e951c56068dccfc443263e98c32bef191b64083b3e578a304b0837a54&amp;PSID=e13ae8a8a9f78ce57002796a097ed24a",
-        "hostLabel": "Zugangsbedingungen via EZB",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=effd4f4e951c56068dccfc443263e98c32bef191b64083b3e578a304b0837a54&amp;PSID=e13ae8a8a9f78ce57002796a097ed24a",
-        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (Gold OA, CC-BY-NC, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
-    "nova": [
-      "2022-01-04T23:44:44.447Z"
+      "2024-11-28T23:03:34.064Z"
     ]
   }
 ]
