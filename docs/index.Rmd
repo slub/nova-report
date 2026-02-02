@@ -50,9 +50,41 @@ decode_html <- function(value) {
 }
 
 parse_publisher <- function(values) {
-  value <- paste0(gsub("  *$", "", unlist(values)), collapse = " ; ")
-  value <- decode_html(value)
-  value
+  if (is.null(values)) {
+    NA
+  } else {
+    value <- paste0(gsub("  *$", "", unlist(values)), collapse = " ; ")
+    value <- decode_html(value)
+    value
+  }
+}
+
+parse_records <- function(records) {
+  data.frame(
+    id = unlist(lapply(records, function(x) x$id)),
+    format = unlist(lapply(records, function(x) ifelse(is.null(x$record$format), NA, x$record$format))),
+    title = unlist(lapply(records, function(x) ifelse(is.null(x$record$title), NA, decode_html(x$record$title)))),
+    contributors = unlist(lapply(records, function(x) ifelse(is.null(x$record$contributor), NA, paste0(unlist(x$record$contributor), collapse = " ; ")))),
+    publisher = unlist(lapply(records, function(x) parse_publisher(x$record$publisher)))
+  )
+}
+
+parse_indexed <- function(records) {
+  records_df <- parse_records(records)
+  records_df$date <- unlist(lapply(records, function(x) gsub("T.*Z", "", unlist(x$nova))))
+  records_df
+}
+
+parse_newitem <- function(records) {
+  records_df <- parse_records(records)
+  records_df$date <- unlist(lapply(records, function(x) gsub("T00:00:00Z", "", x$nova$newitem_date)))
+  records_df
+}
+
+parse_purchase <- function(records) {
+  records_df <- parse_records(records)
+  records_df$date <- unlist(lapply(records, function(x) gsub("T00:00:00Z", "", x$nova$purchase_date)))
+  records_df
 }
 
 print_record <- function(doc, date_label = "Veröffentlichungsdatum") {
@@ -159,14 +191,7 @@ plot_time_series_month(indexed_records_series_monthly2024, xlab = "Indexierungsd
 ### Beispiele {.unlisted .unnumbered}
 
 ```{r indexed-records-sample}
-indexed_records_sample_df <- data.frame(
-  id = unlist(lapply(indexed_records_sample, function(x) x$id)),
-  format = unlist(lapply(indexed_records_sample, function(x) ifelse(is.null(x$record$format), NA, x$record$format))),
-  title = unlist(lapply(indexed_records_sample, function(x) ifelse(is.null(x$record$title), NA, decode_html(x$record$title)))),
-  contributors = unlist(lapply(indexed_records_sample, function(x) ifelse(is.null(x$record$contributor), NA, paste0(unlist(x$record$contributor), collapse = " ; ")))),
-  publisher = unlist(lapply(indexed_records_sample, function(x) ifelse(is.null(x$record$publisher), NA, parse_publisher((x$record$publisher))))),
-  date = unlist(lapply(indexed_records_sample, function(x) gsub("T.*Z", "", unlist(x$nova))))
-)
+indexed_records_sample_df <- parse_indexed(indexed_records_sample)
 indexed_records_sample_df <- indexed_records_sample_df[with(indexed_records_sample_df, order(date, id)), ]
 indexed_records_sample_df <- indexed_records_sample_df[!is.na(indexed_records_sample_df$title), ]
 ```
@@ -257,14 +282,7 @@ plot_time_series_month(newitem_records_series_monthly2024, xlab = "Aktivierungsd
 ### Beispiele {.unlisted .unnumbered}
 
 ```{r newitem-records-sample}
-newitem_records_sample_df <- data.frame(
-  id = unlist(lapply(newitem_records_sample, function(x) x$id)),
-  format = unlist(lapply(newitem_records_sample, function(x) ifelse(is.null(x$record$format), NA, x$record$format))),
-  title = unlist(lapply(newitem_records_sample, function(x) ifelse(is.null(x$record$title), NA, decode_html(x$record$title)))),
-  contributors = unlist(lapply(newitem_records_sample, function(x) ifelse(is.null(x$record$contributor), NA, paste0(unlist(x$record$contributor), collapse = " ; ")))),
-  publisher = unlist(lapply(newitem_records_sample, function(x) ifelse(is.null(x$record$publisher), NA, parse_publisher(x$record$publisher)))),
-  date = unlist(lapply(newitem_records_sample, function(x) gsub("T00:00:00Z", "", x$nova$newitem_date)))
-)
+newitem_records_sample_df <- parse_newitem(newitem_records_sample)
 newitem_records_sample_df <- newitem_records_sample_df[with(newitem_records_sample_df, order(date, id)), ]
 newitem_records_sample_df <- newitem_records_sample_df[!is.na(newitem_records_sample_df$title), ]
 ```
@@ -353,14 +371,7 @@ plot_time_series_month(purchase_records_series_monthly2024, xlab = "Erwerbungsda
 ### Beispiele {.unlisted .unnumbered}
 
 ```{r purchase-records-sample}
-purchase_records_sample_df <- data.frame(
-  id = unlist(lapply(purchase_records_sample, function(x) x$id)),
-  format = unlist(lapply(purchase_records_sample, function(x) ifelse(is.null(x$record$format), NA, x$record$format))),
-  title = unlist(lapply(purchase_records_sample, function(x) ifelse(is.null(x$record$title), NA, decode_html(x$record$title)))),
-  contributors = unlist(lapply(purchase_records_sample, function(x) ifelse(is.null(x$record$contributor), NA, paste0(unlist(x$record$contributor), collapse = " ; ")))),
-  publisher = unlist(lapply(purchase_records_sample, function(x) ifelse(is.null(x$record$publisher), NA, decode_html(gsub("  *$|\\[|\\]", "", paste0(unlist(x$record$publisher), collapse = " ; ")))))),
-  date = unlist(lapply(purchase_records_sample, function(x) gsub("T00:00:00Z", "", x$nova$purchase_date)))
-)
+purchase_records_sample_df <- parse_purchase(purchase_records_sample)
 purchase_records_sample_df <- purchase_records_sample_df[with(purchase_records_sample_df, order(date, id)), ]
 purchase_records_sample_df <- purchase_records_sample_df[!is.na(purchase_records_sample_df$title), ]
 ```
