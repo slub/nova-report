@@ -2,6 +2,8 @@
 
 ## R Environment
 
+If restoring via `renv` fails, try installing the required packages directly.
+
 ```R
 install.packages(c(
   "curl",
