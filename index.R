@@ -141,6 +141,19 @@ indexed_records_series_monthly2024 <- indexed_records_series_monthly[grepl("^202
 plot_time_series_month(indexed_records_series_monthly2024, xlab = "Indexierungsdatum", ylab = "Anzahl Titel")
 
 
+## ----indexed-records2025------------------------------------------------------
+indexed_records_series_daily2025 <- indexed_records_series_daily[grepl("^2025", indexed_records_series_daily$day), ]
+indexed_records_series_monthly2025 <- indexed_records_series_monthly[grepl("^2025", indexed_records_series_monthly$month), ]
+
+
+## ----indexed-records2025-plot, eval=F-----------------------------------------
+# plot_time_series_day(indexed_records_series_daily2025, xlab = "Indexierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+
+
+## ----indexed-records2025-plot-monthly-----------------------------------------
+plot_time_series_month(indexed_records_series_monthly2025, xlab = "Indexierungsdatum", ylab = "Anzahl Titel")
+
+
 ## ----indexed-records-sample---------------------------------------------------
 indexed_records_sample_df <- parse_indexed(indexed_records_sample)
 indexed_records_sample_df <- indexed_records_sample_df[with(indexed_records_sample_df, order(date, id)), ]
