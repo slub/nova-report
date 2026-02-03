@@ -208,6 +208,19 @@ newitem_records_series_monthly2024 <- newitem_records_series_monthly[grepl("^202
 plot_time_series_month(newitem_records_series_monthly2024, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel")
 
 
+## ----newitem-records2025------------------------------------------------------
+newitem_records_series_daily2025 <- newitem_records_series_daily[grepl("^2025", newitem_records_series_daily$day), ]
+newitem_records_series_monthly2025 <- newitem_records_series_monthly[grepl("^2025", newitem_records_series_monthly$month), ]
+
+
+## ----newitem-records2025-plot, eval=F-----------------------------------------
+# plot_time_series_day(newitem_records_series_daily2025, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+
+
+## ----newitem-records2025-monthly-plot-----------------------------------------
+plot_time_series_month(newitem_records_series_monthly2025, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel")
+
+
 ## ----newitem-records-sample---------------------------------------------------
 newitem_records_sample_df <- parse_newitem(newitem_records_sample)
 newitem_records_sample_df <- newitem_records_sample_df[with(newitem_records_sample_df, order(date, id)), ]
@@ -273,6 +286,19 @@ purchase_records_series_monthly2024 <- purchase_records_series_monthly[grepl("^2
 
 ## ----purchase-records2024-plot-monthly----------------------------------------
 plot_time_series_month(purchase_records_series_monthly2024, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel")
+
+
+## ----purchase-records2025-----------------------------------------------------
+purchase_records_series_daily2025 <- purchase_records_series_daily[grepl("^2025", purchase_records_series_daily$day), ]
+purchase_records_series_monthly2025 <- purchase_records_series_monthly[grepl("^2025", purchase_records_series_monthly$month), ]
+
+
+## ----purchase-records2025-plot, eval=F----------------------------------------
+# plot_time_series_day(purchase_records_series_daily2025, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+
+
+## ----purchase-records2025-plot-monthly----------------------------------------
+plot_time_series_month(purchase_records_series_monthly2025, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel")
 
 
 ## ----purchase-records-sample--------------------------------------------------
