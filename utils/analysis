@@ -1,2 +1,6 @@
 #!/usr/bin/env bash
+Rscript src/run_analysis22.R
+Rscript src/run_analysis23.R
+Rscript src/run_analysis24.R
+Rscript src/run_analysis25.R
 Rscript src/run_analysis.R

@@ -1,51 +1,83 @@
 [
   {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMzM5MC9zdTE0MTQ4NjI0",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTE3Ny8wODk2ODYwODIxMTA0NTI3Mg",
     "nova": [
-      "2022-09-12T19:03:21.801Z"
+      "2022-01-04T22:49:12.732Z"
     ]
   },
   {
     "record": {
-      "format": "E-Artikel",
-      "title": "Our Woolen Manufactures",
+      "format": "Elektronischer Konferenzbericht",
+      "title": "Development of super-broadband interferometer in FIR",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
       "identifier": "",
       "language": "Ohne Angabe",
-      "subject": "Multidisciplinary",
+      "subject": "",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAzOC9zY2llbnRpZmljYW1lcmljYW4wMjA4MTg2Mi04OQ",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTExNy8xMi41NTE0NjU",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=25d053e829b9761425d7801949a18f52e2e2d35a9d06098d82254a164b4fae09&amp;PSID=6ddd7a5969d5cd4a65c40a29881bc533",
-        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Journal STORage&quot;&gt;JSTOR&lt;/span&gt;",
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=adc1cfef76d2d428ae379647a9ef0fdc2d9c5aa83f1c07f83f80a8938d35b937&amp;PSID=0f120a4d608c8c3dc5f03ab36049e45b",
+        "hostLabel": "... zum Konferenzbericht via www.spiedigitallibrary.org",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=1.article&amp;rl_citation=25d053e829b9761425d7801949a18f52e2e2d35a9d06098d82254a164b4fae09&amp;PSID=6ddd7a5969d5cd4a65c40a29881bc533",
-        "hostLabel": "... zum Aufsatz via EBSCOhost",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=adc1cfef76d2d428ae379647a9ef0fdc2d9c5aa83f1c07f83f80a8938d35b937&amp;PSID=0f120a4d608c8c3dc5f03ab36049e45b",
+        "hostLabel": "Zugangsbedingungen via EZB",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=2.article&amp;rl_citation=25d053e829b9761425d7801949a18f52e2e2d35a9d06098d82254a164b4fae09&amp;PSID=6ddd7a5969d5cd4a65c40a29881bc533",
-        "hostLabel": "... zum Aufsatz via catalog.hathitrust.org",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=adc1cfef76d2d428ae379647a9ef0fdc2d9c5aa83f1c07f83f80a8938d35b937&amp;PSID=0f120a4d608c8c3dc5f03ab36049e45b",
+        "hostLabel": "... zum Konferenzbericht via arxiv.org (Green OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": [
+      "2022-01-05T02:15:51.406Z"
+    ]
+  },
+  {
+    "record": {
+      "format": "E-Artikel",
+      "title": "Discrete-trial instrumental performance related to reward schedule and developmental level.",
+      "contributor": [],
+      "publisher": [],
+      "ispartof": [],
+      "identifier": "",
+      "language": "Englisch",
+      "subject": "General Medicine",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAzNy9oMDAyNjE1NQ",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=ee97992cd4cc819ccf83b392aa6e330e6f64bb9cf6f80b56917bd9481ccf047a&amp;PSID=a93045b0a46bf7362aee7369bddbb1e0",
+        "hostLabel": "... zum Aufsatz via EBSCOhost/PsycArticles",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=25d053e829b9761425d7801949a18f52e2e2d35a9d06098d82254a164b4fae09&amp;PSID=6ddd7a5969d5cd4a65c40a29881bc533",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=ee97992cd4cc819ccf83b392aa6e330e6f64bb9cf6f80b56917bd9481ccf047a&amp;PSID=a93045b0a46bf7362aee7369bddbb1e0",
         "hostLabel": "Zugangsbedingungen via EZB",
         "note": "",
         "material": "",
@@ -55,83 +87,44 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2023-06-14T21:13:40.091Z"
+      "2022-09-12T16:28:44.081Z"
     ]
   },
   {
     "record": {
       "format": "E-Artikel",
-      "title": "Computer",
+      "title": "On the Performance of Secure Full-Duplex Relaying under Composite Fading Channels",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
       "identifier": "",
       "language": "Ohne Angabe",
-      "subject": "General Computer Science",
+      "subject": ["Applied Mathematics", "Electrical and Electronic Engineering", "Signal Processing"],
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTEwOS9jLW0uMTk4MS4yMjAzNjM",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTEwOS9sc3AuMjAxNC4yMzc0OTk0",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=c8e5c9517dad2eec1cfed71fd2489bd31b7258e6d922ccb87912eaf39a80f1e3&amp;PSID=19536eb5be319fe0bbd45a57e6312dcf",
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=635ae7c78a680dafc7d78393b7235c2bfc5a6176832b0e98484eb1de52b504d3&amp;PSID=84fc26d4a43ee5fbbb9afb3736f9ddb5",
         "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Institute of Electrical and Electronics Engineers&quot;&gt;IEEE Xplore&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=c8e5c9517dad2eec1cfed71fd2489bd31b7258e6d922ccb87912eaf39a80f1e3&amp;PSID=19536eb5be319fe0bbd45a57e6312dcf",
-        "hostLabel": "Zugangsbedingungen via EZB",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
-    "nova": [
-      "2023-02-23T17:01:28.471Z"
-    ]
-  },
-  {
-    "record": {
-      "format": "E-Artikel",
-      "title": "U.S. Policy Toward Africa : Application of U.S. Africa Command Signals Africa&#039;s Increasing Strategic Importance: Application of U.S. Africa Command Signals Africa&#039;s Increasing Strategic Importance",
-      "contributor": [],
-      "publisher": [],
-      "ispartof": [],
-      "identifier": "",
-      "language": "Ohne Angabe",
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMzc1MTMvY2lhci52OGkxLjQ2MQ",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=be096b56ea57ee4d99d151fbd71fa6f2578bbd3dbb3903d5ca204605c04eaf4a&amp;PSID=190dd2db54118559a8ae48c9e7d26222",
-        "hostLabel": "... zum Aufsatz via www.cornelliar.org",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=be096b56ea57ee4d99d151fbd71fa6f2578bbd3dbb3903d5ca204605c04eaf4a&amp;PSID=190dd2db54118559a8ae48c9e7d26222",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=635ae7c78a680dafc7d78393b7235c2bfc5a6176832b0e98484eb1de52b504d3&amp;PSID=84fc26d4a43ee5fbbb9afb3736f9ddb5",
         "hostLabel": "Zugangsbedingungen via EZB",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=be096b56ea57ee4d99d151fbd71fa6f2578bbd3dbb3903d5ca204605c04eaf4a&amp;PSID=190dd2db54118559a8ae48c9e7d26222",
-        "hostLabel": "... zum Aufsatz via journals.library.cornell.edu (Bronze OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=635ae7c78a680dafc7d78393b7235c2bfc5a6176832b0e98484eb1de52b504d3&amp;PSID=84fc26d4a43ee5fbbb9afb3736f9ddb5",
+        "hostLabel": "... zum Aufsatz via arxiv.org (Green OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
@@ -140,132 +133,43 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2023-06-14T22:14:48.205Z"
+      "2023-02-23T18:34:50.592Z"
     ]
   },
   {
-    "record": {
-      "format": "E-Artikel",
-      "title": "Smart technologies in supermarket retail and their influence on citizens&#039; quality of life during the COVID-19 pandemic",
-      "contributor": ["Pinochet, Luis Hernan Contreras [VerfasserIn]", "Souza, Cesar Alexandre [VerfasserIn]", "Viana, Adriana Backx Noronha [VerfasserIn]", "Rodríguez-Abitia, Guillermo [VerfasserIn]"],
-      "publisher": "2024 ",
-      "ispartof": [
-        {}
-      ],
-      "identifier": "",
-      "language": "Englisch",
-      "subject": ["Smart technologies", "Smart cities", "Supermarket retail", "Quality of life", "Aufsatz in Zeitschrift"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1888287292",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://www.emerald.com/insight/content/doi/10.1108/REGE-09-2021-0178/full/pdf",
-        "hostLabel": "... zum Aufsatz (frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://doi.org/10.1108/REGE-09-2021-0178",
-        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwNy9zMTAxMDMtMDIwLTAzMDU0LTc",
     "nova": [
-      "2024-06-11T09:23:59.111Z"
+      "2023-06-15T01:57:21.194Z"
     ]
   },
   {
-    "record": {
-      "format": "E-Artikel",
-      "title": "Portugu&ecirc;s",
-      "contributor": [],
-      "publisher": [],
-      "ispartof": [],
-      "identifier": "",
-      "language": ["Portugiesisch", "Englisch"],
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "ai-28-a351c3fe07694787b1184a482cab71b5",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://doi.org/10.22570/ergodesignhci.v5iEspecial.337",
-        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://doi.org/10.22570/ergodesignhci.v5iEspecial.337",
-        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAxNi9qLmpmZi4yMDIzLjEwNTU1NQ",
     "nova": [
-      "2023-02-23T22:47:48.463Z"
+      "2023-06-15T02:37:45.334Z"
     ]
   },
   {
-    "record": {
-      "format": "E-Artikel",
-      "title": "Janet Tello Gilardi y Carlos Calder&oacute;n Puertas (compiladores). Reglas de Brasilia: g&eacute;nero y acceso  a la justicia. Tomo I",
-      "contributor": [],
-      "publisher": [],
-      "ispartof": [],
-      "identifier": "",
-      "language": "Spanisch",
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "ai-28-91aa77f7944b4dcc9b115e250bbbef95",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://doi.org/10.35292/ropj.v13i15.401",
-        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=00311d0f7a5584eb5560a472079bd5b3c4c61555dfca3ba2b98811f376ea4ba8&amp;PSID=4da2ff7ad5acab155c27a2895084c3d9",
-        "hostLabel": "... zum Aufsatz via revistas.pj.gob.pe (Gold OA, CC-BY, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [],
-    "parts": {},
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwNy9zMTE5NDctMDE5LTAyMzg5LTY",
     "nova": [
-      "2023-02-23T23:27:05.096Z"
+      "2023-06-15T03:22:27.084Z"
+    ]
+  },
+  {
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTgzNzIvMjQxMi0yMTU3LjM3LjE3NTkw",
+    "nova": [
+      "2023-10-05T13:37:50.410Z"
+    ]
+  },
+  {
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTU5MC8yMjM3LTI2NjAxMzIxNzF2czAy",
+    "nova": [
+      "2024-05-17T14:12:16.751Z"
     ]
   },
   {
     "record": {
       "format": "E-Artikel",
-      "title": "CR&sup2;M : an approach for capacity control considering long-term effects on the value of a customer for the company",
+      "title": "A middle-quality institutional trap: democracy and State capacity in Latin America            A middle-quality institutional trap: democracy and State capacity in Latin America            , by Sebasti&aacute;n L. Mazzuca and Gerardo L. Munck, Cambridge, Cambridge University Press, 2021, 75 pp., CAD$24.95 (Paperback), ISBN 978 1108813990: by Sebasti&aacute;n L. Mazzuca and Gerardo L. Munck, Cambridge, Cambridge University Press, 2021, 75 pp., CAD$24.95 (Paperback), ISBN 978 1108813990",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
@@ -276,13 +180,20 @@
       "status": "",
       "rvk": ""
     },
-    "id": "126-ZnR1bmliYXlyZXV0aHJlZjpvYWk6OjQ2MjA4",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTA4MC8wODI2MzY2My4yMDI0LjIzNDQ5NTU",
     "oa": 0,
     "thumbnail": "",
-    "linksGeneral": [
+    "linksAccess": [
       {
-        "uri": "https://eref.uni-bayreuth.de/46208/",
-        "hostLabel": "... zum Aufsatz",
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=474120d086541692c9d4f6ad922c8d9c571bdeac70015d8701780b4428777ea1&amp;PSID=4195e97f553f8349b214893d74383a84",
+        "hostLabel": "... zum Aufsatz via Taylor &amp; Francis Online",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=474120d086541692c9d4f6ad922c8d9c571bdeac70015d8701780b4428777ea1&amp;PSID=4195e97f553f8349b214893d74383a84",
+        "hostLabel": "Zugangsbedingungen via EZB",
         "note": "",
         "material": "",
         "intro": ""
@@ -291,19 +202,7 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2023-04-26T19:53:18.112Z"
-    ]
-  },
-  {
-    "id": "126-ZnR1aGFsbGVvcGVuZGF0YTpvYWk6b3BlbmRhdGEudW5pLWhhbGxlLmRlOjE5ODExODU5MjAvNzg2NjA=",
-    "nova": [
-      "2023-04-26T19:53:41.808Z"
-    ]
-  },
-  {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTEwOS90aXRzLjIwMjQuMzQ3Mjc1NA",
-    "nova": [
-      "2024-11-28T23:03:34.064Z"
+      "2024-05-17T15:16:07.713Z"
     ]
   }
 ]

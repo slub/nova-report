@@ -2,298 +2,33 @@
   {
     "record": {
       "format": "Buch",
-      "title": "Size determination of cadmium selenide quantum dots via small-angle X-ray scattering",
-      "contributor": ["Porsiel, Julian Cedric [VerfasserIn]", "Garnweitner, Georg [AkademischeR BetreuerIn]", "Walla, Peter Jomo [AkademischeR BetreuerIn]", "Technische Universität Braunschweig"],
-      "publisher": "München Verlag Dr. Hut 2025 ",
+      "title": "Self-care: embodiment, personal autonomy, and the shaping of health consciousness",
+      "contributor": "Ziguras, Christopher [Verfasser:in]",
+      "publisher": "London [u.a.] Routledge 2004 ",
       "ispartof": [
         {}
       ],
-      "identifier": ["9783843955898", "3843955891"],
+      "identifier": ["0415300584", "9780415300582", "0415859875", "9780415859875"],
       "language": "Englisch",
-      "subject": "Hochschulschrift",
+      "subject": "Gesundheitsverhalten",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-192366901X",
-    "oa": 0,
-    "thumbnail": "",
-    "references": [
-      {
-        "link": "/id/0-1922790761",
-        "hostLabel": "Porsiel, Julian Cedric: Size determination of cadmium selenide quantum dots via small-angle X-ray scattering (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Erscheint auch als (Online-Ausgabe):"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "34567852",
-        "location": "Bereichsbibliothek DrePunct",
-        "location_code": "zell9",
-        "sublocation": "Magazin",
-        "shelfmark": "2025 8 012681",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Ausleihbar, bitte bestellen",
-        "link": "",
-        "status": "NM",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2025-09-01T00:00:00Z",
-      "newitem_dates": [
-        "2025-09-01T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "MIDEM L&auml;nderbericht Tschechien",
-      "contributor": "Chmelar, Kristina [VerfasserIn]",
-      "publisher": "Dresden MIDEM Mercator Forum Migration und Demokratie [2020] ",
-      "ispartof": [
-        {}
-      ],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-174114857X",
+    "id": "0-370415930",
     "oa": 0,
     "thumbnail": "",
     "linksRelated": [
       {
-        "link": "https://d-nb.info/121695688X/04",
-        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "35170460",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "Km058 12720",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
-        "link": "",
-        "status": "P3",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2024-09-05T00:00:00Z",
-      "newitem_dates": [
-        "2024-09-05T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "City beautiful: Amerikanische Realit&auml;t &amp; europ&auml;isches Ideal$HAutor: Sebastian Otto",
-      "contributor": "Otto, Sebastian [VerfasserIn]",
-      "publisher": "Dresden Technische Unoversit&auml;t Dresden 2010 ",
-      "ispartof": [],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1938660021",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "35274951",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "",
-        "shelfmark": "2025 4 010289",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "0",
-        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/bu/architektur/ibad/bg'>Prof Baugeschichte <\/a> erfragen.",
-        "link": "https://tu-dresden.de/bu/architektur/ibad/bg",
-        "status": "H",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2025-10-17T00:00:00Z",
-      "newitem_dates": [
-        "2025-10-17T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "What does theology do, actually? [Vol. 1] Observing theology and the transcultural / foreword by Grace Davie",
-      "contributor": ["Robinson, Matthew Ryan [HerausgeberIn]", "Inderst, Inja [HerausgeberIn]", "Davie, Grace [VerfasserIn eines Vorworts]", "Evangelische Verlagsanstalt"],
-      "publisher": "Leipzig Evangelische Verlagsanstalt 2022 ",
-      "ispartof": [
-        {}
-      ],
-      "identifier": ["9783374070299", "3374070299"],
-      "language": "Englisch",
-      "subject": ["Theologie", "Multikulturelle Gesellschaft"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1807499383",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "https://swbplus.bsz-bw.de/bsz1807499383inh.htm",
-        "hostLabel": "Inhaltsverzeichnis via &lt;span title=&quot;Bibliotheksservice-Zentrum Baden-Württemberg&quot;&gt;SWBplus des BSZ&lt;/span&gt;",
+        "link": "http://www.gbv.de/dms/hbz/toc/ht014112017.pdf",
+        "hostLabel": "Inhaltsverzeichnis ; Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
         "note": "",
         "material": "",
         "text": ""
       },
       {
-        "link": "https://swbplus.bsz-bw.de/bsz1807499383kla.htm",
-        "hostLabel": "Klappentext via &lt;span title=&quot;Bibliotheksservice-Zentrum Baden-Württemberg&quot;&gt;SWBplus des BSZ&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "references": [
-      {
-        "link": "/id/0-1699833303",
-        "hostLabel": "What does theology do, actually? (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Vorgänger:"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "34603968",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2022 8 013236",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-        "link": "",
-        "status": "PM2",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2022-07-29T00:00:00Z",
-      "newitem_dates": [
-        "2022-07-29T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Das Riesengebirge und Isergebirge: in 144 Bildern",
-      "contributor": "Birke, Ernst [Sonstige Person, Familie und Körperschaft]",
-      "publisher": "Würzburg Rautenberg im Verlagshaus W&uuml;rzburg 2002 ",
-      "ispartof": [],
-      "identifier": ["3800330210", "9783800330218"],
-      "language": "Deutsch",
-      "subject": ["Riesengebirge", "Geschichte"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1939419581",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "35275015",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2025 4 010535",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Ausleihbar, bitte bestellen",
-        "link": "",
-        "status": "NM",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2025-11-04T00:00:00Z",
-      "newitem_dates": [
-        "2025-11-04T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Landlines San Luis Valley: Journey into the American West$nedited by: Richard Saxton, Margo Handwerker",
-      "contributor": ["Saxton, Richard [HerausgeberIn]", "Handwerker, Margo [HerausgeberIn]", "Spector Books OHG"],
-      "publisher": "Leipzig Spector Books [2024] ",
-      "ispartof": [],
-      "identifier": ["9783959058094", "3959058098"],
-      "language": "Englisch",
-      "subject": ["M12 Studio", "M12 Studio", "Kunst", "Installation", "Fotografie", "Murzilli, Vincenzo", "Geschichte 2018-2022"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1877685178",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "https://d-nb.info/1315127806/04",
-        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "link": "http://www.loc.gov/catdir/enhancements/fy0650/2003047099-d.html",
+        "hostLabel": "Verlagsangaben via Library of Congress",
         "note": "",
         "material": "",
         "text": ""
@@ -301,129 +36,19 @@
     ],
     "copies": [
       {
-        "barcode": "35161246",
+        "barcode": "34753300",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2024 4 012746",
+        "sublocation": "Freihand",
+        "shelfmark": "CU 8580 Z68",
         "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-        "link": "",
-        "status": "PM2",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2025-01-06T00:00:00Z",
-      "newitem_dates": [
-        "2025-01-06T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "DVD-Video",
-      "title": "M&auml;dchen am Sonntag",
-      "contributor": ["Kahl, Rolf Peter [Sonstige Person, Familie und Körperschaft]", "Tonke, Laura [Sonstige Person, Familie und Körperschaft]", "Schüttler, Katharina [Sonstige Person, Familie und Körperschaft]", "Birkenfeld, Inga [Sonstige Person, Familie und Körperschaft]", "Krebitz, Nicolette [Sonstige Person, Familie und Körperschaft]", "Trentmann, Tanja [Sonstige Person, Familie und Körperschaft]", "Weitemeier, Tom [Sonstige Person, Familie und Körperschaft]"],
-      "publisher": "[S.l.] Independent Partners Filmverl. 2007 ",
-      "ispartof": [
-        {}
-      ],
-      "identifier": "",
-      "language": ["Deutsch", "Englisch"],
-      "subject": ["Film", "DVD-Video", "Filmportr&auml;t Dokumentarfilm Deutschland 2005"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1348797967",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "34554597",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin Mediathek",
-        "shelfmark": "Vid-VPD-C 25/125",
-        "mediatype": "DVD",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Ausleihbar, bitte bestellen",
-        "link": "",
-        "status": "NM",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      },
-      {
-        "barcode": "34086486",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin Mediathek",
-        "shelfmark": "Vid-VPD-C 6364",
-        "mediatype": "DVD",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe",
-        "link": "",
-        "status": "P3",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2025-05-14T00:00:00Z",
-      "newitem_dates": [
-        "2025-05-14T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "L. Fritzsches Illustriertes Servietten-Album",
-      "contributor": "Fritzsche, Louis [VerfasserIn]",
-      "publisher": "Nordhausen Heinrich Killinger, Verlagsgesellschaft m.b.H. [1923?] ",
-      "ispartof": [],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": ["Servieren", "Tischdecken", "Serviette"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1815731842",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "32525814",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "FoodStudio",
-        "shelfmark": "2022 8 015027",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
+        "3d": "CU 8580 Z68",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=CU%208580%20Z68&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34753300",
         "issue": "",
         "colorcode": "1",
-        "statusphrase": "Benutzung nur im Haus, Versand per Fernleihe möglich",
+        "statusphrase": "Ausleihbar",
         "link": "",
-        "status": "P1",
+        "status": "N",
         "duedate": "",
         "vormerken": "0",
         "bestellen": "0"
@@ -431,32 +56,86 @@
     ],
     "parts": {},
     "nova": {
-      "newitem_date": "2022-10-11T00:00:00Z",
+      "newitem_date": "2022-07-07T00:00:00Z",
       "newitem_dates": [
-        "2022-10-11T00:00:00Z"
+        "2022-07-07T00:00:00Z"
       ]
     }
   },
   {
     "record": {
       "format": "Buch",
-      "title": "Habitus-Milieu-Reflexivit&auml;t: Schl&uuml;sselqualifikation herrschaftskritischer Sozialer Arbeit",
-      "contributor": ["Rademacher, Claudia [VerfasserIn]", "Verlag Barbara Budrich"],
-      "publisher": "Opladen Berlin Toronto Verlag Barbara Budrich 2024 ",
+      "title": "Effective field theories",
+      "contributor": ["Meißner, Ulf-G. [VerfasserIn]", "Rusetsky, Akaki [VerfasserIn]"],
+      "publisher": "Cambridge Cambridge University Press 2022 ",
       "ispartof": [],
-      "identifier": ["9783847429326", "3847429329"],
-      "language": "Deutsch",
-      "subject": ["Sozialarbeit", "Soziale Ungleichheit", "Habitus", "Milieu", "Reflexivit&auml;t"],
+      "identifier": ["9781108476980", "1108476988"],
+      "language": "Englisch",
+      "subject": ["Feldtheorie", "Effektive Theorie"],
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-1870910788",
+    "id": "0-1815038195",
     "oa": 0,
     "thumbnail": "",
     "linksRelated": [
       {
-        "link": "https://d-nb.info/1309823855/04",
+        "link": "https://zbmath.org/7584347",
+        "hostLabel": "zbMATH ; Review",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34073549",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "UO 4000 M515",
+        "mediatype": "B",
+        "3d": "UO 4000 M515",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=UO%204000%20M515&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34073549",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2022-10-04T00:00:00Z",
+      "newitem_dates": [
+        "2022-10-04T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Von Menschen, Meer und mehr: Lyrik in schwieriger Zeit",
+      "contributor": ["Tiemann, Rainer [VerfasserIn]", "Engelsdorfer Verlag"],
+      "publisher": "Leipzig Engelsdorfer Verlag [2022] ",
+      "ispartof": [],
+      "identifier": ["9783969403587", "3969403588"],
+      "language": "Deutsch",
+      "subject": "Anthologie",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1811046576",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://d-nb.info/1262415039/04",
         "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
         "note": "",
         "material": "",
@@ -465,52 +144,158 @@
     ],
     "copies": [
       {
-        "barcode": "35119941",
+        "barcode": "35046312",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
-        "sublocation": "",
-        "shelfmark": "MS 1460 R127",
+        "sublocation": "Magazin",
+        "shelfmark": "2022 8 017387",
         "mediatype": "B",
         "3d": "",
         "3d_link": "",
         "issue": "",
-        "colorcode": "0",
-        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/gsw/phil/iso/technosozial/die-professur/wagenknecht'>JuniorProf Mikrosoziologie <\/a> erfragen.",
-        "link": "https://tu-dresden.de/gsw/phil/iso/technosozial/die-professur/wagenknecht",
-        "status": "H",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "PM2",
         "duedate": "",
         "vormerken": "0",
-        "bestellen": "0"
+        "bestellen": "1"
       }
     ],
     "parts": {},
     "nova": {
-      "newitem_date": "2024-04-24T00:00:00Z",
+      "newitem_date": "2022-10-24T00:00:00Z",
       "newitem_dates": [
-        "2024-04-24T00:00:00Z"
+        "2022-10-24T00:00:00Z"
       ]
     }
   },
   {
     "record": {
       "format": "Buch",
-      "title": "Tafel-Lied zum 329j&auml;hrigen Stiftungsfeste der Kantorei-Gesellschaft zu Leisnig am 30. November 1910: Melodie: Gigerlk&ouml;nigin",
-      "contributor": "Cantorei",
-      "publisher": "[Erscheinungsort nicht ermittelbar] [1910] ",
+      "title": "Bittere Wasser: Roman",
+      "contributor": "Pruschmann, Tina [VerfasserIn]",
+      "publisher": "Hamburg Rowohlt Hundert Augen Dezember 2022 ",
+      "ispartof": [
+        {
+          "title": "Rowohlt Hundert Augen"
+        }
+      ],
+      "identifier": ["9783498003159", "3498003151"],
+      "language": "Deutsch",
+      "subject": ["Erzgebirge", "Uranbergbau", "Geschichte", "Uranbergwerk", "Bergmann", "Sozialgeschichte"],
+      "description": "Ida ist ein Zirkuskind, ihre Eltern sind Stars im DDR-Staatszirkus, die Mutter am Trapez, der Vater als Elefantendompteur, es gibt sogar eine Briefmarke mit seinem Bild. Zur Einschulung wird das M&auml;dchen nach Tann ins Erzgebirge verschickt, zur Oma, in deren Kneipe die M&auml;nner vom Uranbergwerk ihre Extrazuteilungen versaufen, ehe sie fr&uuml;h an radioaktiver Vergiftung, der Schneeberger Krankheit verrecken. Nach der Wende wird die Mine geschlossen, der Zirkus an einen westdeutschen Investor verscherbelt. Die Ehe der Eltern scheitert an Stasigeschichten. Idas Vater hockt in seinem Zirkuswohnwagen im Garten der Gro&szlig;mutter und s&auml;uft. Sie selbst folgt der Elefantendame Hollerbusch, die an den Zoo von Kyjiw verkauft wurde. Pruschmann schlie&szlig;t &bdquo;an Romane j&uuml;ngerer Autoren wie denen von Lukas Rietzschel oder Matthias J&uuml;gler an. Wie sie wartet allerdings auch Tina Pruschmann nicht mit endg&uuml;ltigen Erkl&auml;rungen auf, sondern beschreibt ostdeutsche Biografien in all ihrer Komplexit&auml;t und Widerspr&uuml;chlichkeit. Genau darin liegt die literarische Kraft ihres Romans&ldquo; (deutschlandfunk.de)",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1799900827",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=c35e1352b1c840568eb4e19f8dcbbf55&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "hostLabel": "Inhaltstext",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://www.perlentaucher.de/buch/tina-pruschmann/bittere-wasser.html",
+        "hostLabel": "Rezension",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://www.ndr.de/kultur/buch/tipps/Bittere-Wasser-Beruehrender-Familienroman-von-Tina-Pruschmann,pruschmann100.html",
+        "hostLabel": "Rezension",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://www.deutschlandfunk.de/ida-und-die-elefanten-100.html",
+        "hostLabel": "Rezension",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "references": [
+      {
+        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1799900827",
+        "hostLabel": "Pruschmann, Tina: Bittere Wasser (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
+        "note": "",
+        "material": "",
+        "text": "Nachweis in der Sächsischen Bibliografie:"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34972814",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "GO 80000 P972 B62.2022",
+        "mediatype": "  B",
+        "3d": "GO 80000 P972 B62.2022",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=GO%2080000%20P972%20B62.2022&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34972814",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      },
+      {
+        "barcode": "34972813",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2023 8 002422",
+        "mediatype": "  B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, Versand per Fernleihe möglich",
+        "link": "",
+        "status": "PM1",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2023-03-01T00:00:00Z",
+      "newitem_dates": [
+        "2023-03-01T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Der Dresdener Scheibensch&uuml;tzen-Gesellschaft bei ihrem Festmahle am 15. November 1841",
+      "contributor": ["Schiefner, Immanuel Gottlieb [VerfasserIn]", "Privilegirte Scheiben-Schützen-Gesellschaft"],
+      "publisher": "Dresden Ramming [1841] ",
       "ispartof": [],
       "identifier": "",
       "language": "Deutsch",
-      "subject": ["Leisnig", "Kantorei", "Lied"],
+      "subject": ["Dresden", "Sch&uuml;tzenverein", "Sch&uuml;tzenfest", "Geschichte 1841"],
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-1917476965",
+    "id": "0-1823048552",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://digital.slub-dresden.de/id1920957952",
+        "uri": "https://digital.slub-dresden.de/id184562002X",
         "hostLabel": "... zum E-Book via Digitale Sammlungen der &lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;",
         "note": "",
         "material": "",
@@ -519,15 +304,15 @@
     ],
     "references": [
       {
-        "link": "/id/0-1920957952",
-        "hostLabel": "Tafel-Lied zum 329j&amp;auml;hrigen Stiftungsfeste der Kantorei-Gesellschaft zu Leisnig am 30. November 1910 (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "link": "/id/0-184562002X",
+        "hostLabel": "Schiefner, Immanuel Gottlieb: Der Dresdener Scheibensch&amp;uuml;tzen-Gesellschaft bei ihrem Festmahle am 15. November 1841 (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
         "note": "",
         "material": "",
         "text": "Elektronische Reproduktion:"
       },
       {
-        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1917476965",
-        "hostLabel": "Cantorei, Leisnig: Tafel-Lied zum 329j&amp;auml;hrigen Stiftungsfeste der Kantorei-Gesellschaft zu Leisnig am 30. November 1910 (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
+        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1823048552",
+        "hostLabel": "Privilegirte Scheiben-Sch&amp;uuml;tzen-Gesellschaft, Dresden: Der Dresdener Scheibensch&amp;uuml;tzen-Gesellschaft bei ihrem Festmahle am 15. November 1841 (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
         "note": "",
         "material": "",
         "text": "Nachweis in der Sächsischen Bibliografie:"
@@ -535,12 +320,201 @@
     ],
     "copies": [
       {
-        "barcode": "35155733",
+        "barcode": "32528200",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
         "sublocation": "Magazin",
-        "shelfmark": "2025 1 000092",
-        "mediatype": "KTA",
+        "shelfmark": "Km058 10770",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bitte Digitalisat benutzen, Original nur auf Anfrage über Anfrage",
+        "link": "",
+        "status": "PX",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2023-05-11T00:00:00Z",
+      "newitem_dates": [
+        "2023-05-11T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Retrograd",
+      "contributor": ["Stasig, Stig [FotografIn]", "Lebedev, Sergej [VerfasserIn von Zusatztexten]"],
+      "publisher": "[Skanderborg] Book Lab [2023] ",
+      "ispartof": [],
+      "identifier": ["9788794091183", "8794091188"],
+      "language": ["Englisch", "Russisch"],
+      "subject": ["Stasig, Stig", "Schwarzwei&szlig;fotografie", "Sowjetunion", "Mensch", "Geschichte 1981-1993"],
+      "description": "Fra de baltiske lande og Ukraine i vest, til Sibirien langt mod &oslash;st, Georgien, Armenien og Kaukasus i syd. I &aring;rene fra 1988 og 1993 rejste fotograf Stig Stasig rundt i Sovjetunionens kerneomr&aring;der og periferi og fotograferede livet p&aring; gader og str&aelig;der med sit Leica-kamera. Den 20. april udkommer fotografierne i fotobogen Retrograd, og selvom motiverne er 30 &aring;r gamle, er bogen en kommentar til Ruslands invasion af Ukraine, forklarer fotografen.00?Nutidens Rusland er et produkt af sin fortid: zartiden, revolutionen og Sovjet-regimet samt ikke mindst den kaotiske opbrudstid omkring 1990. Den eneste m&aring;de, vi kan g&oslash;re os h&aring;b om at forst&aring; Ruslands handlem&aring;de i dag, er ved at s&aelig;tte os ind i historien og den helt anderledes virkelighed, det russiske folk er og har v&aelig;ret underlagt,? siger Stig Stasig og forts&aelig;tter:0?Vi har en tendens til at pr&oslash;ve at forst&aring; Ruslands og Putins ageren ud fra vores egen opfattelse af frihed og demokrati. Hvad der virker absurd set fra vores synsvinkel, kan ofte forst&aring;s meget anderledes, n&aring;r man anskuer samme problematik fra russisk side?",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1856341968",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "35041431",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2023 4 008432",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, Versand per Fernleihe möglich",
+        "link": "",
+        "status": "PM1",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2023-08-17T00:00:00Z",
+      "newitem_dates": [
+        "2023-08-17T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "The left in China: a political cartography",
+      "contributor": "Ruckus, Ralf [VerfasserIn]",
+      "publisher": "London Las Vegas Pluto Press 2023 ",
+      "ispartof": [],
+      "identifier": ["9780745342955", "0745342957"],
+      "language": "Englisch",
+      "subject": ["China", "Politische Einstellung", "Protest", "Geschichte 1949-2019"],
+      "description": "Tracing the history of left-wing, subversive and oppositional forces in the People&#039;s Republic of China over the last seventy years, Ralf Ruckus pulls back the curtain on Chinese politics.He looks at the labour strikes in the 1950s, the rebel uprising during the Cultural Revolution in the 1960s, the democracy movements in the 1970s and 1980s, the struggles of urban and migrant workers since the 1990s and 2000s, and women&#039;s forms of resistance until today. Each of these struggles inspired left-wing groups and movements that criticised or challenged the regime of the Chinese Communist Party, from Mao Zedong&#039;s rule to the regime under Xi Jinping.Is the country still socialist today, the Chinese Communist Party a left-wing organisation, and the leadership indeed Marxist? The book sorts out the confusion by presenting the fascinating history of social movements and left politics in the People&#039;s Republic up to the present day",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1838282548",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://www.dietmardreier.de/annot/426F6F6B446174617C7C393738303734353334323935357C7C434F50.jpg?sq=2",
+        "hostLabel": "Cover",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "http://www.gbv.de/dms/bowker/toc/9780745342955.pdf",
+        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34806476",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "NQ 9031 R912",
+        "mediatype": "  B",
+        "3d": "NQ 9031 R912",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=NQ%209031%20R912&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34806476",
+        "issue": "",
+        "colorcode": "3",
+        "statusphrase": "Ausgeliehen, Vormerken möglich",
+        "link": "",
+        "status": "N",
+        "duedate": "11.02.2026",
+        "vormerken": "1",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2023-11-29T00:00:00Z",
+      "newitem_dates": [
+        "2023-11-29T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Francisci Pubitschka Priesters von der Gesellschaft Jesu Chronologische Geschichte B&ouml;hmens 4,1 = [4] Von den ersten K&ouml;nigen bis auf Karl den IVten : von Wratislaws Kr&ouml;nung bis auf Ottokarn den Iten",
+      "contributor": "Pubička, František [VerfasserIn]",
+      "publisher": "Prag Hraba 1778 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-776258923",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10874450-8",
+        "hostLabel": "... zum E-Book via &lt;span title=&quot;Münchener Digitalisierungszentrum&quot;&gt;Resolving-System des MDZ&lt;/span&gt; (Exemplar mit der Signatur: München, Bayerische Staatsbibliothek -- Res/4 Austr. 109 m-4 ; frei zugänglich)",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "references": [
+      {
+        "link": "/id/0-774314745",
+        "hostLabel": "Pubička, Franti&amp;scaron;ek: Francisci Pubitschka Priesters von der Gesellschaft Jesu Chronologische Geschichte B&amp;ouml;hmens ; 4,1 = [4]: Von den... (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Elektronische Reproduktion:"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34233380",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "Hist.Bohem.108-4,1",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "P3",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      },
+      {
+        "barcode": "34494694",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2024 4 008188",
+        "mediatype": "B",
         "3d": "",
         "3d_link": "",
         "issue": "",
@@ -555,9 +529,121 @@
     ],
     "parts": {},
     "nova": {
-      "newitem_date": "2025-02-19T00:00:00Z",
+      "newitem_date": "2025-02-20T00:00:00Z",
       "newitem_dates": [
-        "2025-02-19T00:00:00Z"
+        "2025-02-20T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Antigone: Bearbeitung von John von D&uuml;ffel : nach Sophokles, Euripides, Aischylos und den St&uuml;cken K&ouml;nig &Ouml;dipus, Sieben gegen Theben, Die Ph&ouml;nizierinnen und Antigone : Interlinear-&Uuml;bersetzung von Gregor Schreiner",
+      "contributor": ["Brune, Kathrin [HerausgeberIn]", "Städtische Theater Chemnitz"],
+      "publisher": "Chemnitz St&auml;dtische Theater Chemnitz gGmbH [2024] ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": ["St&auml;dtische Theater Chemnitz", "Theaterst&uuml;ck", "Auff&uuml;hrung", "Geschichte 2024"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1919214011",
+    "oa": 0,
+    "thumbnail": "",
+    "references": [
+      {
+        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1919214011",
+        "hostLabel": "St&amp;auml;dtische Theater Chemnitz: Antigone (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
+        "note": "",
+        "material": "",
+        "text": "Nachweis in der Sächsischen Bibliografie:"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35179602",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "Km067 17107",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2025-05-05T00:00:00Z",
+      "newitem_dates": [
+        "2025-05-05T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Der Besucher: Kammerspiel von &Eacute;ric-Emmanuel Schmitt : Deutsch von Annette und Paul B&auml;cker = Le visiteur",
+      "contributor": ["Jablónska, Agnieszka [HerausgeberIn]", "Städtische Theater Chemnitz"],
+      "publisher": "Chemnitz St&auml;dtische Theater Chemnitz gGmbH [2024] ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": ["St&auml;dtische Theater Chemnitz", "Theaterst&uuml;ck", "Auff&uuml;hrung", "Geschichte 2024"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1923578049",
+    "oa": 0,
+    "thumbnail": "",
+    "references": [
+      {
+        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1923578049",
+        "hostLabel": "St&amp;auml;dtische Theater Chemnitz: Der Besucher (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
+        "note": "",
+        "material": "",
+        "text": "Nachweis in der Sächsischen Bibliografie:"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35182594",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "Km067 17498",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2025-06-30T00:00:00Z",
+      "newitem_dates": [
+        "2025-06-30T00:00:00Z"
       ]
     }
   }
