@@ -2,24 +2,190 @@
   {
     "record": {
       "format": "Buch",
-      "title": "Liebe geht durch den Magen",
-      "contributor": "Reinhart, Maria [MitwirkendeR]",
-      "publisher": "Weißensand Maria Reinhart 2022 ",
-      "ispartof": [],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": "Kochbuch",
+      "title": "Size determination of cadmium selenide quantum dots via small-angle X-ray scattering",
+      "contributor": ["Porsiel, Julian Cedric [VerfasserIn]", "Garnweitner, Georg [AkademischeR BetreuerIn]", "Walla, Peter Jomo [AkademischeR BetreuerIn]", "Technische Universität Braunschweig"],
+      "publisher": "München Verlag Dr. Hut 2025 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783843955898", "3843955891"],
+      "language": "Englisch",
+      "subject": "Hochschulschrift",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-1810151651",
+    "id": "0-192366901X",
+    "oa": 0,
+    "thumbnail": "",
+    "references": [
+      {
+        "link": "/id/0-1922790761",
+        "hostLabel": "Porsiel, Julian Cedric: Size determination of cadmium selenide quantum dots via small-angle X-ray scattering (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Erscheint auch als (Online-Ausgabe):"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34567852",
+        "location": "Bereichsbibliothek DrePunct",
+        "location_code": "zell9",
+        "sublocation": "Magazin",
+        "shelfmark": "2025 8 012681",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2025-09-01T00:00:00Z",
+      "newitem_dates": [
+        "2025-09-01T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "MIDEM L&auml;nderbericht Tschechien",
+      "contributor": "Chmelar, Kristina [VerfasserIn]",
+      "publisher": "Dresden MIDEM Mercator Forum Migration und Demokratie [2020] ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-174114857X",
     "oa": 0,
     "thumbnail": "",
     "linksRelated": [
       {
-        "link": "https://d-nb.info/1247564495/04",
+        "link": "https://d-nb.info/121695688X/04",
         "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35170460",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "Km058 12720",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "P3",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2024-09-05T00:00:00Z",
+      "newitem_dates": [
+        "2024-09-05T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "City beautiful: Amerikanische Realit&auml;t &amp; europ&auml;isches Ideal$HAutor: Sebastian Otto",
+      "contributor": "Otto, Sebastian [VerfasserIn]",
+      "publisher": "Dresden Technische Unoversit&auml;t Dresden 2010 ",
+      "ispartof": [],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1938660021",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "35274951",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "",
+        "shelfmark": "2025 4 010289",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "0",
+        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/bu/architektur/ibad/bg'>Prof Baugeschichte <\/a> erfragen.",
+        "link": "https://tu-dresden.de/bu/architektur/ibad/bg",
+        "status": "H",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2025-10-17T00:00:00Z",
+      "newitem_dates": [
+        "2025-10-17T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "What does theology do, actually? [Vol. 1] Observing theology and the transcultural / foreword by Grace Davie",
+      "contributor": ["Robinson, Matthew Ryan [HerausgeberIn]", "Inderst, Inja [HerausgeberIn]", "Davie, Grace [VerfasserIn eines Vorworts]", "Evangelische Verlagsanstalt"],
+      "publisher": "Leipzig Evangelische Verlagsanstalt 2022 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783374070299", "3374070299"],
+      "language": "Englisch",
+      "subject": ["Theologie", "Multikulturelle Gesellschaft"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1807499383",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://swbplus.bsz-bw.de/bsz1807499383inh.htm",
+        "hostLabel": "Inhaltsverzeichnis via &lt;span title=&quot;Bibliotheksservice-Zentrum Baden-Württemberg&quot;&gt;SWBplus des BSZ&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://swbplus.bsz-bw.de/bsz1807499383kla.htm",
+        "hostLabel": "Klappentext via &lt;span title=&quot;Bibliotheksservice-Zentrum Baden-Württemberg&quot;&gt;SWBplus des BSZ&lt;/span&gt;",
         "note": "",
         "material": "",
         "text": ""
@@ -27,8 +193,341 @@
     ],
     "references": [
       {
-        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1810151651",
-        "hostLabel": "Reinhart, Maria: Liebe geht durch den Magen (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
+        "link": "/id/0-1699833303",
+        "hostLabel": "What does theology do, actually? (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Vorgänger:"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34603968",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2022 8 013236",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2022-07-29T00:00:00Z",
+      "newitem_dates": [
+        "2022-07-29T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Das Riesengebirge und Isergebirge: in 144 Bildern",
+      "contributor": "Birke, Ernst [Sonstige Person, Familie und Körperschaft]",
+      "publisher": "Würzburg Rautenberg im Verlagshaus W&uuml;rzburg 2002 ",
+      "ispartof": [],
+      "identifier": ["3800330210", "9783800330218"],
+      "language": "Deutsch",
+      "subject": ["Riesengebirge", "Geschichte"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1939419581",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "35275015",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2025 4 010535",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2025-11-04T00:00:00Z",
+      "newitem_dates": [
+        "2025-11-04T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Landlines San Luis Valley: Journey into the American West$nedited by: Richard Saxton, Margo Handwerker",
+      "contributor": ["Saxton, Richard [HerausgeberIn]", "Handwerker, Margo [HerausgeberIn]", "Spector Books OHG"],
+      "publisher": "Leipzig Spector Books [2024] ",
+      "ispartof": [],
+      "identifier": ["9783959058094", "3959058098"],
+      "language": "Englisch",
+      "subject": ["M12 Studio", "M12 Studio", "Kunst", "Installation", "Fotografie", "Murzilli, Vincenzo", "Geschichte 2018-2022"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1877685178",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://d-nb.info/1315127806/04",
+        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35161246",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2024 4 012746",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2025-01-06T00:00:00Z",
+      "newitem_dates": [
+        "2025-01-06T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "DVD-Video",
+      "title": "M&auml;dchen am Sonntag",
+      "contributor": ["Kahl, Rolf Peter [Sonstige Person, Familie und Körperschaft]", "Tonke, Laura [Sonstige Person, Familie und Körperschaft]", "Schüttler, Katharina [Sonstige Person, Familie und Körperschaft]", "Birkenfeld, Inga [Sonstige Person, Familie und Körperschaft]", "Krebitz, Nicolette [Sonstige Person, Familie und Körperschaft]", "Trentmann, Tanja [Sonstige Person, Familie und Körperschaft]", "Weitemeier, Tom [Sonstige Person, Familie und Körperschaft]"],
+      "publisher": "[S.l.] Independent Partners Filmverl. 2007 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": "",
+      "language": ["Deutsch", "Englisch"],
+      "subject": ["Film", "DVD-Video", "Filmportr&auml;t Dokumentarfilm Deutschland 2005"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1348797967",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "34554597",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin Mediathek",
+        "shelfmark": "Vid-VPD-C 25/125",
+        "mediatype": "DVD",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      },
+      {
+        "barcode": "34086486",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin Mediathek",
+        "shelfmark": "Vid-VPD-C 6364",
+        "mediatype": "DVD",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe",
+        "link": "",
+        "status": "P3",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2025-05-14T00:00:00Z",
+      "newitem_dates": [
+        "2025-05-14T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "L. Fritzsches Illustriertes Servietten-Album",
+      "contributor": "Fritzsche, Louis [VerfasserIn]",
+      "publisher": "Nordhausen Heinrich Killinger, Verlagsgesellschaft m.b.H. [1923?] ",
+      "ispartof": [],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": ["Servieren", "Tischdecken", "Serviette"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1815731842",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "32525814",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "FoodStudio",
+        "shelfmark": "2022 8 015027",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Benutzung nur im Haus, Versand per Fernleihe möglich",
+        "link": "",
+        "status": "P1",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2022-10-11T00:00:00Z",
+      "newitem_dates": [
+        "2022-10-11T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Habitus-Milieu-Reflexivit&auml;t: Schl&uuml;sselqualifikation herrschaftskritischer Sozialer Arbeit",
+      "contributor": ["Rademacher, Claudia [VerfasserIn]", "Verlag Barbara Budrich"],
+      "publisher": "Opladen Berlin Toronto Verlag Barbara Budrich 2024 ",
+      "ispartof": [],
+      "identifier": ["9783847429326", "3847429329"],
+      "language": "Deutsch",
+      "subject": ["Sozialarbeit", "Soziale Ungleichheit", "Habitus", "Milieu", "Reflexivit&auml;t"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1870910788",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://d-nb.info/1309823855/04",
+        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35119941",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "",
+        "shelfmark": "MS 1460 R127",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "0",
+        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/gsw/phil/iso/technosozial/die-professur/wagenknecht'>JuniorProf Mikrosoziologie <\/a> erfragen.",
+        "link": "https://tu-dresden.de/gsw/phil/iso/technosozial/die-professur/wagenknecht",
+        "status": "H",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2024-04-24T00:00:00Z",
+      "newitem_dates": [
+        "2024-04-24T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Tafel-Lied zum 329j&auml;hrigen Stiftungsfeste der Kantorei-Gesellschaft zu Leisnig am 30. November 1910: Melodie: Gigerlk&ouml;nigin",
+      "contributor": "Cantorei",
+      "publisher": "[Erscheinungsort nicht ermittelbar] [1910] ",
+      "ispartof": [],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": ["Leisnig", "Kantorei", "Lied"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1917476965",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://digital.slub-dresden.de/id1920957952",
+        "hostLabel": "... zum E-Book via Digitale Sammlungen der &lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "references": [
+      {
+        "link": "/id/0-1920957952",
+        "hostLabel": "Tafel-Lied zum 329j&amp;auml;hrigen Stiftungsfeste der Kantorei-Gesellschaft zu Leisnig am 30. November 1910 (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Elektronische Reproduktion:"
+      },
+      {
+        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1917476965",
+        "hostLabel": "Cantorei, Leisnig: Tafel-Lied zum 329j&amp;auml;hrigen Stiftungsfeste der Kantorei-Gesellschaft zu Leisnig am 30. November 1910 (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
         "note": "",
         "material": "",
         "text": "Nachweis in der Sächsischen Bibliografie:"
@@ -36,19 +535,19 @@
     ],
     "copies": [
       {
-        "barcode": "35070153",
+        "barcode": "35155733",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
         "sublocation": "Magazin",
-        "shelfmark": "2024 8 000190",
-        "mediatype": "B",
+        "shelfmark": "2025 1 000092",
+        "mediatype": "KTA",
         "3d": "",
         "3d_link": "",
         "issue": "",
         "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
         "link": "",
-        "status": "PM2",
+        "status": "P3",
         "duedate": "",
         "vormerken": "0",
         "bestellen": "1"
@@ -56,581 +555,9 @@
     ],
     "parts": {},
     "nova": {
-      "newitem_date": "2024-01-11T00:00:00Z",
+      "newitem_date": "2025-02-19T00:00:00Z",
       "newitem_dates": [
-        "2024-01-11T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Sichere Entsorgung und Tiefenlagerung von hochradioaktivem Material - Forschungsperspektiven",
-      "contributor": ["Blattmann, Heidi [VerfasserIn]", "Clauser, Christoph [VerfasserIn]", "Geckeis, Horst [VerfasserIn]", "Grathwohl, Peter [VerfasserIn]", "Grunwald, Armin [VerfasserIn]", "Kühn, Michael [VerfasserIn]", "Markl, Gregor [VerfasserIn]", "Röhlig, Klaus-Jürgen [VerfasserIn]", "Scheck-Wenderoth, Magdalena [VerfasserIn]", "Scherbaum, Frank [VerfasserIn]", "Teutsch, Georg [VerfasserIn]", "Wenzel, Friedemann [VerfasserIn]", "Kirsch, T. G. [MitwirkendeR]", "Deutsche Akademie der Technikwissenschaften"],
-      "publisher": "München Berlin acatech, Deutsche Akademie der Technikwissenschaften 2023 ",
-      "ispartof": [
-        {
-          "title": "Acatech Diskussion"
-        }
-      ],
-      "identifier": ["9783968340210", "3968340213"],
-      "language": "Deutsch",
-      "subject": ["Deutschland", "Hochradioaktiver Abfall", "Untertagedeponie", "Endlagerung"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1844533999",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "https://www.gbv.de/dms/tib-ub-hannover/1844533999.pdf",
-        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "references": [
-      {
-        "link": "/id/0-1835750702",
-        "hostLabel": "Blattmann, Heidi: Sichere Entsorgung und Tiefenlagerung von hochradioaktivem Material - Forschungsperspektiven (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Erscheint auch als (Online-Ausgabe):"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "35036180",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2023 4 005240",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Ausleihbar, bitte bestellen",
-        "link": "",
-        "status": "NM",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2023-06-05T00:00:00Z",
-      "newitem_dates": [
-        "2023-06-05T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Das Herzogliche Haus Ratibor und Corvey: Herkunft und Bedeutung einer F&uuml;rstenfamilie",
-      "contributor": ["Tiggesbäumker, Günter [VerfasserIn]", "Kunstverlag Josef Fink"],
-      "publisher": "Lindenberg i. Allgäu Kunstverlag Josef Fink 2023 ",
-      "ispartof": [],
-      "identifier": ["9783959764087", "3959764081"],
-      "language": "Deutsch",
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1823334679",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "https://d-nb.info/1273172701/04",
-        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "35046657",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2023 8 002806",
-        "mediatype": "  B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Ausleihbar, bitte bestellen",
-        "link": "",
-        "status": "NM",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2023-02-22T00:00:00Z",
-      "newitem_dates": [
-        "2023-02-22T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Mauro Gottardo: l&#039;apocalisse",
-      "contributor": ["Gottardo, Mauro [IllustratorIn]", "Tosatti, Bianca [HerausgeberIn]", "Taramino, Tea [HerausgeberIn]", "Galleria Gliacrobati"],
-      "publisher": "[Turin] Prinp Editore 2023 ",
-      "ispartof": [],
-      "identifier": ["9788831370868", "8831370863"],
-      "language": ["Italienisch", "Englisch"],
-      "subject": ["Gottardo, Mauro", "Mischtechnik", "Geschichte 2008-2015"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1908908815",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "https://swbplus.bsz-bw.de/bsz1908908815inh.htm",
-        "hostLabel": "Inhaltsverzeichnis via &lt;span title=&quot;Bibliotheksservice-Zentrum Baden-Württemberg&quot;&gt;SWBplus des BSZ&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "35169612",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2024 4 012122",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Ausleihbar, bitte bestellen",
-        "link": "",
-        "status": "NM",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2024-12-04T00:00:00Z",
-      "newitem_dates": [
-        "2024-12-04T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Das Leben beginnt in dir: Weisheitsgeschichten aus der W&uuml;ste",
-      "contributor": ["Chittister, Joan [Verfasser:in]", "Chittister, Joan"],
-      "publisher": "Freiburg Basel Wien Herder 2015 ",
-      "ispartof": [
-        {
-          "title": "Herder Spektrum ; 6314"
-        }
-      ],
-      "identifier": ["9783451063145", "345106314X"],
-      "language": "Deutsch",
-      "subject": ["&Auml;gypten", "M&ouml;nchtum", "Spiritualit&auml;t"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1614157804",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=5096133&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
-        "hostLabel": "Inhaltstext",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "http://d-nb.info/1063203155/04",
-        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "34022333",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "BM 7990 C543",
-        "mediatype": "  B",
-        "3d": "BM 7990 C543",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=BM%207990%20C543&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34022333",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2022-11-08T00:00:00Z",
-      "newitem_dates": [
-        "2022-11-08T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Blockchain adoption in supply chain management and logistics",
-      "contributor": ["Hackius, Niels [VerfasserIn]", "Kersten, Wolfgang [AkademischeR BetreuerIn]", "Petersen, Moritz [AkademischeR BetreuerIn]", "Technische Universität Hamburg", "Technische Universität Hamburg"],
-      "publisher": "Ahrensburg tredition GmbH Triceratops Publishing, Wilhelmsburg 2022 ",
-      "ispartof": [],
-      "identifier": ["9783347748729", "3347748727", "3347748697", "9783347748699"],
-      "language": "Englisch",
-      "subject": "Blockchain",
-      "description": "Blockchain is an emerging technology concept that could be a tool to solve end-to-end integration of material and information flow in supply chain and logistics (SC&amp;L). In this book, you can find three complementary studies on the adoption of Blockchain solutions in SC&amp;L: (1) an analysis of existing use cases in the literature, (2) a 153-response survey outlining expectations for Blockchain in SC&amp;L, and (3) an exploratory, qualitative Grounded Theory study that derives observations on adoption motivations, paths, barriers, and learnings. Blockchain solutions could become a valuable infrastructure tool for SC&amp;L aligning supply chain partners worldwide.",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1830571176",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "https://www.gbv.de/dms/zbw/1826505423.pdf",
-        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "references": [
-      {
-        "link": "/id/0-1824500815",
-        "hostLabel": "Hackius, Niels: Blockchain adoption in supply chain management and logistics (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Erscheint auch als (Online-Ausgabe):"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "34608112",
-        "location": "Bereichsbibliothek DrePunct",
-        "location_code": "zell9",
-        "sublocation": "Magazin",
-        "shelfmark": "2023 8 000225",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Ausleihbar, bitte bestellen",
-        "link": "",
-        "status": "NM",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2023-01-11T00:00:00Z",
-      "newitem_dates": [
-        "2023-01-11T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Foods of Sicily &amp; Sardinia and the smaller islands",
-      "contributor": ["Bugialli, Giuliano [VerfasserIn]", "Dominis, John [IllustratorIn]"],
-      "publisher": "New York Rizzoli 1996 ",
-      "ispartof": [],
-      "identifier": ["0847819248", "9780847819249"],
-      "language": "Englisch",
-      "subject": ["Cooking, Italian", "Cooking Italy Sicily", "Cooking Italy Sardinia", "Cuisine italienne", "Cooking", "Kookkunst", "cookbooks", "Cookbooks", "Livres de cuisine", "Italy - Sardinia", "Italy - Sicily", "Cookbook", "Kochbuch"],
-      "description": "&quot;From the author of The Foods of Italy and The Foods of Tuscany comes a gorgeous book on the fantastic food of Italy&#039;s islands-- Sicily and Sardinia and their small neighbors, Elba, Giglio, Capri and Ischia. Giuliano Bugialli, one of the world&#039;s leading Italian food authorities, has turned his attention to these magical places where the food is varied and unlike what is found in any other Italian region. The choices range from the seafood of the rocky coasts to the rich meats from inland, and the fabulous herbs and vegetables, cheeses, breads and desserts that are everywhere. Geography and history are responsible for such exotic accents as saffron-- Sicily&#039;s is the finest in the world-- and almonds, jasmine and honey. Here, then, are recipes for lamb cooked with saffron and artichokes, sweet peas with mint, calamari stuffed with pasta, tuna in a vinegar sauce, and gelato scented with jasmine. Bugialli also offers photo essays on Palermo&#039;s tumultuous Vucciria, one of the world&#039;s outstanding food markets local festivals tuna fishing off the coast of Sicily and the baking of the ancient bread called carta da musica. The glorious photography was made on location, with ancient ruins, fishing boats, rugged landscapes, cathedrals, village streets and bustling markets providing the settings for the food. The photographer, John Dominis, also collaborated with the author on the hugely successful Foods of Italy, Foods of Tuscany and Bugialli on Pasta.&quot;--Publisher&#039;s description",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1899153705",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "http://catdir.loc.gov/catdir/bios/hol054/96018475.html",
-        "hostLabel": "Autorenbiografie",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "http://catdir.loc.gov/catdir/description/hol042/96018475.html",
-        "hostLabel": "Verlagsangaben",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "http://nrs.harvard.edu/urn-3:RAD.SCHL:34857654",
-        "hostLabel": "Cover",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "http://nrs.harvard.edu/urn-3:RAD.SCHL:34856302",
-        "hostLabel": "Inhaltsverzeichnis",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "http://nrs.harvard.edu/urn-3:RAD.SCHL:34856300",
-        "hostLabel": "Title page",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "35182308",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "FoodStudio",
-        "shelfmark": "59458.BUGI.1996",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Benutzung nur im Haus, Versand per Fernleihe möglich",
-        "link": "",
-        "status": "P1",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2024-08-21T00:00:00Z",
-      "newitem_dates": [
-        "2024-08-21T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Ma cuisine",
-      "contributor": "Deforges, Régine [VerfasserIn]",
-      "publisher": "Paris Ramsay-Edition ⁰1 [1989] ",
-      "ispartof": [],
-      "identifier": ["285956800X", "9782859568009"],
-      "language": "Französisch",
-      "subject": ["Cooking, French", "Kochbuch"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1905868251",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "35169849",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "FoodStudio",
-        "shelfmark": "5944.DEFO.1989",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Benutzung nur im Haus, Versand per Fernleihe möglich",
-        "link": "",
-        "status": "P1",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2024-11-06T00:00:00Z",
-      "newitem_dates": [
-        "2024-11-06T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Transformation des Museumserlebnisses: ein Toolkit",
-      "contributor": ["Ginsberg, Rachel [HerausgeberIn]", "Bernhardt, Johannes C. [MitwirkendeR]", "Lindner, Christiane [MitwirkendeR]", "Badisches Landesmuseum Karlsruhe"],
-      "publisher": "Karlsruhe Badisches Landesmuseum Januar 2022 ",
-      "ispartof": [],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": ["Museum", "Digitalisierung", "Erleben"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1817341162",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "https://www.landesmuseum.de/digital/projekte-museum-der-zukunft/creative-museum/toolkit-museumserlebnis=x H=z LF=3 Volltext",
-        "hostLabel": "Unbekannt",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "https://d-nb.info/1271381257/04",
-        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "references": [
-      {
-        "link": "/id/0-1911799061",
-        "hostLabel": "Transformation des Museumserlebnisses (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Erscheint auch als (Online-Ausgabe):"
-      },
-      {
-        "link": "/id/0-1817342703",
-        "hostLabel": "Transformation des Museumserlebnisses (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Elektronische Reproduktion:"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "35047828",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2022 4 008279",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Ausleihbar, bitte bestellen",
-        "link": "",
-        "status": "NM",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2022-09-29T00:00:00Z",
-      "newitem_dates": [
-        "2022-09-29T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Deutsch kombi plus 5 Arbeitsheft : mit Medien und eTraining / unter Verwendung von Materialien: von Benny Alze [und weiteren]",
-      "contributor": ["Alze, Benny [MitwirkendeR]", "Ernst Klett Verlag"],
-      "publisher": "Stuttgart Leipzig Dortmund Ernst Klett Verlag [2024] ",
-      "ispartof": [
-        {}
-      ],
-      "identifier": ["9783123145216", "3123145212", "9783120110637", "3120110639"],
-      "language": "Deutsch",
-      "subject": "Aufgabensammlung",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1878384708",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "35180923",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2024 4 007042",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, Versand per Fernleihe möglich",
-        "link": "",
-        "status": "PM1",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      },
-      {
-        "barcode": "35180924",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2024 4 007041",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-        "link": "",
-        "status": "PM2",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2024-07-24T00:00:00Z",
-      "newitem_dates": [
-        "2024-07-24T00:00:00Z"
+        "2025-02-19T00:00:00Z"
       ]
     }
   }

@@ -2,329 +2,27 @@
   {
     "record": {
       "format": "Buch",
-      "title": "Die Beliebte und an F&uuml;rnehmer Herren H&ouml;ffe Anjetzo neueste Kunst zu Kochen/ Oder Gr&uuml;ndliche und au&szlig;f&uuml;hrliche Anleitung zu allerhand raren und ... neu erfundenen Delicatessen ...: Worbey II. Die Confitur- und Candir-Kunst ... III. Des l&ouml;blichen Frauen-Zimmers Sch&ouml;nheit-Spiegel ...",
-      "contributor": ["N. F. Z. [Sonstige Person, Familie und Körperschaft]", "Hoffmann, Hieronymus Friedrich [Drucker:in]"],
-      "publisher": "Franckfurt Leipzig Zell Hofman[n] 1692 ",
-      "ispartof": [],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": "Kochbuch",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-536949379",
-    "oa": 0,
-    "thumbnail": "",
-    "references": [
-      {
-        "link": "https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%2723:645867R%27",
-        "hostLabel": "VD17 23:645867R",
-        "note": "",
-        "material": "",
-        "text": "Verzeichnis der Drucke des 17. Jahrhunderts:"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "32528023",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "FoodStudio",
-        "shelfmark": "2022 8 008558",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
-        "link": "",
-        "status": "P3",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2022-05-13T00:00:00Z",
-      "purchase_dates": [
-        "2022-05-13T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "C.M. Wielands S&auml;mmtliche Werke Vierter Band Supplemente",
-      "contributor": "Wieland, Christoph Martin [VerfasserIn]",
-      "publisher": "Leipzig Bey Georg Joachim G&ouml;schen 1798. ",
+      "title": "Delirmanagement im Krankenhaus: Risiken erkennen und pr&auml;ventiv handeln : das demenzsensible Konzept des Universit&auml;tsklinikums M&uuml;nster",
+      "contributor": ["Duning, Thomas [VerfasserIn]", "Göpel, Christopher [VerfasserIn]", "Santos Cid, Janina [VerfasserIn]", "Altenhövel, Heike [VerfasserIn]", "Eichler, Kirsten [VerfasserIn]", "Janßen, Liane [VerfasserIn]", "Schlütersche Verlagsanstalt und Druckerei"],
+      "publisher": "Hannover Schl&uuml;tersche [2021] ",
       "ispartof": [
-        {}
+        {
+          "title": "Pflegemanagement"
+        }
       ],
-      "identifier": "",
+      "identifier": ["9783842608467", "3842608462"],
       "language": "Deutsch",
-      "subject": ["Aufsatzsammlung", "Theaterst&uuml;ck", "Erz&auml;hlung", "Verserz&auml;hlung", "Drama", "Lyrik"],
+      "subject": ["Universit&auml;tsklinikum M&uuml;nster", "Patient", "Senile Demenz", "Station&auml;re Behandlung", "Delirium", "Risikofaktor", "Krankenhausaufenthalt", "Verweildauer", "Sterblichkeit", "Universit&auml;tsklinikum M&uuml;nster", "Patientenorientierte Krankenpflege", "Senile Demenz", "Delirium", "Pr&auml;vention", "Medizinische Versorgung", "Versorgungskonzept"],
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-866872795",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11723232-9",
-        "hostLabel": "... zum E-Book via &lt;span title=&quot;Münchener Digitalisierungszentrum&quot;&gt;Resolving-System des MDZ&lt;/span&gt; (Exemplar mit der Signatur: Bamberg, Staatsbibliothek -- L.g.o.870(43 ; frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123187-3",
-        "hostLabel": "... zum E-Book via &lt;span title=&quot;Münchener Digitalisierungszentrum&quot;&gt;Resolving-System des MDZ&lt;/span&gt; (Exemplar mit der Signatur: München, Bayerische Staatsbibliothek -- P.o.germ. 1594 m-43 ; frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11262975-0",
-        "hostLabel": "... zum E-Book via &lt;span title=&quot;Münchener Digitalisierungszentrum&quot;&gt;Resolving-System des MDZ&lt;/span&gt; (Exemplar mit der Signatur: Augsburg, Staats- und Stadtbibliothek -- LD 7602 -Suppl. 4 ; frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11939184-4",
-        "hostLabel": "... zum E-Book via &lt;span title=&quot;Münchener Digitalisierungszentrum&quot;&gt;Resolving-System des MDZ&lt;/span&gt; (Exemplar mit der Signatur: Coburg, Landesbibliothek -- D I 3 ; frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "32527648",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Rara allgemein",
-        "shelfmark": "2023 8 008957",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
-        "link": "",
-        "status": "P3",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      },
-      {
-        "barcode": "34495466",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Rara allgemein",
-        "shelfmark": "2023 8 002699",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
-        "link": "",
-        "status": "P3",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2023-06-24T00:00:00Z",
-      "purchase_dates": [
-        ["2023-02-18T00:00:00Z", "2023-06-24T00:00:00Z"]
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Rapha&euml;l, sa vie, son &oelig;uvre, son temps",
-      "contributor": ["Le Foll, Joséphine [VerfasserIn]", "Raffael [IllustratorIn]"],
-      "publisher": "Malakoff Cedex Hazan [2012] ",
-      "ispartof": [],
-      "identifier": ["9782754101493", "2754101497"],
-      "language": "Französisch",
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1860603238",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "35169979",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2024 4 011356",
-        "mediatype": "  B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, Versand per Fernleihe möglich",
-        "link": "",
-        "status": "PM1",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2024-11-11T00:00:00Z",
-      "purchase_dates": [
-        "2024-11-11T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "E-Book",
-      "title": "Vergleich der echokardiographischen 3D-Methoden zur Quantifizierung der symptomatischen funktionellen Mitralklappeninsuffizienz",
-      "contributor": ["Jungels, Vinzenz Maximilian [VerfasserIn]", "Pflücke, Christian [Gutachter]", "Quick, Silvio [Gutachter]", "Technische Universität Dresden", "Klinik für Kardiochirurgie"],
-      "publisher": "Dresden Technische Universit&auml;t Dresden 2022 ",
-      "ispartof": [],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": "Hochschulschrift",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1795491523",
-    "oa": 1,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-779329",
-        "hostLabel": "... zum E-Book via Resolving-System (frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-779329",
-        "hostLabel": "... zum E-Book via Resolving-System",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "references": [
-      {
-        "link": "/id/0-178658123X",
-        "hostLabel": "Jungels, Vinzenz Maximilian: Vergleich der echokardiographischen 3D-Methoden zur Quantifizierung der symptomatischen funktionellen... (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Erscheint auch als (Druckausgabe):"
-      }
-    ],
-    "copies": [],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2023-06-19T00:00:00Z",
-      "purchase_dates": [
-        "2023-06-19T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Quantum mechanics: an accessible introduction",
-      "contributor": "Scherrer, Robert J. [VerfasserIn]",
-      "publisher": "New Jersey London Singapore Beijing Shanghai Hong Kong Taipei Chennai Tokyo World Scientific [2024] ",
-      "ispartof": [],
-      "identifier": ["9789811287299", "9811287295", "9789811286650", "9811286655"],
-      "language": "Englisch",
-      "subject": "Quantenmechanik",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1887394664",
+    "id": "0-1736187449",
     "oa": 0,
     "thumbnail": "",
     "linksRelated": [
       {
-        "link": "https://www.gbv.de/dms/tib-ub-hannover/1887394664.pdf",
-        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "35047834",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "UK 1000 S326 M4(2)",
-        "mediatype": "B",
-        "3d": "UK 1000 S326 M4(2)",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=UK%201000%20S326%20M4(2)&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=35047834",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2024-06-19T00:00:00Z",
-      "purchase_dates": [
-        "2024-06-19T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Selbstbestimmte Lebensf&uuml;hrung und Teilhabe: Behinderung und Unterst&uuml;tzung im Gemeinwesen",
-      "contributor": ["Wansing, Gudrun [HerausgeberIn]", "Windisch, Matthias [HerausgeberIn]", "W. Kohlhammer GmbH"],
-      "publisher": "Stuttgart Verlag W. Kohlhammer 2017 ",
-      "ispartof": [],
-      "identifier": ["3170305875", "9783170305878"],
-      "language": "Deutsch",
-      "subject": ["Behinderter Mensch", "Partizipation", "Offene Behindertenhilfe", "Behinderter Mensch", "Partizipation", "Sozialarbeit"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-88513995X",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "http://www.kohlhammer.de/wms/instances/KOB/appDE/nav_product.php?product=978-3-17-030587-8",
-        "hostLabel": "... zur zugehörigen Ressource",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "http://d-nb.info/1130269175/04",
+        "link": "https://d-nb.info/1219678651/04",
         "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
         "note": "",
         "material": "",
@@ -333,19 +31,143 @@
     ],
     "copies": [
       {
-        "barcode": "34018860",
-        "location": "ZwB Erziehungswissenschaften",
-        "location_code": "bebel1",
-        "sublocation": "Freihand",
-        "shelfmark": "DT 1501 W251",
-        "mediatype": "  B",
-        "3d": "DT 1501 W251",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=DT%201501%20W251&amp;language=de&amp;search_context1=bebel1&amp;search_context2=FH1&amp;exemplar_id=34018860",
+        "barcode": "33649259",
+        "location": "ZwB Medizin",
+        "location_code": "fied1",
+        "sublocation": "Magazin",
+        "shelfmark": "YH 5416 D916",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2023-04-26T00:00:00Z",
+      "purchase_dates": [
+        "2023-04-26T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Hellerau Ort der Moderne: Kontinuit&auml;ten und kontroverse Wechselwirkungen : Kolloquium in Dresden-Hellerau 23.-25. September 2020 = Hellerau site of modernity : continuities and controversial interactions : colloquium at Dresden-Hellerau 23.-25. September 2020",
+      "contributor": ["Ulbricht, Justus H. [HerausgeberIn]", "Hammerschmidt, Valentin [ÜbersetzerIn]", "Sandstein Kommunikation GmbH", "Förderverein Weltkulturerbe Hellerau"],
+      "publisher": "Dresden Sandstein Verlag [2022] ",
+      "ispartof": [],
+      "identifier": ["9783954986620", "3954986620"],
+      "language": ["Englisch", "Deutsch"],
+      "subject": ["Dresden-Hellerau", "Lebensreform", "Architektur", "Kunst", "Dresden-Hellerau", "Lebensreform", "Rezeption", "Kollektives Ged&auml;chtnis", "St&auml;dtebau", "Architektur", "Dresden-Hellerau", "Gartenstadt", "Lebensreform", "Rezeption", "Kollektives Ged&auml;chtnis"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1813153396",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=43cf7e4de63542dbb51e5471f7e0d0ce&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "hostLabel": "Inhaltstext",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://www.gbv.de/dms/tib-ub-hannover/1813153396.pdf",
+        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "references": [
+      {
+        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1813153396",
+        "hostLabel": "Hellerau Ort der Moderne, 2020, Dresden, Veranstaltung: Hellerau Ort der Moderne (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
+        "note": "",
+        "material": "",
+        "text": "Nachweis in der Sächsischen Bibliografie:"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34037319",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Referenzbestand Sachsen / Mitteldeutschland",
+        "shelfmark": "NZ 14780 H477 O7",
+        "mediatype": "B",
+        "3d": "NZ 14780 H477 O7",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=NZ%2014780%20H477%20O7&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH3&amp;exemplar_id=34037319",
         "issue": "",
         "colorcode": "1",
-        "statusphrase": "Ausleihbar",
+        "statusphrase": "Benutzung nur im Haus, Versand per Fernleihe möglich",
         "link": "",
-        "status": "N",
+        "status": "P1",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      },
+      {
+        "barcode": "34037320",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "2022 4 008870",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "3",
+        "statusphrase": "Reserviert",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      },
+      {
+        "barcode": "35040749",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "",
+        "shelfmark": "NZ 14780 H477 O7",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "0",
+        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/bu/architektur/twp'>Prof Tragwerksplanung <\/a> erfragen.",
+        "link": "https://tu-dresden.de/bu/architektur/twp",
+        "status": "H",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      },
+      {
+        "barcode": "35270948",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "",
+        "shelfmark": "2024 4 005707",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "0",
+        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/bu/architektur/ibad/bg'>Prof Baugeschichte <\/a> erfragen.",
+        "link": "https://tu-dresden.de/bu/architektur/ibad/bg",
+        "status": "H",
         "duedate": "",
         "vormerken": "0",
         "bestellen": "0"
@@ -353,39 +175,159 @@
     ],
     "parts": {},
     "nova": {
-      "purchase_date": "2022-01-13T00:00:00Z",
+      "purchase_date": "2022-10-20T00:00:00Z",
       "purchase_dates": [
-        "2022-01-13T00:00:00Z"
+        "2022-10-20T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Zeitschrift",
+      "title": "Puunvuoro: creating bioeconomy",
+      "contributor": [],
+      "publisher": "Helsinki Legendium Oy [2023]- ",
+      "ispartof": [],
+      "identifier": "",
+      "language": ["Finnisch", "Englisch"],
+      "subject": "Zeitschrift",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1844600351",
+    "oa": 0,
+    "thumbnail": "",
+    "references": [
+      {
+        "link": "/id/0-130008354",
+        "hostLabel": "Paperi ja puu (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Fortsetzung von:"
+      }
+    ],
+    "copies": {
+      "Aktuelle Ausgaben": [
+        {
+          "barcode": "10630129N",
+          "location": "ZwB Forstwissenschaft",
+          "location_code": "tha1",
+          "sublocation": "Auslage ungebundene Zeitschriften",
+          "shelfmark": "ZS 0600",
+          "mediatype": "ZS",
+          "3d": "",
+          "3d_link": "",
+          "issue": "",
+          "colorcode": "1",
+          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+          "link": "",
+          "status": "P2",
+          "duedate": "",
+          "vormerken": "0",
+          "bestellen": "0"
+        }
+      ],
+      "2020 - 2029": [
+        {
+          "barcode": "34161046",
+          "location": "ZwB Forstwissenschaft",
+          "location_code": "tha1",
+          "sublocation": "Freihand Zeitschriften",
+          "shelfmark": "19 4 01941 0 2023 1 01",
+          "mediatype": "ZS",
+          "3d": "",
+          "3d_link": "",
+          "issue": " 2023",
+          "colorcode": "1",
+          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+          "link": "",
+          "status": "P2",
+          "duedate": "",
+          "vormerken": "0",
+          "bestellen": "0"
+        }
+      ]
+    },
+    "parts": {},
+    "nova": {
+      "purchase_date": "2024-06-28T00:00:00Z",
+      "purchase_dates": [
+        ["2024-04-08T00:00:00Z", "2024-06-05T00:00:00Z", "2024-06-28T00:00:00Z"]
       ]
     }
   },
   {
     "record": {
       "format": "Buch",
-      "title": "Flucht- und Rettungspl&auml;ne: Anforderungen, Aufstellungen und praktische Umsetzung",
-      "contributor": ["Roszak, Martin [VerfasserIn]", "Schmitz, Constantin [VerfasserIn]", "Tannhäuser, Andi [VerfasserIn]", "Verlagsgesellschaft Rudolf Müller"],
-      "publisher": "Köln RM Rudolf M&uuml;ller 2024 ",
-      "ispartof": [],
-      "identifier": ["9783481047573", "3481047576"],
+      "title": "Usability und user experience design: das umfassende Handbuch",
+      "contributor": ["Kauer-Franz, Michaela [VerfasserIn]", "Franz, Benjamin [VerfasserIn]", "Rheinwerk Verlag"],
+      "publisher": "Bonn Rheinwerk 2023 ",
+      "ispartof": [
+        {
+          "title": "Rheinwerk Computing"
+        }
+      ],
+      "identifier": ["9783836287203", "383628720X"],
       "language": "Deutsch",
-      "subject": ["Brand", "Geb&auml;ude", "Fluchtweg", "Rettungsweg", "Brandschutz", "Rettungsweg", "Fluchtweg"],
+      "subject": ["Benutzerfreundlichkeit", "Benutzererlebnis", "Mensch-Maschine-Kommunikation", "Softwareergonomie"],
+      "description": ["Gute Usability und User Experience sind niemals Zufall. Dahinter stecken systematische Prozesse und Know-how aus verschiedenen Disziplinen. Produkte zu schaffen, die Menschen nicht nur leicht und sicher bedienen k&ouml;nnen, sondern rundum sch&auml;tzen &ndash; wenn das Ihr professionelles Ziel ist, sind Sie hier richtig. Lernen Sie mit diesem Handbuch das Fach gr&uuml;ndlich kennen, vertiefen Sie Ihre Expertise oder steigen Sie in eine st&auml;rker datengetriebene Arbeitsweise ein. Die Autoren sind erfolgreiche Spezialisten f&uuml;r die Usability und UX technischer Produkte. Sie stellen Ihnen Grundlagen aus Psychologie und Design vor und geben Ihnen ein umfassendes Methodenrepertoire an die Hand. Inklusive praktischer Auswahlhilfe und konkreter Anleitungen. So evaluieren und optimieren Sie Ihre Produkte oder unterst&uuml;tzen Ihre Kunden mit professionellen Usability- und UX-Projekten. F&uuml;r B2B, B2C, verschiedene Branchen und Budgets haben Sie damit immer eine effiziente Methode parat. Dr. Michaela Kauer-Franz und Dr. Benjamin Franz betreuen auch komplexe Anwendungen und solche mit speziellen Anforderungen wie Medizinprodukte. Profitieren Sie von ihrem Erfahrungsschatz!", "Intro -- 1 F&uuml;r wen ist dieses Buch? Warum und wie sollten Sie das Buch lesen? -- 1.1 F&uuml;r wen ist dieses Buch geschrieben? -- 1.2 Warum sollten Sie dieses Buch lesen? -- 1.3 Wie sollten Sie dieses Buch lesen? -- 1.4 Ihre st&auml;ndigen Begleiter: Unsere drei Beispiele -- 1.4.1 MoveHub: Die Mobilit&auml;ts-App f&uuml;r jede Gelegenheit (B2C) -- 1.4.2 BusinessBooster: Das CRM-BI-Tool f&uuml;r kleine und mittelst&auml;ndische Unternehmen (B2B) -- 1.4.3 Healthyfy: Das Vermittlungsportal f&uuml;r Gesundheitsexperten (B2B und B2C) -- 2 Die wichtigsten Begriffe und ihre Historie -- 2.1 Die (Vor-)Geschichte von Usability und User Experience -- 2.1.1 Die griechische Antike und Hippokrates von Kos -- 2.1.2 Die Renaissance und Leonardo da Vinci -- 2.1.3 Die industrielle Revolution -- 2.1.4 Die Arbeitswissenschaft -- 2.1.5 Ergonomie -- 2.1.6 Human Factors -- 2.1.7 Software-Ergonomie -- 2.1.8 Mensch-Maschine-Interaktion -- 2.1.9 Human Computer Interaction -- 2.1.10 Zusammenfassung -- 2.2 Usability und User Experience Design - die Kernbegriffe -- 2.2.1 Usability bzw. Gebrauchstauglichkeit -- 2.2.2 User Experience -- 2.2.3 Design -- 2.2.4 Nutzende/Benutzer/User -- 2.2.5 Nutzungskontext -- 2.3 Das Zusammenspiel von Ergonomie, Usability und User Experience -- 2.3.1 Die Baummetapher -- 2.3.2 Das Kano-Modell -- 2.3.3 Ergonomie vs. Usability vs. User Experience bei MoveHub -- 2.3.4 Ergonomie vs. Usability vs. User Experience bei BusinessBooster -- 2.3.5 Ergonomie vs. Usability vs. User Experience bei Healthyfy -- 3 Usability und User Experience als Erfolgsfaktor herausragender Produkte -- 3.1 Was ist der Return on Investment (ROI)? -- 3.2 Metriken f&uuml;r den unternehmerischen Erfolg -- 3.2.1 System-, produkt- oder dienstleistungsbezogene Metriken f&uuml;r (unternehmerischen) Erfolg -- 3.2.2 Nutzer- und kundenbezogene Ma&szlig;zahlen f&uuml;r (unternehmerischen) Erfolg."],
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1868099180",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "12111595N",
+        "location": "Bestand der TU Dresden",
+        "location_code": "tud",
+        "sublocation": "",
+        "shelfmark": "2024 8 015120",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "0",
+        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/codip'>Center for open digital innovation and participation (CODIP) <\/a> erfragen.",
+        "link": "https://tu-dresden.de/codip",
+        "status": "K",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2024-10-23T00:00:00Z",
+      "purchase_dates": [
+        "2024-10-23T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Zu viel, zu wenig",
+      "contributor": ["Nassehi, Armin [VerfasserIn eines Vorworts]", "Anderl, Sibylle [HerausgeberIn]", "Felixberger, Peter [HerausgeberIn]"],
+      "publisher": "Hamburg Kursbuch Kulturstiftung gGmbH [2025] ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783961963782", "3961963789"],
+      "language": "Deutsch",
+      "subject": "Ma&szlig;",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-1889341509",
+    "id": "0-1939146062",
     "oa": 0,
     "thumbnail": "",
     "linksRelated": [
       {
-        "link": "http://www.gbv.de/dms/weimar/toc/1889341509_toc.pdf",
-        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=5c873ae81bad48aca93bc1669477d0d5&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "link": "https://deposit.dnb.de/cgi-bin/dokserv?id=23c552026d38451d90818431eff29995",
         "hostLabel": "Inhaltstext",
         "note": "",
         "material": "",
@@ -394,19 +336,19 @@
     ],
     "copies": [
       {
-        "barcode": "35268461",
+        "barcode": "35166663",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
         "sublocation": "Freihand",
-        "shelfmark": "ZH 3920 R841(2)",
+        "shelfmark": "MP 2000 K96-224",
         "mediatype": "B",
-        "3d": "ZH 3920 R841(2)",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=ZH%203920%20R841(2)&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=35268461",
+        "3d": "MP 2000 K96-224",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=MP%202000%20K96-224&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=35166663",
         "issue": "",
         "colorcode": "1",
-        "statusphrase": "Ausleihbar",
+        "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
         "link": "",
-        "status": "N",
+        "status": "P2",
         "duedate": "",
         "vormerken": "0",
         "bestellen": "0"
@@ -414,44 +356,118 @@
     ],
     "parts": {},
     "nova": {
-      "purchase_date": "2024-09-18T00:00:00Z",
+      "purchase_date": "2025-12-19T00:00:00Z",
       "purchase_dates": [
-        "2024-09-18T00:00:00Z"
+        "2025-12-19T00:00:00Z"
       ]
     }
   },
   {
     "record": {
-      "format": "Band",
-      "title": "Trio f&uuml;r zwei Violinen und Violoncello",
-      "contributor": "Mai, Peter [KomponistIn]",
-      "publisher": "Halle (Saale) Bellmannmusik [2003] ",
-      "ispartof": [],
+      "format": "Buch",
+      "title": "Zur Deckschichtbildung an feuerverzinkten Betonst&auml;hlen in chloridhaltigen M&ouml;rteln",
+      "contributor": ["Ebell, Gino [VerfasserIn]", "Deutscher Ausschuss für Stahlbeton", "Universität Kaiserslautern"],
+      "publisher": "Berlin DIN Media GmbH 2025 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783410659563", "3410659560"],
+      "language": "Deutsch",
+      "subject": ["Betonstahl", "Feuerverzinken", "Schutzschicht", "M&ouml;rtel", "Chloride", "Elektrochemische Korrosion", "M&ouml;rtel", "Betonstahl", "Korrosion"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1923026984",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://www.gbv.de/dms/weimar/toc/1923026984_toc.pdf",
+        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://deposit.dnb.de/cgi-bin/dokserv?id=254f60a12acb4622b949c49d55e51040",
+        "hostLabel": "Inhaltstext",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "references": [
+      {
+        "link": "/id/0-1869800834",
+        "hostLabel": "Ebell, Gino: Zur Deckschichtbildung an feuerverzinkten Betonst&amp;auml;hlen in chloridhaltigen M&amp;ouml;rteln (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Erscheint auch als (Online-Ausgabe):"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "12124791N",
+        "location": "Bestand der TU Dresden",
+        "location_code": "tud",
+        "sublocation": "",
+        "shelfmark": "2025 4 004322",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "0",
+        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/bu/bauingenieurwesen/imb/das-institut/kontakt'>Prof Massivbau <\/a> erfragen.",
+        "link": "https://tu-dresden.de/bu/bauingenieurwesen/imb/das-institut/kontakt",
+        "status": "K",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2025-04-24T00:00:00Z",
+      "purchase_dates": [
+        "2025-04-24T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Kurzer Bericht &uuml;ber eine im Sommer d.J. 1890 unternommene zoologische Reise nach Nord-Gr&ouml;nland",
+      "contributor": "Bergendal, David [VerfasserIn]",
+      "publisher": "Stockholm Kongl. boktryckeriet P.A. Norstedt &amp; s&ouml;ner 1891 ",
+      "ispartof": [
+        {}
+      ],
       "identifier": "",
-      "language": "Kein linguistischer Inhalt",
+      "language": "Deutsch",
       "subject": "",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-183180106X",
+    "id": "0-1325405884",
     "oa": 0,
     "thumbnail": "",
     "copies": [
       {
-        "barcode": "35122595",
+        "barcode": "12115764N",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
-        "sublocation": "Magazin Musik",
-        "shelfmark": "11.Mus.4.9394",
-        "mediatype": "NOT",
+        "sublocation": "Magazin",
+        "shelfmark": "Acta.acad.269.d-17,4,1",
+        "mediatype": "B",
         "3d": "",
         "3d_link": "",
         "issue": "",
         "colorcode": "2",
-        "statusphrase": "Ausleihbar, bitte bestellen",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
         "link": "",
-        "status": "NX",
+        "status": "PM2",
         "duedate": "",
         "vormerken": "0",
         "bestellen": "1"
@@ -459,125 +475,184 @@
     ],
     "parts": {},
     "nova": {
-      "purchase_date": "2023-03-15T00:00:00Z",
+      "purchase_date": "2025-01-13T00:00:00Z",
       "purchase_dates": [
-        "2023-03-15T00:00:00Z"
+        "2025-01-13T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Computerdatenträger",
+      "title": "Drehscheibe Dresden [277]",
+      "contributor": ["Koch, Anke [ModeratorIn]", "Pokall, Lutz [ModeratorIn]", "Reiche, Thomas [ModeratorIn]", "Gersch, Artur Lutz [Sonstige Person, Familie und Körperschaft]"],
+      "publisher": "1998 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": ["Film", "Fernsehaufzeichnung Nachrichtensendung Deutschland 1998"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1761153498",
+    "oa": 0,
+    "thumbnail": "",
+    "references": [
+      {
+        "link": "/id/0-1761153544",
+        "hostLabel": "Drehscheibe Dresden ; 1998.03.19 (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Erscheint auch als (Bearbeitete und gekürzte Online-Ausgabe):"
+      },
+      {
+        "link": "/id/0-1761153587",
+        "hostLabel": "Drehscheibe Dresden ; 1998.03.20 (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Erscheint auch als (Bearbeitete und gekürzte Online-Ausgabe):"
+      },
+      {
+        "link": "/id/0-1761153609",
+        "hostLabel": "Drehscheibe Dresden ; 1998.03.21 (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Erscheint auch als (Bearbeitete und gekürzte Online-Ausgabe):"
+      },
+      {
+        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1761153498",
+        "hostLabel": "Koch, Anke: Drehscheibe Dresden (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
+        "note": "",
+        "material": "",
+        "text": "Nachweis in der Sächsischen Bibliografie:"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "12069497N",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "",
+        "shelfmark": "2022 0 000523",
+        "mediatype": "FILE",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bitte bearbeitete digitale Ausgabe nutzen – Nutzung der elektronischen Reproduktion nur nach Bestellung möglich",
+        "link": "",
+        "status": "LX",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2022-01-25T00:00:00Z",
+      "purchase_dates": [
+        "2022-01-25T00:00:00Z"
       ]
     }
   },
   {
     "record": {
       "format": "aufgeführte Musik",
-      "title": "La Senna festeggiante: = La Seine en F&ecirc;te",
-      "contributor": ["Vivaldi, Antonio [KomponistIn]", "Blondeel, Gwendoline [SängerIn]", "Richardot, Lucile [SängerIn]", "De Donato, Luigi [SängerIn]", "Scott, Nicholas [SängerIn]", "Fasolis, Diego [DirigentIn]", "Orchestre de l&#039;Opéra Royal"],
-      "publisher": "Versailles Ch&acirc;teau de Versailles Spectacles [2022] ",
+      "title": "Passacaglia c minor, BWV 582",
+      "contributor": ["Bach, Johann Sebastian [KomponistIn]", "Walcha, Helmut [InstrumentalmusikerIn]", "Bach, Johann Sebastian", "Bach, Johann Sebastian", "Bach, Johann Sebastian", "Bach, Johann Sebastian", "Bach, Johann Sebastian"],
+      "publisher": "[Hamburg] Deutsche Grammophon [19]57 ",
       "ispartof": [
-        {}
+        {
+          "title": "Archive Production History of Music Division of the Deutsche Grammophon Gesellschaft. IX. Research Period: The works of Johann Sebastian Bach"
+        }
       ],
       "identifier": "",
-      "language": "Deutsch",
-      "subject": "CD",
+      "language": "Kein linguistischer Inhalt",
+      "subject": "Schallplatte",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-1815806850",
+    "id": "0-192207229X",
     "oa": 0,
     "thumbnail": "",
     "copies": [
       {
-        "barcode": "34556522",
+        "barcode": "34557029",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
         "sublocation": "Magazin Mediathek",
-        "shelfmark": "Fon-SCD-C 32103",
-        "mediatype": "CD",
+        "shelfmark": "Fon-SLP-A 32715",
+        "mediatype": "SLP",
         "3d": "",
         "3d_link": "",
         "issue": "",
-        "colorcode": "3",
-        "statusphrase": "nicht bestellbar, weitere Exemplare oder Digitalisat vorhanden",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe",
         "link": "",
-        "status": "RK",
+        "status": "P3",
         "duedate": "",
         "vormerken": "0",
-        "bestellen": "0"
-      },
-      {
-        "barcode": "34964701",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Mediathek Freihand",
-        "shelfmark": "TD1-Vivald-004",
-        "mediatype": "CD",
-        "3d": "Buchbox",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=TD1-Vivald-004&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH4&amp;exemplar_id=34964701",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
+        "bestellen": "1"
       }
     ],
     "parts": {},
     "nova": {
-      "purchase_date": "2022-09-05T00:00:00Z",
+      "purchase_date": "2025-04-10T00:00:00Z",
       "purchase_dates": [
-        "2022-09-05T00:00:00Z"
+        "2025-04-10T00:00:00Z"
       ]
     }
   },
   {
     "record": {
-      "format": "E-Book",
-      "title": "Ausstellung von Handzeichnungen bei Ernst Arnold, K&ouml;nigl. Hof-Kunsthandlung, Dresden",
-      "contributor": ["Schumann, Paul [VerfasserIn]", "Königliche Hofkunsthandlung Ernst Arnold"],
-      "publisher": "[Dresden] [1896] ",
-      "ispartof": [],
+      "format": "Band",
+      "title": "Epiphany: for SATB and organ",
+      "contributor": ["Bingham, Judith [KomponistIn]", "Hill, David [WidmungsempfängerIn]"],
+      "publisher": "Leipzig London New York Edition Peters [2024?] ",
+      "ispartof": [
+        {
+          "title": "Choral"
+        }
+      ],
       "identifier": "",
-      "language": "Deutsch",
+      "language": "Englisch",
       "subject": "",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-1804101893",
+    "id": "0-1917886462",
     "oa": 0,
     "thumbnail": "",
-    "linksAccess": [
+    "copies": [
       {
-        "uri": "https://digital.slub-dresden.de/id1804101893",
-        "hostLabel": "... zum E-Book via Digitale Sammlungen der &lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt; (Volltext ; frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
+        "barcode": "35227317",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin",
+        "shelfmark": "Km058 14419",
+        "mediatype": "NOT",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe",
+        "link": "",
+        "status": "PM2",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
       }
     ],
-    "references": [
-      {
-        "link": "/id/0-1362945811",
-        "hostLabel": "Ausstellung von Handzeichnungen bei Ernst Arnold, K&amp;ouml;nigl. Hof-Kunsthandlung, Dresden (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Elektronische Reproduktion von (SLUB Dresden -- Art.plast.2763,2,12):"
-      },
-      {
-        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1804101893",
-        "hostLabel": "K&amp;ouml;nigliche Hofkunsthandlung Ernst Arnold: Ausstellung von Handzeichnungen bei Ernst Arnold, K&amp;ouml;nigl. Hof-Kunsthandlung, Dresden (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
-        "note": "",
-        "material": "",
-        "text": "Nachweis in der Sächsischen Bibliografie:"
-      }
-    ],
-    "copies": [],
     "parts": {},
     "nova": {
-      "purchase_date": "2022-05-23T00:00:00Z",
+      "purchase_date": "2025-08-01T00:00:00Z",
       "purchase_dates": [
-        "2022-05-23T00:00:00Z"
+        "2025-08-01T00:00:00Z"
       ]
     }
   }

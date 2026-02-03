@@ -216,7 +216,7 @@ newitem_records_sample <- readRDS("data/newitem-records-sample-full.RDS")
 
 ### Kennzahlen {.tabset .unlisted .unnumbered}
 
-#### 2022–2024
+#### 2022–2025
 
 Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series_daily$count))`
 
@@ -279,6 +279,23 @@ plot_time_series_day(newitem_records_series_daily2024, xlab = "Aktivierungsdatum
 plot_time_series_month(newitem_records_series_monthly2024, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel")
 ```
 
+#### 2025
+
+```{r newitem-records2025}
+newitem_records_series_daily2025 <- newitem_records_series_daily[grepl("^2025", newitem_records_series_daily$day), ]
+newitem_records_series_monthly2025 <- newitem_records_series_monthly[grepl("^2025", newitem_records_series_monthly$month), ]
+```
+
+Gesamtanzahl an Werten: `r print_n(sum(newitem_records_series_daily2025$count))`
+
+```{r newitem-records2025-plot, eval=F}
+plot_time_series_day(newitem_records_series_daily2025, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+```
+
+```{r newitem-records2025-monthly-plot}
+plot_time_series_month(newitem_records_series_monthly2025, xlab = "Aktivierungsdatum", ylab = "Anzahl Titel")
+```
+
 ### Beispiele {.unlisted .unnumbered}
 
 ```{r newitem-records-sample}
@@ -305,7 +322,7 @@ purchase_records_sample <- readRDS("data/purchase-records-sample-full.RDS")
 
 ### Kennzahlen {.tabset .unlisted .unnumbered}
 
-#### 2022–2024
+#### 2022–2025
 
 Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series_daily$count))`
 
@@ -366,6 +383,23 @@ plot_time_series_day(purchase_records_series_daily2024, xlab = "Erwerbungsdatum"
 
 ```{r purchase-records2024-plot-monthly}
 plot_time_series_month(purchase_records_series_monthly2024, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel")
+```
+
+#### 2025
+
+```{r purchase-records2025}
+purchase_records_series_daily2025 <- purchase_records_series_daily[grepl("^2025", purchase_records_series_daily$day), ]
+purchase_records_series_monthly2025 <- purchase_records_series_monthly[grepl("^2025", purchase_records_series_monthly$month), ]
+```
+
+Gesamtanzahl an Werten: `r print_n(sum(purchase_records_series_daily2025$count))`
+
+```{r purchase-records2025-plot, eval=F}
+plot_time_series_day(purchase_records_series_daily2025, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel", date_labels = "%Y-%m", date_breaks = "1 month")
+```
+
+```{r purchase-records2025-plot-monthly}
+plot_time_series_month(purchase_records_series_monthly2025, xlab = "Erwerbungsdatum", ylab = "Anzahl Titel")
 ```
 
 ### Beispiele {.unlisted .unnumbered}
