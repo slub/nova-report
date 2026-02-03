@@ -2,297 +2,35 @@
   {
     "record": {
       "format": "Buch",
-      "title": "Past, present, and future possibilities for philosophy and history of education: Finding space and time for research",
-      "contributor": ["Ramaekers, Stefan [HerausgeberIn]", "Hodgson, Naomi [HerausgeberIn]"],
-      "publisher": "Cham Springer [2018] ",
+      "title": "A long-term perspective on drought components in Germany",
+      "contributor": ["Erfurt, Mathilde [VerfasserIn]", "Schanz, Heiner [AkademischeR BetreuerIn]", "Glaser, Rüdiger [AkademischeR BetreuerIn]", "Stahl, Kerstin [AkademischeR BetreuerIn]"],
+      "publisher": "Freiburg im Breisgau 2021 ",
       "ispartof": [],
-      "identifier": ["9783030068202", "303006820X"],
+      "identifier": "",
       "language": "Englisch",
-      "subject": "",
+      "subject": "Hochschulschrift",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-1799863328",
+    "id": "0-1772583065",
     "oa": 0,
     "thumbnail": "",
     "copies": [
       {
-        "barcode": "34020283",
-        "location": "ZwB Erziehungswissenschaften",
-        "location_code": "bebel1",
-        "sublocation": "Freihand",
-        "shelfmark": "DF 3000 R165",
-        "mediatype": "B",
-        "3d": "DF 3000 R165",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=DF%203000%20R165&amp;language=de&amp;search_context1=bebel1&amp;search_context2=FH1&amp;exemplar_id=34020283",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2022-04-25T00:00:00Z",
-      "purchase_dates": [
-        "2022-04-25T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Special Issue: Housing, hiding and the Holocaust in occupied Europe",
-      "contributor": "Albanese, Giulia [HerausgeberIn]",
-      "publisher": "London Sage Publications 2022 ",
-      "ispartof": [
-        {}
-      ],
-      "identifier": "",
-      "language": ["Englisch", "Deutsch"],
-      "subject": ["Zweiter Weltkrieg", "Judenvernichtung", "Drittes Reich", "Besatzungspolitik"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1810229693",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "34046702",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "NK 7005 A326 H8",
-        "mediatype": "B",
-        "3d": "NK 7005 A326 H8",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=NK%207005%20A326%20H8&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34046702",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2022-07-15T00:00:00Z",
-      "purchase_dates": [
-        "2022-07-15T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Computerdatenträger",
-      "title": "[Gardi am Fenster]",
-      "contributor": [],
-      "publisher": "[Deutschland] [1927?] ",
-      "ispartof": [],
-      "identifier": "",
-      "language": "Kein linguistischer Inhalt",
-      "subject": ["Film", "Amateurfilm Deutschland ca. 1927"],
-      "description": "Dieses Negativfragment zeigt &bdquo;Gardi&ldquo; am Fenster eines Zimmers. Sie lacht in die Kamera und lauscht dem Ticken einer Taschenuhr. Auf dem Fensterbrett im Hintergrund steht ein Strau&szlig; Flieder. Hinweis zur Provenienz: Familie R&ouml;hlig.",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1815342994",
-    "oa": 0,
-    "thumbnail": "",
-    "references": [
-      {
-        "link": "/id/0-185827415X",
-        "hostLabel": "[Gardi am Fenster] (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Erscheint auch als (Bearbeitete digitale Ausgabe):"
-      },
-      {
-        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1815342994",
-        "hostLabel": "[Gardi am Fenster] (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
-        "note": "",
-        "material": "",
-        "text": "Nachweis in der Sächsischen Bibliografie:"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "12093188N",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "",
-        "shelfmark": "2023 0 003342",
-        "mediatype": "FILE",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bitte bearbeitete digitale Ausgabe nutzen – Nutzung der elektronischen Reproduktion nur nach Bestellung möglich",
-        "link": "",
-        "status": "LX",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2023-07-13T00:00:00Z",
-      "purchase_dates": [
-        "2023-07-13T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Figurations: un autre art d&#039;aujourd&#039;hui",
-      "contributor": ["Boyer, Guy [VerfasserIn von Zusatztexten]", "Maison Caillebotte"],
-      "publisher": "Paris In Fine [2023] ",
-      "ispartof": [],
-      "identifier": ["9782382031209", "2382031204"],
-      "language": "Französisch",
-      "subject": ["Frankreich", "Figuration", "Geschichte 1945-2020"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1846091640",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "35128275",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "LM 83420 B791",
-        "mediatype": "B",
-        "3d": "LM 83420 B791",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=LM%2083420%20B791&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=35128275",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2023-09-25T00:00:00Z",
-      "purchase_dates": [
-        "2023-09-25T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Bild und Tod: Grundfragen der Bildanthropologie Band 1",
-      "contributor": ["Stoellger, Philipp [HerausgeberIn]", "Wolff, Jens [HerausgeberIn]", "Mohr Siebeck GmbH &amp; Co. KG"],
-      "publisher": "Tübingen Mohr Siebeck [2016] ",
-      "ispartof": [
-        {},
-        {}
-      ],
-      "identifier": ["9783161542336", "3161542339"],
-      "language": "Deutsch",
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-859180255",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=39f502b2a9c54405bf592fd434cba971&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
-        "hostLabel": "Inhaltstext",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "http://d-nb.info/1081833602/04",
-        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "35165065",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "BB 1620 S872-1",
-        "mediatype": "B",
-        "3d": "BB 1620 S872-1",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=BB%201620%20S872-1&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=35165065",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2024-03-12T00:00:00Z",
-      "purchase_dates": [
-        "2024-03-12T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Band",
-      "title": "10 kleine St&uuml;cke f&uuml;r Violine und Klavier op. 213: = Ten very easy pieces for violin and piano",
-      "contributor": ["Reinecke, Carl [KomponistIn]", "Päuler, Bernhard [HerausgeberIn]", "Reinecke, Carl"],
-      "publisher": "Winterthur/Schweiz Amadeus Verlag [1988] ",
-      "ispartof": [],
-      "identifier": "",
-      "language": ["Deutsch", "Englisch"],
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-667358137",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "34537698",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
+        "barcode": "34030618",
+        "location": "ZwB Forstwissenschaft",
+        "location_code": "tha1",
         "sublocation": "Magazin",
-        "shelfmark": "Km058 12134",
-        "mediatype": "NOT",
+        "shelfmark": "2022 4 005532",
+        "mediatype": "HS",
         "3d": "",
         "3d_link": "",
         "issue": "",
         "colorcode": "2",
         "statusphrase": "Ausleihbar, bitte bestellen",
         "link": "",
-        "status": "NX",
+        "status": "NM",
         "duedate": "",
         "vormerken": "0",
         "bestellen": "1"
@@ -300,651 +38,249 @@
     ],
     "parts": {},
     "nova": {
-      "purchase_date": "2024-06-13T00:00:00Z",
+      "purchase_date": "2022-07-06T00:00:00Z",
       "purchase_dates": [
-        "2024-06-13T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Zeitschrift",
-      "title": "Ostkirchliche Studien",
-      "contributor": ["Ostkirchliches Institut der Deutschen Augustiner", "Arbeitsgemeinschaft der Deutschen Augustinerordensprovinz zum Studium der Ostkirche", "Julius-Maximilians-Universität Würzburg"],
-      "publisher": ["Würzburg Echter 1952-2023 ", "Würzburg Augustinus-Verl. 1952-2009 "],
-      "ispartof": [],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": ["Orthodoxe Kirche", "Geschichte", "Zeitschrift", "Ostkirche", "Theologie", "Kirchengeschichte"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-129469920",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": {
-      "Aktuelle Ausgaben": [
-        {
-          "barcode": "XMOM1090181",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Auslage ungebundene Zeitschriften",
-          "shelfmark": "BA 5585",
-          "mediatype": "ZS",
-          "3d": "BA 5585",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=BA%205585&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH7&amp;exemplar_id=XMOM1090181",
-          "issue": "",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        }
-      ],
-      "2020 - 2029": [
-        {
-          "barcode": "34879904",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-71.2022",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-71.2022&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34879904",
-          "issue": " 71.2022+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "34867822",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-70.2021",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-70.2021&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34867822",
-          "issue": " 70.2021+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "34994195",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-69.2020 ",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-69.2020%20&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34994195",
-          "issue": " 69.2020+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        }
-      ],
-      "2010 - 2019": [
-        {
-          "barcode": "34505925",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-68.2019",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-68.2019&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34505925",
-          "issue": " 68.2019+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "34898206",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-67.2018",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-67.2018&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34898206",
-          "issue": " 67.2018+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "34061326",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-66.2017",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-66.2017&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34061326",
-          "issue": " 66.2017+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "34058143",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-65.2016",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-65.2016&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34058143",
-          "issue": " 65.2016+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "34502341",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-64.2015",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-64.2015&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34502341",
-          "issue": " 64.2015+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "34630536",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-63.2014",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-63.2014&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34630536",
-          "issue": " 63.2014+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "34493942",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-62.2013",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-62.2013&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=34493942",
-          "issue": " 62.2013+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "33906575",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-61.2012",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-61.2012&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=33906575",
-          "issue": " 61.2012+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "33467883",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-60.2011",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-60.2011&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=33467883",
-          "issue": " 60.2011+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "32059679",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-59.2010",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-59.2010&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=32059679",
-          "issue": " 59.2010+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        }
-      ],
-      "2000 - 2009": [
-        {
-          "barcode": "32366581",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-58.2009",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-58.2009&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=32366581",
-          "issue": " 58.2009+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "32910406",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-57.2008",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-57.2008&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=32910406",
-          "issue": " 57.2008+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "32170912",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-56.2007",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-56.2007&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=32170912",
-          "issue": " 56.2007+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "31489187",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-55.2006",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-55.2006&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=31489187",
-          "issue": " 55.2006+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "31738576",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-54.2005",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-54.2005&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=31738576",
-          "issue": " 54.2005+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "31738577",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-53.2004",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-53.2004&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=31738577",
-          "issue": " 53.2004+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "31738574",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Freihand Zeitschriften",
-          "shelfmark": "Y. 8. 6148-52.2003 ",
-          "mediatype": "ZS",
-          "3d": "Buchbox",
-          "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=Y.%208.%206148-52.2003%20&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH6&amp;exemplar_id=31738574",
-          "issue": " 52.2003+Index",
-          "colorcode": "1",
-          "statusphrase": "Benutzung nur im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "P2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "0"
-        },
-        {
-          "barcode": "31738575",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-51.2002 ",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 51.2002+Index",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "31074735",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-50.2001",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 50.2001",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "XNOS035266",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-49.2000",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 49.2000",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        }
-      ],
-      "1990 - 1999": [
-        {
-          "barcode": "XNOS006726",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-48.1999",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 48.1999",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "10591903N",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-47.1998",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 47.1998+Index",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "10591901N",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-46.1997",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 46.1997+Index",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "32478927",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-45.1996",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 45.1996+Index",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "32477072",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-44.1995",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 44.1995+Index",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "20150849",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-43.1994",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 43.1994",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "20593070",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-42.1993",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 42.1993",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "20593069",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-41.1992",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 41.1992",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        },
-        {
-          "barcode": "20593068",
-          "location": "Zentralbibliothek",
-          "location_code": "zell1",
-          "sublocation": "Magazin Zeitschriften",
-          "shelfmark": "Y. 8. 6148-40.1991",
-          "mediatype": "ZS",
-          "3d": "",
-          "3d_link": "",
-          "issue": " 40.1991",
-          "colorcode": "2",
-          "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-          "link": "",
-          "status": "PM2",
-          "duedate": "",
-          "vormerken": "0",
-          "bestellen": "1"
-        }
-      ]
-    },
-    "parts": {},
-    "nova": {
-      "purchase_date": "2025-01-21T00:00:00Z",
-      "purchase_dates": [
-        "2025-01-21T00:00:00Z"
+        "2022-07-06T00:00:00Z"
       ]
     }
   },
   {
     "record": {
       "format": "Buch",
-      "title": "Die Franzosen, Frankreich und das Basler Konzil Teil 1",
-      "contributor": "Müller, Heribert [VerfasserIn]",
-      "publisher": "Paderborn München Wien Zürich Sch&ouml;ningh 1990 ",
+      "title": "Entwerfen und Wohnen",
+      "contributor": ["Krebs, Jan [VerfasserIn]", "Birkhäuser"],
+      "publisher": "Basel Birkh&auml;user [2021] ",
       "ispartof": [
-        {},
+        {
+          "title": "Basics Entwerfen"
+        }
+      ],
+      "identifier": ["9783035623116", "3035623112"],
+      "language": "Deutsch",
+      "subject": ["Wohnungsbau", "Bauentwurf", "Wohnungsbau", "Bauentwurf"],
+      "description": "Basics Entwerfen und Wohnen erkl&auml;rt grundlegende Konzepte, Zusammenh&auml;nge der einzelnen Wohnbereiche und Varianten von Bauformen. Ziel ist es, die Ans&auml;tze beim F&uuml;gen von R&auml;umen, Wohnbereichen und ganzen Wohneinheiten zu verstehen und mit diesem Wissen eigene Entwurfsarbeiten im Wohnungsbau kompetent und umsichtig entwickeln zu k&ouml;nnen. Das Buch soll helfen, einen einfachen Zugang zur komplexen Thematik des Entwurfs im Wohnungsbau zu finden, und legt dabei den Schwerpunkt auf grunds&auml;tzliche Aspekte des Wohnens.",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1734719982",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://www.gbv.de/dms/tib-ub-hannover/1734719982.pdf",
+        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35071234",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "ZH 3450 K92 E6(2)",
+        "mediatype": "  B",
+        "3d": "ZH 3450 K92 E6(2)",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=ZH%203450%20K92%20E6(2)&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=35071234",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2022-11-24T00:00:00Z",
+      "purchase_dates": [
+        "2022-11-24T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Arbeitsrechtlicher Anspruch auf Weiterbildung in der digitalen Arbeitswelt",
+      "contributor": "Balkie, Patrik [VerfasserIn]",
+      "publisher": "Baden-Baden Nomos 2021 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783848784165", "3848784165"],
+      "language": "Deutsch",
+      "subject": ["Weiterbildung", "Digitalisierung", "Arbeitnehmer", "Arbeitsplatz", "Betriebliche Fortbildung", "Arbeitsrecht", "Hochschulschrift"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-176973015X",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://wwwdb.dbod.de/login?url=https://doi.org/10.5771/9783748927921",
+        "hostLabel": "... zum E-Book via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "linksRelated": [
+      {
+        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=d908a65339654dad9aa6c5af6e7733cc&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "hostLabel": "Inhaltstext",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34679197",
+        "location": "ZwB Rechtswissenschaften",
+        "location_code": "berg1",
+        "sublocation": "Freihand",
+        "shelfmark": "PF 266 B186",
+        "mediatype": "B",
+        "3d": "PF 266 B186",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=PF%20266%20B186&amp;language=de&amp;search_context1=berg1&amp;search_context2=FH1&amp;exemplar_id=34679197",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2023-04-05T00:00:00Z",
+      "purchase_dates": [
+        "2023-04-05T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Neues System der philosophischen Wissenschaften im Grundriss Band 4 Biologie, Naturgeschichte, Neurowissenschaft 2. Halbband Naturgeschichte und Neurowissenschaft / Dirk Hartmann",
+      "contributor": ["Hartmann, Dirk [VerfasserIn]", "mentis Verlag GmbH"],
+      "publisher": "Paderborn Brill Mentis [2023] ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783957432216", "3957432219"],
+      "language": "Deutsch",
+      "subject": ["Anthropologie", "Neurowissenschaften", "Philosophie", "Erkenntnistheorie"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1845908945",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://d-nb.info/1290344035/04",
+        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34035638",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "CC 1000 H333-4,2",
+        "mediatype": "B",
+        "3d": "CC 1000 H333-4,2",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=CC%201000%20H333-4,2&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34035638",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2023-06-27T00:00:00Z",
+      "purchase_dates": [
+        "2023-06-27T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "E-Book",
+      "title": "Nitrogen Removal in Drinking Water Treatment - A Combination of Zeolite Sorption and the Anammox-Process",
+      "contributor": ["Eberle, Stephan [VerfasserIn]", "Stolte, Stefan [AkademischeR BetreuerIn]", "Lerch, André [AkademischeR BetreuerIn]", "Hilliges, Rita [AkademischeR BetreuerIn]", "Technische Universität Dresden"],
+      "publisher": "Dresden 2023 ",
+      "ispartof": [],
+      "identifier": "",
+      "language": "Englisch",
+      "subject": "Hochschulschrift",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1854988336",
+    "oa": 1,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-866304",
+        "hostLabel": "... zum E-Book via Resolving-System (frei zugänglich)",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-866304",
+        "hostLabel": "... zum E-Book via Resolving-System (frei zugänglich)",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "references": [
+      {
+        "link": "/id/0-1854990306",
+        "hostLabel": "Eberle, Stephan: Nitrogen removal in drinking water treatment - A combination of zeolite sorption and the Anammox-process (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Erscheint auch als (Druckausgabe):"
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2023-08-09T00:00:00Z",
+      "purchase_dates": [
+        "2023-08-09T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "E-Book",
+      "title": "Dat Br&uuml;den geiht &uuml;m",
+      "contributor": "Brinckman, John [HerausgeberIn]",
+      "publisher": "Güstrow bei Opitz &amp; Comp. 1854 ",
+      "ispartof": [
         {}
       ],
       "identifier": "",
@@ -954,76 +290,13 @@
       "status": "",
       "rvk": ""
     },
-    "id": "0-1091896488",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "20396311",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "NV 5472 M946-1",
-        "mediatype": "B",
-        "3d": "NV 5472 M946-1",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=NV%205472%20M946-1&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=20396311",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Benutzung nur im Haus, Versand per Fernleihe möglich",
-        "link": "",
-        "status": "P1",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      },
-      {
-        "barcode": "12119927N",
-        "location": "Bestand der TU Dresden",
-        "location_code": "tud",
-        "sublocation": "",
-        "shelfmark": "2025 8 003551",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "0",
-        "statusphrase": "Verfügbarkeit bitte in <a class='AskThere' href='https://tu-dresden.de/dcpc/fovog/die-fovog#intro'>Forschungsstelle Vergleichende Ordensgeschichte FOVOG <\/a> erfragen.",
-        "link": "https://tu-dresden.de/dcpc/fovog/die-fovog#intro",
-        "status": "K",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "purchase_date": "2025-02-25T00:00:00Z",
-      "purchase_dates": [
-        "2025-02-25T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "aufgeführte Musik",
-      "title": "Akkordeonorchester beim Haus der Lehrer &quot;Richard Schallock&quot; Dresden - [Ausschnitte aus dem Konzert am 23. November 1985]",
-      "contributor": ["Bach, Johann Sebastian [KomponistIn]", "Niehues, Werner [ArrangeurIn]", "Hlouschek, Theodor [KomponistIn]", "Brehme, Hans [KomponistIn]", "Müller, Günther [KomponistIn]", "Würthner, Rudolf [KomponistIn]", "Heinze, Anita [DirigentIn]", "Bach, Johann Sebastian", "Hlouschek, Theodor", "Brehme, Hans", "Müller, Günther", "Würthner, Rudolf", "Dresdner Akkordeonorchester"],
-      "publisher": [],
-      "ispartof": [],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": "",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1920394257",
+    "id": "0-1909448613",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "http://mediathek.slub-dresden.de/ton90003820.html",
-        "hostLabel": "... zur Audioaufnahme via Mediathek der &lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;",
+        "uri": "https://digital.slub-dresden.de/id1909448613",
+        "hostLabel": "... zum E-Book via Digitale Sammlungen der &lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt; (Volltext ; frei zugänglich)",
         "note": "",
         "material": "",
         "intro": ""
@@ -1031,35 +304,103 @@
     ],
     "references": [
       {
-        "link": "/id/0-1940624851",
-        "hostLabel": "Akkordeonorchester beim Haus der Lehrer &amp;quot;Richard Schallock&amp;quot; Dresden - [Ausschnitte aus dem Konzert am 23. November 1985] (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "link": "/id/0-1117357694",
+        "hostLabel": "Aus dem Volk f&amp;uuml;r das Volk ; Erstes Heft: Dat Br&amp;uuml;den geiht &amp;uuml;m (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
         "note": "",
         "material": "",
-        "text": "Elektronische Reproduktion:"
-      },
-      {
-        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1920394257",
-        "hostLabel": "Dresdner Akkordeonorchester: Akkordeonorchester beim Haus der Lehrer &amp;quot;Richard Schallock&amp;quot; Dresden - [Ausschnitte aus dem Konzert am 23.... (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
-        "note": "",
-        "material": "",
-        "text": "Nachweis in der Sächsischen Bibliografie:"
+        "text": "Elektronische Reproduktion von (SLUB Dresden -- 4.A.7639-1):"
       }
     ],
+    "copies": [],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2024-11-25T00:00:00Z",
+      "purchase_dates": [
+        "2024-11-25T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Ruth Orkin - Women",
+      "contributor": ["Orkin, Ruth [FotografIn]", "Barth, Nadine [HerausgeberIn]", "Mouratidi, Katharina [HerausgeberIn]", "f3 - freiraum für fotografie"],
+      "publisher": "Berlin Hatje Cantz [2023] ",
+      "ispartof": [],
+      "identifier": ["9783775756853", "377575685X"],
+      "language": "Englisch",
+      "subject": ["Orkin, Ruth", "Portr&auml;tfotografie", "Frau", "Streetphotography"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1869777530",
+    "oa": 0,
+    "thumbnail": "",
     "copies": [
       {
-        "barcode": "12122248N",
+        "barcode": "35177010",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
-        "sublocation": "Magazin Mediathek",
-        "shelfmark": "Fon-TKA-B 2546",
-        "mediatype": "MK",
+        "sublocation": "Magazin",
+        "shelfmark": "2024 2 001000",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2024-11-26T00:00:00Z",
+      "purchase_dates": [
+        "2024-11-26T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Band",
+      "title": "[Pr&eacute;lude] No. 2 op. 63",
+      "contributor": ["Arenskij, Anton Stepanovič [KomponistIn]", "P. Jurgenson"],
+      "publisher": "Moscou Leipzig P. Jurgenson 1910 ",
+      "ispartof": [
+        {
+          "title": "Oevures de A. Arensky pour piano"
+        }
+      ],
+      "identifier": "",
+      "language": "Kein linguistischer Inhalt",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1942052251",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "35228967",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin Musik",
+        "shelfmark": "2025 4 009752",
+        "mediatype": "NOT",
         "3d": "",
         "3d_link": "",
         "issue": "",
         "colorcode": "3",
-        "statusphrase": "nicht bestellbar, weitere Exemplare oder Digitalisat vorhanden",
+        "statusphrase": "Bestandserhaltung",
         "link": "",
-        "status": "RK",
+        "status": "BK",
         "duedate": "",
         "vormerken": "0",
         "bestellen": "0"
@@ -1067,18 +408,18 @@
     ],
     "parts": {},
     "nova": {
-      "purchase_date": "2025-03-24T00:00:00Z",
+      "purchase_date": "2025-10-08T00:00:00Z",
       "purchase_dates": [
-        "2025-03-24T00:00:00Z"
+        "2025-10-08T00:00:00Z"
       ]
     }
   },
   {
     "record": {
       "format": "Buch",
-      "title": "Die Wahrheit &uuml;ber die deutschen Kriegsverbrechen: die Anklagen der Verbandsm&auml;chte in Gegen&uuml;berstellung zu ihren eigenen Taten",
-      "contributor": "Stülpnagel, Otto von [Verfasser:in]",
-      "publisher": "Berlin Staatspolitischer Verl. 1920 ",
+      "title": "Das Fernsehen",
+      "contributor": "Fuchs, Franz [Verfasser:in]",
+      "publisher": "München Deutsches Museum 1937 ",
       "ispartof": [],
       "identifier": "",
       "language": "Deutsch",
@@ -1087,43 +428,99 @@
       "status": "",
       "rvk": ""
     },
-    "id": "0-1176580914",
+    "id": "0-1165786257",
     "oa": 0,
     "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "http://d-nb.info/576589403/04",
-        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
     "copies": [
       {
-        "barcode": "12133948N",
+        "barcode": "31908860",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
-        "sublocation": "Nicht mehr im Bestand",
-        "shelfmark": "Hist.univ.B.1395.nrm",
+        "sublocation": "Magazin",
+        "shelfmark": "0252 07744 001",
         "mediatype": "B",
         "3d": "",
         "3d_link": "",
         "issue": "",
-        "colorcode": "3",
-        "statusphrase": "Kriegsverlust",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
         "link": "",
-        "status": "KV",
+        "status": "NM",
         "duedate": "",
         "vormerken": "0",
-        "bestellen": "0"
+        "bestellen": "1"
+      },
+      {
+        "barcode": "35275359",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Au&amp;szlig;enmagazin",
+        "shelfmark": "07 8 05501 000 01 0 1",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
       }
     ],
     "parts": {},
     "nova": {
-      "purchase_date": "2025-10-10T00:00:00Z",
+      "purchase_date": "2025-11-28T00:00:00Z",
       "purchase_dates": [
-        "2025-10-10T00:00:00Z"
+        "2025-11-28T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Blatt",
+      "title": "Z&aacute;kladn&iacute; mapa ČSFR 1:100 000 22-1 Blatn&aacute;",
+      "contributor": "Tschechoslowakei",
+      "publisher": "Praha Česk&yacute; &Uacute;řad Geodetick&yacute; a Kartografick&yacute; 1992 ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": "",
+      "language": "Tschechisch",
+      "subject": "Karte",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1943099405",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "12136485N",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Magazin Kartensammlung",
+        "shelfmark": "N14825,22-1",
+        "mediatype": "KT",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
+        "link": "",
+        "status": "P3",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "purchase_date": "2025-12-05T00:00:00Z",
+      "purchase_dates": [
+        "2025-12-05T00:00:00Z"
       ]
     }
   }

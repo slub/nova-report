@@ -1,14 +1,60 @@
 [
   {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTE3Ny8wODk2ODYwODIxMTA0NTI3Mg",
+    "record": {
+      "format": "E-Artikel",
+      "title": "An Improved Synthesis of N-Methyl-L-glucosaminic Acid",
+      "contributor": [],
+      "publisher": [],
+      "ispartof": [],
+      "identifier": "",
+      "language": "Englisch",
+      "subject": "Multidisciplinary",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTEyNi9zY2llbmNlLjEwNC4yNjk5LjI3Ni5k",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=cb56f139589573744fa9da4a745e668a55f2a49f2e7f5be1287f46b75f1e1db5&amp;PSID=d361191a6e17754ad7f06c6be28df492",
+        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Journal STORage&quot;&gt;JSTOR&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=1.article&amp;rl_citation=cb56f139589573744fa9da4a745e668a55f2a49f2e7f5be1287f46b75f1e1db5&amp;PSID=d361191a6e17754ad7f06c6be28df492",
+        "hostLabel": "... zum Aufsatz via www.science.org",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=cb56f139589573744fa9da4a745e668a55f2a49f2e7f5be1287f46b75f1e1db5&amp;PSID=d361191a6e17754ad7f06c6be28df492",
+        "hostLabel": "Zugangsbedingungen via EZB",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
     "nova": [
-      "2022-01-04T22:49:12.732Z"
+      "2022-01-05T00:01:53.608Z"
+    ]
+  },
+  {
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAxNi9qLmFqaGcuMjAyMS4wMy4wMDY",
+    "nova": [
+      "2022-01-05T01:47:52.636Z"
     ]
   },
   {
     "record": {
-      "format": "Elektronischer Konferenzbericht",
-      "title": "Development of super-broadband interferometer in FIR",
+      "format": "E-Artikel",
+      "title": "Conflicts and mechanisms of their regulation in the Buryat society of the XVIII-XIX centuries",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
@@ -19,27 +65,20 @@
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTExNy8xMi41NTE0NjU",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTcyMjMvMTk5ODg2MTMvNzUvMTc",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=adc1cfef76d2d428ae379647a9ef0fdc2d9c5aa83f1c07f83f80a8938d35b937&amp;PSID=0f120a4d608c8c3dc5f03ab36049e45b",
-        "hostLabel": "... zum Konferenzbericht via www.spiedigitallibrary.org",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=04084e3dfeab0f8f57fc8677cf0b4e90a457d11b0db13644ff938007e756b308&amp;PSID=030a47513aa50916103fee4b60d308b7",
+        "hostLabel": "... zum Aufsatz via journals.tsu.ru",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=adc1cfef76d2d428ae379647a9ef0fdc2d9c5aa83f1c07f83f80a8938d35b937&amp;PSID=0f120a4d608c8c3dc5f03ab36049e45b",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=04084e3dfeab0f8f57fc8677cf0b4e90a457d11b0db13644ff938007e756b308&amp;PSID=030a47513aa50916103fee4b60d308b7",
         "hostLabel": "Zugangsbedingungen via EZB",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=adc1cfef76d2d428ae379647a9ef0fdc2d9c5aa83f1c07f83f80a8938d35b937&amp;PSID=0f120a4d608c8c3dc5f03ab36049e45b",
-        "hostLabel": "... zum Konferenzbericht via arxiv.org (Green OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
@@ -48,36 +87,94 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2022-01-05T02:15:51.406Z"
+      "2022-09-12T17:45:45.450Z"
     ]
   },
   {
     "record": {
       "format": "E-Artikel",
-      "title": "Discrete-trial instrumental performance related to reward schedule and developmental level.",
+      "title": "Gdy umiera człowiek, umiera świat cały. Funeralia Lednickie. Spotkanie 18, red. W. Dzieduszycki, J. Wrzesiński, Poznań 2016 [recenzja]",
+      "contributor": [],
+      "publisher": [],
+      "ispartof": [],
+      "identifier": "",
+      "language": ["Englisch", "Polnisch"],
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "ai-28-6effc3461b8b45b8b797b9972c476f06",
+    "oa": 0,
+    "thumbnail": "",
+    "linksAccess": [
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=8a29270223a3c9c5eed6e554985d9a61bbb9a23f5a5014547728706839ad1d97&amp;PSID=a14846889e1e8fc53234883b438f28a2",
+        "hostLabel": "... zum Aufsatz via journals.iaepan.pl",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=8a29270223a3c9c5eed6e554985d9a61bbb9a23f5a5014547728706839ad1d97&amp;PSID=a14846889e1e8fc53234883b438f28a2",
+        "hostLabel": "Zugangsbedingungen via EZB",
+        "note": "",
+        "material": "",
+        "intro": ""
+      }
+    ],
+    "copies": [],
+    "parts": {},
+    "nova": [
+      "2022-11-04T19:25:58.671Z"
+    ]
+  },
+  {
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTEwOS90YWMuMjAxMC4yMDczMzEx",
+    "nova": [
+      "2023-02-23T20:17:48.981Z"
+    ]
+  },
+  {
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwNy9zMTExMzYtMDA5LTk0OTctOA",
+    "nova": [
+      "2023-06-15T03:30:22.705Z"
+    ]
+  },
+  {
+    "record": {
+      "format": "E-Artikel",
+      "title": "Techniques of laparoscopic myomectomy",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
       "identifier": "",
       "language": "Englisch",
-      "subject": "General Medicine",
+      "subject": ["Developmental Biology", "Reproductive Medicine", "Obstetrics and Gynecology"],
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAzNy9oMDAyNjE1NQ",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAxNi9qLnJibW8uMjAxMC4wOS4wMTE",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=ee97992cd4cc819ccf83b392aa6e330e6f64bb9cf6f80b56917bd9481ccf047a&amp;PSID=a93045b0a46bf7362aee7369bddbb1e0",
-        "hostLabel": "... zum Aufsatz via EBSCOhost/PsycArticles",
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=de00333fab780f16d9f7b90d4292af2484d83ae82c77ad8b6c37ec924410eec9&amp;PSID=f40059d1652b7fe06bd9a5f3afa2ca85",
+        "hostLabel": "... zum Aufsatz via ScienceDirect",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=ee97992cd4cc819ccf83b392aa6e330e6f64bb9cf6f80b56917bd9481ccf047a&amp;PSID=a93045b0a46bf7362aee7369bddbb1e0",
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=1.article&amp;rl_citation=de00333fab780f16d9f7b90d4292af2484d83ae82c77ad8b6c37ec924410eec9&amp;PSID=f40059d1652b7fe06bd9a5f3afa2ca85",
+        "hostLabel": "... zum Aufsatz via EBSCOhost/ASP",
+        "note": "",
+        "material": "",
+        "intro": ""
+      },
+      {
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=de00333fab780f16d9f7b90d4292af2484d83ae82c77ad8b6c37ec924410eec9&amp;PSID=f40059d1652b7fe06bd9a5f3afa2ca85",
         "hostLabel": "Zugangsbedingungen via EZB",
         "note": "",
         "material": "",
@@ -87,44 +184,37 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2022-09-12T16:28:44.081Z"
+      "2024-03-01T14:05:02.020Z"
     ]
   },
   {
     "record": {
       "format": "E-Artikel",
-      "title": "On the Performance of Secure Full-Duplex Relaying under Composite Fading Channels",
+      "title": "Metropolitan areas. Organizing public services in metropolitan areas. Edited by Thomas P. Murphy and Charles R. Warren. D. C. Health and Company, 125 Spring Street, Lexington, Massachusetts 02173, 1975. 245 pp. $",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
       "identifier": "",
-      "language": "Ohne Angabe",
-      "subject": ["Applied Mathematics", "Electrical and Electronic Engineering", "Signal Processing"],
+      "language": "Englisch",
+      "subject": "General Agricultural and Biological Sciences",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTEwOS9sc3AuMjAxNC4yMzc0OTk0",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwMi9uY3IuNDEwMDY0MTExMw",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=635ae7c78a680dafc7d78393b7235c2bfc5a6176832b0e98484eb1de52b504d3&amp;PSID=84fc26d4a43ee5fbbb9afb3736f9ddb5",
-        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Institute of Electrical and Electronics Engineers&quot;&gt;IEEE Xplore&lt;/span&gt;",
+        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=c0423e89f805aa8f1e3f8728bdd0c29f9dd0a3b182e4671e62258508c65b5a33&amp;PSID=353d4730dfc7d2da580c0ec5b1f85c94",
+        "hostLabel": "... zum Aufsatz via HeinOnline",
         "note": "",
         "material": "",
         "intro": ""
       },
       {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=635ae7c78a680dafc7d78393b7235c2bfc5a6176832b0e98484eb1de52b504d3&amp;PSID=84fc26d4a43ee5fbbb9afb3736f9ddb5",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=c0423e89f805aa8f1e3f8728bdd0c29f9dd0a3b182e4671e62258508c65b5a33&amp;PSID=353d4730dfc7d2da580c0ec5b1f85c94",
         "hostLabel": "Zugangsbedingungen via EZB",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=635ae7c78a680dafc7d78393b7235c2bfc5a6176832b0e98484eb1de52b504d3&amp;PSID=84fc26d4a43ee5fbbb9afb3736f9ddb5",
-        "hostLabel": "... zum Aufsatz via arxiv.org (Green OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
@@ -133,43 +223,19 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2023-02-23T18:34:50.592Z"
+      "2024-03-01T15:50:48.341Z"
     ]
   },
   {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwNy9zMTAxMDMtMDIwLTAzMDU0LTc",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMzM5MC9zeW0xNjAxMDA0Mw",
     "nova": [
-      "2023-06-15T01:57:21.194Z"
-    ]
-  },
-  {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAxNi9qLmpmZi4yMDIzLjEwNTU1NQ",
-    "nova": [
-      "2023-06-15T02:37:45.334Z"
-    ]
-  },
-  {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwNy9zMTE5NDctMDE5LTAyMzg5LTY",
-    "nova": [
-      "2023-06-15T03:22:27.084Z"
-    ]
-  },
-  {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTgzNzIvMjQxMi0yMTU3LjM3LjE3NTkw",
-    "nova": [
-      "2023-10-05T13:37:50.410Z"
-    ]
-  },
-  {
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTU5MC8yMjM3LTI2NjAxMzIxNzF2czAy",
-    "nova": [
-      "2024-05-17T14:12:16.751Z"
+      "2024-03-01T16:24:12.458Z"
     ]
   },
   {
     "record": {
       "format": "E-Artikel",
-      "title": "A middle-quality institutional trap: democracy and State capacity in Latin America            A middle-quality institutional trap: democracy and State capacity in Latin America            , by Sebasti&aacute;n L. Mazzuca and Gerardo L. Munck, Cambridge, Cambridge University Press, 2021, 75 pp., CAD$24.95 (Paperback), ISBN 978 1108813990: by Sebasti&aacute;n L. Mazzuca and Gerardo L. Munck, Cambridge, Cambridge University Press, 2021, 75 pp., CAD$24.95 (Paperback), ISBN 978 1108813990",
+      "title": "Selectivity and Tax Measures: (Where) Does It Go Wrong? A Critical Assessment of the Selectivity Test Regarding Tax Measures and How To Move Forward",
       "contributor": [],
       "publisher": [],
       "ispartof": [],
@@ -180,20 +246,13 @@
       "status": "",
       "rvk": ""
     },
-    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMTA4MC8wODI2MzY2My4yMDI0LjIzNDQ5NTU",
+    "id": "ai-49-aHR0cDovL2R4LmRvaS5vcmcvMTAuMjEzOS9zc3JuLjQ4NTAyNTI",
     "oa": 0,
     "thumbnail": "",
     "linksAccess": [
       {
-        "uri": "https://wwwdb.dbod.de/login?url=https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=0.article&amp;rl_citation=474120d086541692c9d4f6ad922c8d9c571bdeac70015d8701780b4428777ea1&amp;PSID=4195e97f553f8349b214893d74383a84",
-        "hostLabel": "... zum Aufsatz via Taylor &amp; Francis Online",
-        "note": "",
-        "material": "",
-        "intro": ""
-      },
-      {
-        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=ezb&amp;rl_link_name=issnlink&amp;rl_citation=474120d086541692c9d4f6ad922c8d9c571bdeac70015d8701780b4428777ea1&amp;PSID=4195e97f553f8349b214893d74383a84",
-        "hostLabel": "Zugangsbedingungen via EZB",
+        "uri": "https://www-fr.redi-bw.de/links/?rl_site=slub&amp;rl_action=link&amp;rl_link_target=oadoi&amp;rl_link_name=0&amp;rl_citation=ad94a81778cf3f8e6f641e36b68259728892995d752a4bcfc654b83da36ce169&amp;PSID=47cae7af170213604b2f7fbcc3561ce5",
+        "hostLabel": "... zum Aufsatz via &lt;span title=&quot;Digital Object Identifier&quot;&gt;DOI&lt;/span&gt; (Green OA, gefunden durch Unpaywall) &amp;nbsp; &lt;span class=&quot;reference_oa_logo&quot;&gt;&lt;/span&gt;",
         "note": "",
         "material": "",
         "intro": ""
@@ -202,7 +261,7 @@
     "copies": [],
     "parts": {},
     "nova": [
-      "2024-05-17T15:16:07.713Z"
+      "2024-09-17T20:09:32.059Z"
     ]
   }
 ]

@@ -2,140 +2,86 @@
   {
     "record": {
       "format": "Buch",
-      "title": "Self-care: embodiment, personal autonomy, and the shaping of health consciousness",
-      "contributor": "Ziguras, Christopher [Verfasser:in]",
-      "publisher": "London [u.a.] Routledge 2004 ",
+      "title": "Design und Analyse von Beleuchtungsoptik auf der Basis des Phasenraumkonzeptes",
+      "contributor": ["Rausch, Denise [VerfasserIn]", "Herkommer, Alois [AkademischeR BetreuerIn]", "Gross, H. [AkademischeR BetreuerIn]", "Universität Stuttgart"],
+      "publisher": "Stuttgart Institut f&uuml;r Technische Optik, Universit&auml;t Stuttgart August 2021 ",
       "ispartof": [
         {}
       ],
-      "identifier": ["0415300584", "9780415300582", "0415859875", "9780415859875"],
-      "language": "Englisch",
-      "subject": "Gesundheitsverhalten",
+      "identifier": ["9783948570101", "3948570108"],
+      "language": ["Deutsch", "Englisch"],
+      "subject": "Hochschulschrift",
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-370415930",
+    "id": "0-1776179455",
     "oa": 0,
     "thumbnail": "",
     "linksRelated": [
       {
-        "link": "http://www.gbv.de/dms/hbz/toc/ht014112017.pdf",
-        "hostLabel": "Inhaltsverzeichnis ; Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
+        "link": "https://www.gbv.de/dms/tib-ub-hannover/1776179455.pdf",
+        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34078649",
+        "location": "Bereichsbibliothek DrePunct",
+        "location_code": "zell9",
+        "sublocation": "Magazin",
+        "shelfmark": "2022 8 002610",
+        "mediatype": "B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2022-02-11T00:00:00Z",
+      "newitem_dates": [
+        "2022-02-11T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Klimabewusst &amp; gl&uuml;cklich: einfach bessere Entscheidungen treffen - f&uuml;r uns und die Umwelt",
+      "contributor": ["Eigenbrod, Christine [VerfasserIn]", "Gesellschaft für Ökologische Kommunikation mbH"],
+      "publisher": "München oekom [2022] ",
+      "ispartof": [],
+      "identifier": ["9783962384012", "3962384014"],
+      "language": "Deutsch",
+      "subject": "Ratgeber",
+      "description": "Tue dies - lasse jenes ... Nach diesem Schema sind die meisten Klimaschutzratgeber aufgebaut, die sich direkt an Verbraucher*innen werden. Nicht so Christine Eigenbrods Buch, denn sie zeigt zwar auch auf, was im Privaten getan werden kann, fokussiert sich aber darauf, wie wir uns langfristig nicht mit unseren eigenen Klimazielen und Anspr&uuml;chen unter Druck setzen. Sie zeigt g&auml;ngige Denkfehler bei der Bewertung von klimabewussten Entscheidungen und wie wir diese Denkfehler umgehen k&ouml;nnen. Dabei bringt sie immer wieder ihre eigenen Erfahrungen (auch Misserfolge) bei der Umsetzung im Alltag ein. - Der Text liest sich fl&uuml;ssig, mit farbigen Hervorhebungen, Tabellen und Grafiken, war man m.E. nach etwas zu grossz&uuml;gig. Das st&ouml;rt hier und da den Lesefluss. Trotzdem ein lohnender Beitrag zu einem bereits vielbesprochenen Thema",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1820088472",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=2efccf4e99b440e29ef5c19da5a50966&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "hostLabel": "Inhaltstext",
         "note": "",
         "material": "",
         "text": ""
       },
       {
-        "link": "http://www.loc.gov/catdir/enhancements/fy0650/2003047099-d.html",
-        "hostLabel": "Verlagsangaben via Library of Congress",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "34753300",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "CU 8580 Z68",
-        "mediatype": "B",
-        "3d": "CU 8580 Z68",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=CU%208580%20Z68&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34753300",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2022-07-07T00:00:00Z",
-      "newitem_dates": [
-        "2022-07-07T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Effective field theories",
-      "contributor": ["Meißner, Ulf-G. [VerfasserIn]", "Rusetsky, Akaki [VerfasserIn]"],
-      "publisher": "Cambridge Cambridge University Press 2022 ",
-      "ispartof": [],
-      "identifier": ["9781108476980", "1108476988"],
-      "language": "Englisch",
-      "subject": ["Feldtheorie", "Effektive Theorie"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1815038195",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "https://zbmath.org/7584347",
-        "hostLabel": "zbMATH ; Review",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "34073549",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "UO 4000 M515",
-        "mediatype": "B",
-        "3d": "UO 4000 M515",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=UO%204000%20M515&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34073549",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2022-10-04T00:00:00Z",
-      "newitem_dates": [
-        "2022-10-04T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Von Menschen, Meer und mehr: Lyrik in schwieriger Zeit",
-      "contributor": ["Tiemann, Rainer [VerfasserIn]", "Engelsdorfer Verlag"],
-      "publisher": "Leipzig Engelsdorfer Verlag [2022] ",
-      "ispartof": [],
-      "identifier": ["9783969403587", "3969403588"],
-      "language": "Deutsch",
-      "subject": "Anthologie",
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1811046576",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "https://d-nb.info/1262415039/04",
+        "link": "https://d-nb.info/1270622552/04",
         "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
         "note": "",
         "material": "",
@@ -144,11 +90,297 @@
     ],
     "copies": [
       {
-        "barcode": "35046312",
+        "barcode": "35063988",
+        "location": "ZwB Forstwissenschaft",
+        "location_code": "tha1",
+        "sublocation": "Freihand",
+        "shelfmark": "AR 14310 E34",
+        "mediatype": "  B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2023-03-15T00:00:00Z",
+      "newitem_dates": [
+        "2023-03-15T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Trip mit Tropf",
+      "contributor": "Mark, Josephine [VerfasserIn]",
+      "publisher": "Hamburg Kibitz Mai 2022 ",
+      "ispartof": [],
+      "identifier": ["9783948690144", "3948690146"],
+      "language": "Deutsch",
+      "subject": ["Kaninchen", "Krankheit", "Wolf", "Reise", "Hilfe"],
+      "description": "&quot;&#039;Das ist doch jetzt alles nicht wahr!&#039; Was das Schicksal ihm da untergejubelt hat, ist selbst f&uuml;r den l&auml;ssigsten Wolf eine Zumutung: Weil es ihm versehentlich das Leben gerettet hat, hat er pl&ouml;tzlich ein&hellip; Kaninchen am Hals. Kaninchen! Die verputzt man und gut! W&auml;re da nicht der Wolfskodex, der ihn verpflichtet, nun seinerseits f&uuml;r das Wohlergehen des kleinen Nagers zu sorgen. Von Zumutungen kann das Kaninchen ein Lied singen, schlie&szlig;lich schleppt es einen l&auml;stigen Tropf und einen meterlangen Medikamentenplan durchs Leben. Diese Infusionen, die st&auml;ndige &Uuml;belkeit. Und jetzt auch noch ein Wolf! W&ouml;lfe! Die verputzen einen und aus! Aber dieser Wolf ist so&hellip; anders. Und, das muss man ihm lassen, er wei&szlig;, wo&#039;s langgeht. Josephine Mark schickt ihre ungew&ouml;hnliche Schicksalsgemeinschaft auf einen rasanten Roadtrip mit allem, was dazu geh&ouml;rt: schie&szlig;w&uuml;tige J&auml;ger, billige Motels, B&auml;ren, gefrierende Infusionsbeutel. Und die gro&szlig;e Frage, ob es wirklich nur der Wolfskodex ist, der sie aneinander bindet.&quot; (www.kibitz-verlag.de)",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1780031823",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://www.kibum.de/documents/year/2022/1780031823/cover/cover_1780031823.jpg",
+        "hostLabel": "Cover",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://www.kibum.de/documents/year/2022/1780031823/sample/sample_1780031823.pdf",
+        "hostLabel": "Leseprobe (PDF) ; PDF Dokument",
+        "note": "",
+        "material": "",
+        "text": ""
+      },
+      {
+        "link": "https://www.perlentaucher.de/buch/josephine-mark/trip-mit-tropf.html",
+        "hostLabel": "Rezension",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35119297",
+        "location": "ZwB Erziehungswissenschaften",
+        "location_code": "bebel1",
+        "sublocation": "Freihand",
+        "shelfmark": "ED 4120 M345",
+        "mediatype": "  B",
+        "3d": "ED 4120 M345",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=ED%204120%20M345&amp;language=de&amp;search_context1=bebel1&amp;search_context2=FH1&amp;exemplar_id=35119297",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2023-06-01T00:00:00Z",
+      "newitem_dates": [
+        "2023-06-01T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Mathematik f&uuml;r Bauingenieure 1 Grundlagen f&uuml;r das Bachelor-Studium / Kerstin Rjasanowa",
+      "contributor": ["Rjasanowa, Kerstin [VerfasserIn]", "Carl Hanser Verlag"],
+      "publisher": "München Hanser [2023] ",
+      "ispartof": [
+        {}
+      ],
+      "identifier": ["9783446477704", "3446477705"],
+      "language": "Deutsch",
+      "subject": ["Reelle Funktion", "Lineare Algebra", "Vektorrechnung", "Analytische Geometrie", "Folge", "Differentialrechnung", "Integralrechnung"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1842117602",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://www.gbv.de/dms/weimar/toc/1842117602_toc.pdf",
+        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "references": [
+      {
+        "link": "/id/0-1843355485",
+        "hostLabel": "Rjasanowa, Kerstin: Mathematik im Bauingenieurwesen 1 (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
+        "note": "",
+        "material": "",
+        "text": "Erscheint auch als (Online-Ausgabe):"
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "34609307",
+        "location": "Zentralbibliothek",
+        "location_code": "zell1",
+        "sublocation": "Freihand",
+        "shelfmark": "SK 950 R627-1(2)",
+        "mediatype": "B",
+        "3d": "SK 950 R627-1(2)",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=SK%20950%20R627-1(2)&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34609307",
+        "issue": "",
+        "colorcode": "3",
+        "statusphrase": "Ausgeliehen, Vormerken möglich",
+        "link": "",
+        "status": "N",
+        "duedate": "17.02.2026",
+        "vormerken": "1",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2023-08-21T00:00:00Z",
+      "newitem_dates": [
+        "2023-08-21T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Dermatologische Rezepturen: richtig verschreiben &ndash; individuell therapieren",
+      "contributor": ["Garbe, Claus [VerfasserIn]", "Reimann, Holger [VerfasserIn]", "Georg Thieme Verlag KG"],
+      "publisher": "Stuttgart New York Thieme [2023] ",
+      "ispartof": [],
+      "identifier": ["9783132454569", "3132454567"],
+      "language": "Deutsch",
+      "subject": "",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1851433759",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=b24c6d5eab554c57aeb08df0cde020fb&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+        "hostLabel": "Inhaltstext",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "33633656",
+        "location": "ZwB Medizin",
+        "location_code": "fied1",
+        "sublocation": "Magazin",
+        "shelfmark": "XI 5978 G217(4)",
+        "mediatype": "  B",
+        "3d": "",
+        "3d_link": "",
+        "issue": "",
+        "colorcode": "2",
+        "statusphrase": "Ausleihbar, bitte bestellen",
+        "link": "",
+        "status": "NM",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "1"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2023-09-20T00:00:00Z",
+      "newitem_dates": [
+        "2023-09-20T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Unterrichtsgestaltung im F&ouml;rderschwerpunkt geistige Entwicklung",
+      "contributor": ["Häußler, Michael [VerfasserIn]", "W. Kohlhammer GmbH"],
+      "publisher": "Stuttgart Verlag W. Kohlhammer 2023 ",
+      "ispartof": [],
+      "identifier": ["9783170434677", "3170434675"],
+      "language": "Deutsch",
+      "subject": ["Geistigbehindertenp&auml;dagogik", "Unterrichtsplanung"],
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1843227258",
+    "oa": 0,
+    "thumbnail": "",
+    "linksRelated": [
+      {
+        "link": "https://d-nb.info/1286246032/04",
+        "hostLabel": "Inhaltsverzeichnis via Deutsche Nationalbibliothek",
+        "note": "",
+        "material": "",
+        "text": ""
+      }
+    ],
+    "copies": [
+      {
+        "barcode": "35040414",
+        "location": "ZwB Erziehungswissenschaften",
+        "location_code": "bebel1",
+        "sublocation": "Freihand",
+        "shelfmark": "DT 1800 H137(2)",
+        "mediatype": "  B",
+        "3d": "DT 1800 H137(2)",
+        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=DT%201800%20H137(2)&amp;language=de&amp;search_context1=bebel1&amp;search_context2=FH1&amp;exemplar_id=35040414",
+        "issue": "",
+        "colorcode": "1",
+        "statusphrase": "Ausleihbar",
+        "link": "",
+        "status": "N",
+        "duedate": "",
+        "vormerken": "0",
+        "bestellen": "0"
+      }
+    ],
+    "parts": {},
+    "nova": {
+      "newitem_date": "2023-11-27T00:00:00Z",
+      "newitem_dates": [
+        "2023-11-27T00:00:00Z"
+      ]
+    }
+  },
+  {
+    "record": {
+      "format": "Buch",
+      "title": "Tageb&uuml;cher: das gespiegelte Ich; Museum Strauhof Literaturausstellungen, 12. Dezember 2007 - 2. M&auml;rz 2008",
+      "contributor": ["Gut, Sibylle [Sonstige Person, Familie und Körperschaft]", "Museum Strauhof"],
+      "publisher": "Zürich Strauhof [2007] ",
+      "ispartof": [],
+      "identifier": "",
+      "language": "Deutsch",
+      "subject": "Ausstellungskatalog",
+      "description": "",
+      "status": "",
+      "rvk": ""
+    },
+    "id": "0-1391009525",
+    "oa": 0,
+    "thumbnail": "",
+    "copies": [
+      {
+        "barcode": "35171298",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
         "sublocation": "Magazin",
-        "shelfmark": "2022 8 017387",
+        "shelfmark": "Km067 14278",
         "mediatype": "B",
         "3d": "",
         "3d_link": "",
@@ -164,300 +396,27 @@
     ],
     "parts": {},
     "nova": {
-      "newitem_date": "2022-10-24T00:00:00Z",
+      "newitem_date": "2024-01-24T00:00:00Z",
       "newitem_dates": [
-        "2022-10-24T00:00:00Z"
+        "2024-01-24T00:00:00Z"
       ]
     }
   },
   {
-    "record": {
-      "format": "Buch",
-      "title": "Bittere Wasser: Roman",
-      "contributor": "Pruschmann, Tina [VerfasserIn]",
-      "publisher": "Hamburg Rowohlt Hundert Augen Dezember 2022 ",
-      "ispartof": [
-        {
-          "title": "Rowohlt Hundert Augen"
-        }
-      ],
-      "identifier": ["9783498003159", "3498003151"],
-      "language": "Deutsch",
-      "subject": ["Erzgebirge", "Uranbergbau", "Geschichte", "Uranbergwerk", "Bergmann", "Sozialgeschichte"],
-      "description": "Ida ist ein Zirkuskind, ihre Eltern sind Stars im DDR-Staatszirkus, die Mutter am Trapez, der Vater als Elefantendompteur, es gibt sogar eine Briefmarke mit seinem Bild. Zur Einschulung wird das M&auml;dchen nach Tann ins Erzgebirge verschickt, zur Oma, in deren Kneipe die M&auml;nner vom Uranbergwerk ihre Extrazuteilungen versaufen, ehe sie fr&uuml;h an radioaktiver Vergiftung, der Schneeberger Krankheit verrecken. Nach der Wende wird die Mine geschlossen, der Zirkus an einen westdeutschen Investor verscherbelt. Die Ehe der Eltern scheitert an Stasigeschichten. Idas Vater hockt in seinem Zirkuswohnwagen im Garten der Gro&szlig;mutter und s&auml;uft. Sie selbst folgt der Elefantendame Hollerbusch, die an den Zoo von Kyjiw verkauft wurde. Pruschmann schlie&szlig;t &bdquo;an Romane j&uuml;ngerer Autoren wie denen von Lukas Rietzschel oder Matthias J&uuml;gler an. Wie sie wartet allerdings auch Tina Pruschmann nicht mit endg&uuml;ltigen Erkl&auml;rungen auf, sondern beschreibt ostdeutsche Biografien in all ihrer Komplexit&auml;t und Widerspr&uuml;chlichkeit. Genau darin liegt die literarische Kraft ihres Romans&ldquo; (deutschlandfunk.de)",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1799900827",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "http://deposit.dnb.de/cgi-bin/dokserv?id=c35e1352b1c840568eb4e19f8dcbbf55&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
-        "hostLabel": "Inhaltstext",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "https://www.perlentaucher.de/buch/tina-pruschmann/bittere-wasser.html",
-        "hostLabel": "Rezension",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "https://www.ndr.de/kultur/buch/tipps/Bittere-Wasser-Beruehrender-Familienroman-von-Tina-Pruschmann,pruschmann100.html",
-        "hostLabel": "Rezension",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "https://www.deutschlandfunk.de/ida-und-die-elefanten-100.html",
-        "hostLabel": "Rezension",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "references": [
-      {
-        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1799900827",
-        "hostLabel": "Pruschmann, Tina: Bittere Wasser (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
-        "note": "",
-        "material": "",
-        "text": "Nachweis in der Sächsischen Bibliografie:"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "34972814",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "GO 80000 P972 B62.2022",
-        "mediatype": "  B",
-        "3d": "GO 80000 P972 B62.2022",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=GO%2080000%20P972%20B62.2022&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34972814",
-        "issue": "",
-        "colorcode": "1",
-        "statusphrase": "Ausleihbar",
-        "link": "",
-        "status": "N",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      },
-      {
-        "barcode": "34972813",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2023 8 002422",
-        "mediatype": "  B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, Versand per Fernleihe möglich",
-        "link": "",
-        "status": "PM1",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
+    "id": "0-1885170300",
     "nova": {
-      "newitem_date": "2023-03-01T00:00:00Z",
+      "newitem_date": "2024-04-19T00:00:00Z",
       "newitem_dates": [
-        "2023-03-01T00:00:00Z"
+        "2024-04-19T00:00:00Z"
       ]
     }
   },
   {
     "record": {
       "format": "Buch",
-      "title": "Der Dresdener Scheibensch&uuml;tzen-Gesellschaft bei ihrem Festmahle am 15. November 1841",
-      "contributor": ["Schiefner, Immanuel Gottlieb [VerfasserIn]", "Privilegirte Scheiben-Schützen-Gesellschaft"],
-      "publisher": "Dresden Ramming [1841] ",
-      "ispartof": [],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": ["Dresden", "Sch&uuml;tzenverein", "Sch&uuml;tzenfest", "Geschichte 1841"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1823048552",
-    "oa": 0,
-    "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://digital.slub-dresden.de/id184562002X",
-        "hostLabel": "... zum E-Book via Digitale Sammlungen der &lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "references": [
-      {
-        "link": "/id/0-184562002X",
-        "hostLabel": "Schiefner, Immanuel Gottlieb: Der Dresdener Scheibensch&amp;uuml;tzen-Gesellschaft bei ihrem Festmahle am 15. November 1841 (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Elektronische Reproduktion:"
-      },
-      {
-        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1823048552",
-        "hostLabel": "Privilegirte Scheiben-Sch&amp;uuml;tzen-Gesellschaft, Dresden: Der Dresdener Scheibensch&amp;uuml;tzen-Gesellschaft bei ihrem Festmahle am 15. November 1841 (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
-        "note": "",
-        "material": "",
-        "text": "Nachweis in der Sächsischen Bibliografie:"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "32528200",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "Km058 10770",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bitte Digitalisat benutzen, Original nur auf Anfrage über Anfrage",
-        "link": "",
-        "status": "PX",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2023-05-11T00:00:00Z",
-      "newitem_dates": [
-        "2023-05-11T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Retrograd",
-      "contributor": ["Stasig, Stig [FotografIn]", "Lebedev, Sergej [VerfasserIn von Zusatztexten]"],
-      "publisher": "[Skanderborg] Book Lab [2023] ",
-      "ispartof": [],
-      "identifier": ["9788794091183", "8794091188"],
-      "language": ["Englisch", "Russisch"],
-      "subject": ["Stasig, Stig", "Schwarzwei&szlig;fotografie", "Sowjetunion", "Mensch", "Geschichte 1981-1993"],
-      "description": "Fra de baltiske lande og Ukraine i vest, til Sibirien langt mod &oslash;st, Georgien, Armenien og Kaukasus i syd. I &aring;rene fra 1988 og 1993 rejste fotograf Stig Stasig rundt i Sovjetunionens kerneomr&aring;der og periferi og fotograferede livet p&aring; gader og str&aelig;der med sit Leica-kamera. Den 20. april udkommer fotografierne i fotobogen Retrograd, og selvom motiverne er 30 &aring;r gamle, er bogen en kommentar til Ruslands invasion af Ukraine, forklarer fotografen.00?Nutidens Rusland er et produkt af sin fortid: zartiden, revolutionen og Sovjet-regimet samt ikke mindst den kaotiske opbrudstid omkring 1990. Den eneste m&aring;de, vi kan g&oslash;re os h&aring;b om at forst&aring; Ruslands handlem&aring;de i dag, er ved at s&aelig;tte os ind i historien og den helt anderledes virkelighed, det russiske folk er og har v&aelig;ret underlagt,? siger Stig Stasig og forts&aelig;tter:0?Vi har en tendens til at pr&oslash;ve at forst&aring; Ruslands og Putins ageren ud fra vores egen opfattelse af frihed og demokrati. Hvad der virker absurd set fra vores synsvinkel, kan ofte forst&aring;s meget anderledes, n&aring;r man anskuer samme problematik fra russisk side?",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1856341968",
-    "oa": 0,
-    "thumbnail": "",
-    "copies": [
-      {
-        "barcode": "35041431",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2023 4 008432",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, Versand per Fernleihe möglich",
-        "link": "",
-        "status": "PM1",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2023-08-17T00:00:00Z",
-      "newitem_dates": [
-        "2023-08-17T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "The left in China: a political cartography",
-      "contributor": "Ruckus, Ralf [VerfasserIn]",
-      "publisher": "London Las Vegas Pluto Press 2023 ",
-      "ispartof": [],
-      "identifier": ["9780745342955", "0745342957"],
-      "language": "Englisch",
-      "subject": ["China", "Politische Einstellung", "Protest", "Geschichte 1949-2019"],
-      "description": "Tracing the history of left-wing, subversive and oppositional forces in the People&#039;s Republic of China over the last seventy years, Ralf Ruckus pulls back the curtain on Chinese politics.He looks at the labour strikes in the 1950s, the rebel uprising during the Cultural Revolution in the 1960s, the democracy movements in the 1970s and 1980s, the struggles of urban and migrant workers since the 1990s and 2000s, and women&#039;s forms of resistance until today. Each of these struggles inspired left-wing groups and movements that criticised or challenged the regime of the Chinese Communist Party, from Mao Zedong&#039;s rule to the regime under Xi Jinping.Is the country still socialist today, the Chinese Communist Party a left-wing organisation, and the leadership indeed Marxist? The book sorts out the confusion by presenting the fascinating history of social movements and left politics in the People&#039;s Republic up to the present day",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1838282548",
-    "oa": 0,
-    "thumbnail": "",
-    "linksRelated": [
-      {
-        "link": "http://www.dietmardreier.de/annot/426F6F6B446174617C7C393738303734353334323935357C7C434F50.jpg?sq=2",
-        "hostLabel": "Cover",
-        "note": "",
-        "material": "",
-        "text": ""
-      },
-      {
-        "link": "http://www.gbv.de/dms/bowker/toc/9780745342955.pdf",
-        "hostLabel": "Inhaltsverzeichnis ; PDF Dokument via &lt;span title=&quot;Gemeinsamer Bibliotheksverbund&quot;&gt;Verbundzentrale des GBV&lt;/span&gt;",
-        "note": "",
-        "material": "",
-        "text": ""
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "34806476",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Freihand",
-        "shelfmark": "NQ 9031 R912",
-        "mediatype": "  B",
-        "3d": "NQ 9031 R912",
-        "3d_link": "https://3d.slub-dresden.de/viewer?project_id=3&amp;search_key=NQ%209031%20R912&amp;language=de&amp;search_context1=zell1&amp;search_context2=FH1&amp;exemplar_id=34806476",
-        "issue": "",
-        "colorcode": "3",
-        "statusphrase": "Ausgeliehen, Vormerken möglich",
-        "link": "",
-        "status": "N",
-        "duedate": "11.02.2026",
-        "vormerken": "1",
-        "bestellen": "0"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2023-11-29T00:00:00Z",
-      "newitem_dates": [
-        "2023-11-29T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Francisci Pubitschka Priesters von der Gesellschaft Jesu Chronologische Geschichte B&ouml;hmens 4,1 = [4] Von den ersten K&ouml;nigen bis auf Karl den IVten : von Wratislaws Kr&ouml;nung bis auf Ottokarn den Iten",
-      "contributor": "Pubička, František [VerfasserIn]",
-      "publisher": "Prag Hraba 1778 ",
+      "title": "Anleitung f&uuml;r Versuchsringe: 6 Vortr&auml;ge gehalten auf dem Lehrgang f&uuml;r Versuchstechnik in Halle a. S. am 27. und 28. Juni 1924",
+      "contributor": "Deutsche Landwirtschafts-Gesellschaft",
+      "publisher": "Berlin Dt. Landwirtschafts-Ges. 1925 ",
       "ispartof": [
         {}
       ],
@@ -468,60 +427,24 @@
       "status": "",
       "rvk": ""
     },
-    "id": "0-776258923",
+    "id": "0-23257538X",
     "oa": 0,
     "thumbnail": "",
-    "linksAccess": [
-      {
-        "uri": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10874450-8",
-        "hostLabel": "... zum E-Book via &lt;span title=&quot;Münchener Digitalisierungszentrum&quot;&gt;Resolving-System des MDZ&lt;/span&gt; (Exemplar mit der Signatur: München, Bayerische Staatsbibliothek -- Res/4 Austr. 109 m-4 ; frei zugänglich)",
-        "note": "",
-        "material": "",
-        "intro": ""
-      }
-    ],
-    "references": [
-      {
-        "link": "/id/0-774314745",
-        "hostLabel": "Pubička, Franti&amp;scaron;ek: Francisci Pubitschka Priesters von der Gesellschaft Jesu Chronologische Geschichte B&amp;ouml;hmens ; 4,1 = [4]: Von den... (&lt;span class=&quot;reference_slub_logo&quot;&gt;SLUB&lt;/span&gt;)",
-        "note": "",
-        "material": "",
-        "text": "Elektronische Reproduktion:"
-      }
-    ],
     "copies": [
       {
-        "barcode": "34233380",
+        "barcode": "35280398",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
         "sublocation": "Magazin",
-        "shelfmark": "Hist.Bohem.108-4,1",
+        "shelfmark": "2025 8 002809",
         "mediatype": "B",
         "3d": "",
         "3d_link": "",
         "issue": "",
         "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
+        "statusphrase": "Bestellen zur Benutzung im Haus, Versand per Fernleihe möglich",
         "link": "",
-        "status": "P3",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      },
-      {
-        "barcode": "34494694",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "2024 4 008188",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung unter Aufsicht, kein Versand per Fernleihe, nur Kopienlieferung",
-        "link": "",
-        "status": "P3",
+        "status": "PM1",
         "duedate": "",
         "vormerken": "0",
         "bestellen": "1"
@@ -529,55 +452,46 @@
     ],
     "parts": {},
     "nova": {
-      "newitem_date": "2025-02-20T00:00:00Z",
+      "newitem_date": "2025-02-21T00:00:00Z",
       "newitem_dates": [
-        "2025-02-20T00:00:00Z"
+        "2025-02-21T00:00:00Z"
       ]
     }
   },
   {
     "record": {
       "format": "Buch",
-      "title": "Antigone: Bearbeitung von John von D&uuml;ffel : nach Sophokles, Euripides, Aischylos und den St&uuml;cken K&ouml;nig &Ouml;dipus, Sieben gegen Theben, Die Ph&ouml;nizierinnen und Antigone : Interlinear-&Uuml;bersetzung von Gregor Schreiner",
-      "contributor": ["Brune, Kathrin [HerausgeberIn]", "Städtische Theater Chemnitz"],
-      "publisher": "Chemnitz St&auml;dtische Theater Chemnitz gGmbH [2024] ",
+      "title": "Le plurivers d&#039;un artiste$a&agrave; partir de Bernard Koest",
+      "contributor": ["Soulages, François [HerausgeberIn]", "Koest, Bernard [IllustratorIn]"],
+      "publisher": "Paris L&#039;Harmattan [2025] ",
       "ispartof": [
         {}
       ],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": ["St&auml;dtische Theater Chemnitz", "Theaterst&uuml;ck", "Auff&uuml;hrung", "Geschichte 2024"],
+      "identifier": ["9782336471471", "2336471477"],
+      "language": "Französisch",
+      "subject": ["Koest, Bernard", "Fotomontage", "Fotografie"],
       "description": "",
       "status": "",
       "rvk": ""
     },
-    "id": "0-1919214011",
+    "id": "0-1921710152",
     "oa": 0,
     "thumbnail": "",
-    "references": [
-      {
-        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1919214011",
-        "hostLabel": "St&amp;auml;dtische Theater Chemnitz: Antigone (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
-        "note": "",
-        "material": "",
-        "text": "Nachweis in der Sächsischen Bibliografie:"
-      }
-    ],
     "copies": [
       {
-        "barcode": "35179602",
+        "barcode": "35177149",
         "location": "Zentralbibliothek",
         "location_code": "zell1",
         "sublocation": "Magazin",
-        "shelfmark": "Km067 17107",
+        "shelfmark": "2025 8 008118",
         "mediatype": "B",
         "3d": "",
         "3d_link": "",
         "issue": "",
         "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
+        "statusphrase": "Ausleihbar, bitte bestellen",
         "link": "",
-        "status": "PM2",
+        "status": "NM",
         "duedate": "",
         "vormerken": "0",
         "bestellen": "1"
@@ -585,65 +499,9 @@
     ],
     "parts": {},
     "nova": {
-      "newitem_date": "2025-05-05T00:00:00Z",
+      "newitem_date": "2025-05-13T00:00:00Z",
       "newitem_dates": [
-        "2025-05-05T00:00:00Z"
-      ]
-    }
-  },
-  {
-    "record": {
-      "format": "Buch",
-      "title": "Der Besucher: Kammerspiel von &Eacute;ric-Emmanuel Schmitt : Deutsch von Annette und Paul B&auml;cker = Le visiteur",
-      "contributor": ["Jablónska, Agnieszka [HerausgeberIn]", "Städtische Theater Chemnitz"],
-      "publisher": "Chemnitz St&auml;dtische Theater Chemnitz gGmbH [2024] ",
-      "ispartof": [
-        {}
-      ],
-      "identifier": "",
-      "language": "Deutsch",
-      "subject": ["St&auml;dtische Theater Chemnitz", "Theaterst&uuml;ck", "Auff&uuml;hrung", "Geschichte 2024"],
-      "description": "",
-      "status": "",
-      "rvk": ""
-    },
-    "id": "0-1923578049",
-    "oa": 0,
-    "thumbnail": "",
-    "references": [
-      {
-        "link": "https://swb.bsz-bw.de/DB=2.304/PPNSET?PPN=1923578049",
-        "hostLabel": "St&amp;auml;dtische Theater Chemnitz: Der Besucher (&lt;img src=&quot;/typo3conf/ext/slub_katalog/Resources/Public/Images/mega_collection/sxrm_icon.png&quot; width=&quot;12&quot; height=&quot;16&quot; class=&quot;mega_collection_logo_inline&quot; alt=&quot;Logo Sächsische Bibliografie&quot; /&gt;Säbi)",
-        "note": "",
-        "material": "",
-        "text": "Nachweis in der Sächsischen Bibliografie:"
-      }
-    ],
-    "copies": [
-      {
-        "barcode": "35182594",
-        "location": "Zentralbibliothek",
-        "location_code": "zell1",
-        "sublocation": "Magazin",
-        "shelfmark": "Km067 17498",
-        "mediatype": "B",
-        "3d": "",
-        "3d_link": "",
-        "issue": "",
-        "colorcode": "2",
-        "statusphrase": "Bestellen zur Benutzung im Haus, kein Versand per Fernleihe, nur Kopienlieferung",
-        "link": "",
-        "status": "PM2",
-        "duedate": "",
-        "vormerken": "0",
-        "bestellen": "1"
-      }
-    ],
-    "parts": {},
-    "nova": {
-      "newitem_date": "2025-06-30T00:00:00Z",
-      "newitem_dates": [
-        "2025-06-30T00:00:00Z"
+        "2025-05-13T00:00:00Z"
       ]
     }
   }
