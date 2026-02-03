@@ -64,6 +64,10 @@ eval_month_values <- function(field) {
 }
 
 get_sid_via_id <- function(field) {
+  gsub("ai-|finc-", "", gsub("(?<!finc)(?<!ai)-.*", "", field, perl = TRUE))
+}
+
+get_sid_unique_via_id <- function(field) {
   sids <- unique(gsub("(?<!finc)(?<!ai)-.*", "", field, perl = TRUE))
   sids <- unique(gsub("ai-|finc-", "", sids))
   sids[order(as.integer(sids))]
