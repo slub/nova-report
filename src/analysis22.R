@@ -29,7 +29,7 @@ jsonlite::stream_out(newitem22_records_sample, file("data-raw/newitem-records-20
 purchase22_records <- read_zenodo_jsonl_gz("https://zenodo.org/records/10251277/files/slub-nova-2022-purchase-date.jsonl.gz?download=1")
 
 purchase22_acquisition_type <- read_zenodo_csv("https://zenodo.org/records/10251277/files/slub-nova-2022-acquisition-code.csv?download=1")
-#readr::write_csv(purchase22_acquisition_type, "data-raw/purchase-2022-acquisition-type.csv")
+#readr::write_csv(purchase22_acquisition_type, "data-raw/purchase-acquisition-type-2022.csv")
 
 purchase22_records_series_daily <- eval_date_values(purchase22_records$de14_purchase_date_mv)
 readr::write_csv(purchase22_records_series_daily, "data-raw/purchase-records-2022-series-daily.csv")
