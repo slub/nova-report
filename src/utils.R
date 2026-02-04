@@ -73,6 +73,23 @@ get_sid_unique_via_id <- function(field) {
   sids[order(as.integer(sids))]
 }
 
+get_ignored_acquisition_types <- function() {
+  c(
+    "A",   # Bestellung abgelegt
+    "DP",  # Depositum
+    "FL",  # Fernleihe
+    "R",   # Retrokatalogisierung
+    "RV",  # Restitutionsverfahren
+    "X",   # Altdaten
+    "Y"    # EFRE-Retro
+  )
+}
+
+pat_ignored_acquisition_types <- function() {
+  acquisition_types <- get_ignored_acquisition_types()
+  paste0("^", acquisition_types, "$", collapse = "|")
+}
+
 slubkat_get_id_url <- function(id) {
   paste0(
     "https://katalog.slub-dresden.de/id/", id,
